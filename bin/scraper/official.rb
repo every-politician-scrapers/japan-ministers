@@ -7,17 +7,27 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      name_and_position[0]
     end
 
     def position
-      noko.css('.position').text.tidy
+      name_and_position[1]
+    end
+
+    private
+
+    def name_and_position
+      lines.first.split(':').map(&:tidy)
+    end
+
+    def lines
+      noko.xpath('text()').map(&:text)
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('ul.enMinisterList li')
     end
   end
 end
