@@ -27,7 +27,8 @@ class MemberList
 
   class Members
     def member_container
-      noko.css('ul.enMinisterList li')
+      # TODO: drop the first, to get State Ministers/Vice-Ministers
+      noko.css('ul.enMinisterList').first.css('li')
     end
   end
 end
