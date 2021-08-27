@@ -10,8 +10,14 @@ class MemberList
     # one for now, unless they're also in this list
     # TODO: ensure Wikidata knows *all* of the positions
     OTHER_POSITIONS = [
+      'Chairperson of the National Public Safety Commission',
+      'Deputy Prime Minister',
+      'Minister in charge of Information Technology Policy',
+      'Minister of Economy,Trade and Industry',
       'Minister of the Environment',
-      'Minister of State for Regulatory Reform'
+      'Minister of Finance',
+      'Minister of State for Regulatory Reform',
+      'Minister of State for Science and Technology Policy'
     ].freeze
 
     def name
