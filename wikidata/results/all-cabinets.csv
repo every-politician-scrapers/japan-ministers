@@ -43,9 +43,11 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q5366061,Q5366061,1888-04-30,11,,,1889-12-25,11,,,Q529012,Cabinet of Japan,,,Q1045014,Q1045014,Q583746,First Yamagata Cabinet,Q1045014,Q1045014,Q22960725,Q22960725
 ,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,Q529012,Cabinet of Japan,,,,,,,Q5366061,Q5366061,Q583746,First Yamagata Cabinet
 ,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q529012,Cabinet of Japan,,,Q5366061,Q5366061,Q8010527,Q8010527,Q5366061,Q5366061,Q8010527,Q8010527
+,Q7081714,Okada Cabinet,1934-01-01,9,1934-01-01,9,1936-01-01,9,,,Q529012,Cabinet of Japan,,,,,,,Q1720277,Q1720277,Q11486424,Hirota's Gabinet
 ,Q11486424,Hirota's Gabinet,1936-03-09,11,,,1937-02-02,11,,,Q529012,Cabinet of Japan,,,,,,,Q7081714,Okada Cabinet,Q11532865,Q11532865
 ,Q428100,Shidehara Cabinet,1945-10-09,11,,,1946-05-22,11,,,Q529012,Cabinet of Japan,,,Q1252961,Q1252961,Q382498,First Yoshida Cabinet,Q1252961,Q1252961,Q382498,First Yoshida Cabinet
 ,Q382498,First Yoshida Cabinet,1946-05-22,11,,,1947-01-31,11,,,Q529012,Cabinet of Japan,,,Q428100,Shidehara Cabinet,Q16511268,Q16511268,Q428100,Shidehara Cabinet,Q1720042,Katayama Cabinet
+,Q16511268,Q16511268,1947-01-31,11,,,1947-05-24,11,,,Q529012,Cabinet of Japan,,,Q382498,First Yoshida Cabinet,,,,,,
 ,Q1720042,Katayama Cabinet,1947-05-24,11,1947-05-24,11,1948-03-10,11,1948-03-10,11,Q529012,Cabinet of Japan,,,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet
 ,Q980227,Ashida Cabinet,1948-03-10,11,,,1948-10-15,11,,,Q529012,Cabinet of Japan,,,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet
 ,Q1720803,Second Yoshida Cabinet,1948-10-15,11,,,1949-02-16,11,,,Q529012,Cabinet of Japan,,,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet
