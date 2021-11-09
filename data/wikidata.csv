@@ -1,31 +1,24 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q132596,ASO Taro,Tarō Asō,male,1940-09-20T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q1767791,Deputy Prime Minister,Q132596-62A4CCC1-81AF-4A9C-9859-44A2A14615D4
-Q132596,ASO Taro,Tarō Asō,male,1940-09-20T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q6500849,Minister of Finance,Q132596-79ab04c6-4372-454e-7b69-225449e6f8af
-Q132596,ASO Taro,Tarō Asō,male,1940-09-20T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394683,Minister of State for Financial Services,Q132596-1269AE65-CA35-4462-8ECF-76E29819929B
-Q359480,Fumio Kishida,Fumio Kishida,male,1957-07-29T00:00:00Z,11,,Q274948,Prime Minister of Japan,Q359480-d64e4cec-497a-0651-7855-065fc09d02db
-Q1502275,Genjirō Kaneko,Genjirō Kaneko,male,1944-05-08T00:00:00Z,11,,Q8191055,"Minister of Agriculture, Forestry and Fisheries",Q1502275-d7808e01-4d74-84f6-06cc-270d005ded6e
-Q7678622,HIRAI Takuya,Takuya Hirai,male,1958-01-25T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q108294861,Minister in charge of Information Technology Policy,Q7678622-9278D034-3C71-4E81-A969-23C3C55AB864
-Q7497583,INOUE Shinji,Shinji Inoue,male,1969-10-07T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q6866352,Minister of State for Consumer Affairs and Food Safety,Q7497583-D8D11E9D-98FB-483A-826B-C16F19CEE6D0
-Q7497583,INOUE Shinji,Shinji Inoue,male,1969-10-07T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394679,Minister of State for Science and Technology Policy,Q7497583-FB884733-E225-4EFC-AF9B-373B1F40DA4F
-Q5770884,KAJIYAMA Hiroshi,Hiroshi Kajiyama,male,1955-10-18T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q6866106,"Minister of Economy,Trade and Industry",Q5770884-1C955180-CD85-4391-81DD-3930C07F5A02
-Q5770884,KAJIYAMA Hiroshi,Hiroshi Kajiyama,male,1955-10-18T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394669,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Q5770884-7EED437F-C507-4DFB-8C88-526F87A6E9F5
-Q6378155,KATO Katsunobu,Katsunobu Kato,male,1955-11-22T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q1078482,Chief Cabinet Secretary,Q6378155-E115597F-18D7-4018-B1C3-A55C6AF0CE7D
-Q661410,KOIZUMI Shinjiro,Shinjirō Koizumi,male,1981-04-14T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394672,Minister of State for Nuclear Emergency Preparedness,Q661410-D295D9E8-1CD6-43D1-88F0-18E295A15A78
-Q661410,KOIZUMI Shinjiro,Shinjirō Koizumi,male,1981-04-14T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q1104488,Minister of the Environment,Q661410-036B5664-9FBE-4119-A188-90E9CA1861B0
-Q1161024,KONO Taro,Taro Kono,male,1963-01-10T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394675,Minister of State for Okinawa and Northern Territories Affairs,Q1161024-42CFE819-38BF-4F61-8945-7A01CD3B91A3
-Q1161024,KONO Taro,Taro Kono,male,1963-01-10T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394684,Minister of State for Regulatory Reform,Q1161024-7AD847A7-A0CC-40D5-B17E-6654C471ED8A
-Q11570409,Karen Makishima,Karen Makishima,female,1976-11-01T00:00:00Z,11,,Q108373704,Minister of Digital of Japan,Q11570409-42773053-4c0f-082d-4a71-1d9a1caf5060
-Q11570409,Karen Makishima,Karen Makishima,female,1976-11-01T00:00:00Z,11,,Q11394684,Minister of State for Regulatory Reform,Q11570409-f1ca7c9c-4a60-25b6-5fac-7006959251d2
-Q11629931,Kosaburo Nishime,Kosaburo Nishime,male,1954-08-07T00:00:00Z,11,,Q10920986,minister of Japan,Q11629931-bfe2a389-496f-1beb-e08b-551f34a3f761
-Q7680979,MARUKAWA Tamayo,Tamayo Marukawa,female,1971-01-19T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394678,Minister of State for Gender Equality,Q7680979-DF8B0233-F9A9-408C-8255-AB5DF63771D8
-Q8050121,NISHIMURA Yasutoshi,Yasutoshi Nishimura,male,1962-10-15T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394680,Minister of State for Economic and Fiscal Policy,Q8050121-A7E1759B-A374-43A6-BB21-055E45B2D8E7
-Q7706925,SAKAMOTO Tetsushi,Tetsushi Sakamoto,male,1950-11-06T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q17224475,Minister of State for Measures for Declining Birthrate,Q7706925-1275CCCD-BD19-4F3B-8EB1-5DB60529D46D
-Q7426414,Satoshi Ninoyu,Satoshi Ninoyu,male,1944-09-13T00:00:00Z,11,,Q1575411,Chairman of the National Public Safety Commission,Q7426414-49efafbe-4714-dc7c-adf2-ce1881a42532
-Q7496422,Shigeyuki Goto,Shigeyuki Goto,male,1955-12-09T00:00:00Z,11,,Q841962,"Minister of Health, Labour and Welfare",Q7496422-b32f581a-4c6f-9e43-3a21-06c6ef642884
-Q1340817,TANAHASHI Yasufumi,Yasufumi Tanahashi,male,1963-02-11T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q1575411,Chairperson of the National Public Safety Commission,Q1340817-EC7833F9-0459-48BB-9656-249DC37DD492
-Q1340817,TANAHASHI Yasufumi,Yasufumi Tanahashi,male,1963-02-11T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,Q11394685,Minister of State for Disaster Management,Q1340817-96AFCE41-CFC3-4E69-99AE-C989B54A0F53
-Q11461955,Takayuki Kobayashi,Takayuki Kobayashi,male,1974-11-29T00:00:00Z,11,,Q10920986,minister of Japan,Q11461955-f9653bdd-4e3e-d7b0-df04-56df37a7c25f
-Q7678622,Takuya Hirai,Takuya Hirai,male,1958-01-25T00:00:00Z,11,,Q108373704,Minister of Digital of Japan,Q7678622-88d62aba-4244-00de-f515-3531d2975add
-Q704345,Tsuyoshi Yamaguchi,Tsuyoshi Yamaguchi,male,1954-10-03T00:00:00Z,11,,Q1104488,Minister of the Environment,Q704345-c09ed8c8-4c9f-aad6-838b-46fa5597fd98
-Q8050092,Yasushi Kaneko,Yasushi Kaneko,male,1961-02-27T00:00:00Z,11,,Q1578065,Minister of Internal Affairs and Communications,Q8050092-2ea4878b-4925-c674-34ba-be7593e304fb
-Q8056070,Yoshihisa Furukawa,Yoshihisa Furukawa,male,1965-08-03T00:00:00Z,11,,Q841904,Minister of Justice,Q8056070-991b0e2a-4503-838e-9263-45c3b63f9f9a
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q5209617,YAMAGIWA Daishiro,Daishiro Yamagiwa,male,1968-09-12T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394680,Minister of State for Economic and Fiscal Policy,Q5209617-FA0F90F8-0D29-4728-B478-B666D5D7CB60
+Q359480,KISHIDA Fumio,Fumio Kishida,male,1957-07-29T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q274948,Prime Minister,Q359480-d64e4cec-497a-0651-7855-065fc09d02db
+Q1502275,Genjirō Kaneko,Genjirō Kaneko,male,1944-05-08T00:00:00Z,11,,,Q8191055,"Minister of Agriculture, Forestry and Fisheries",Q1502275-d7808e01-4d74-84f6-06cc-270d005ded6e
+Q5770251,MATSUNO Hirokazu,Hirokazu Matsuno,male,1962-09-13T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q1078482,Chief Cabinet Secretary,Q5770251-32F73579-B29C-4F39-9AF9-05BC151FF3C0
+Q11570409,Karen Makishima,Karen Makishima,female,1976-11-01T00:00:00Z,11,,,Q108373704,Minister of Digital of Japan,Q11570409-42773053-4c0f-082d-4a71-1d9a1caf5060
+Q11570409,MAKISHIMA Karen,Karen Makishima,female,1976-11-01T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394684,Minister of State for Regulatory Reform,Q11570409-f1ca7c9c-4a60-25b6-5fac-7006959251d2
+Q6389383,WAKAMIYA Kenji,Kenji Wakamiya,male,1961-09-02T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q6866352,"Minister of State for Special Mission（Consumer Affairs and Food Safety,Intellectual Property Strategy,Cool Japan Strategy）",Q6389383-119DB2E5-F01B-47DC-8E2B-6B3641145E47
+Q6426211,Koichi Hagiuda,Koichi Hagiuda,male,1963-08-31T00:00:00Z,11,,,Q18048276,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Q6426211-004F74A2-AD7D-40B7-BA1A-85E9C7436AAB
+Q6426211,HAGIUDA Koichi,Koichi Hagiuda,male,1963-08-31T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q18048276,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Q6426211-773A9DDA-2482-4F3A-A33B-A5020110AF7A
+Q6426211,Koichi Hagiuda,Koichi Hagiuda,male,1963-08-31T00:00:00Z,11,,,Q6866106,"Minister of Economy, Trade and Industry",Q6426211-44067496-9867-4331-A3E4-DE7582D69589
+Q11629931,NISHIME Kosaburo,Kosaburo Nishime,male,1954-08-07T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394675,Minister of State for Okinawa and Northern Territories Affairs,Q11629931-6ED57429-6EDF-435A-AA17-E7307788134D
+Q7426414,NINOYU Satoshi,Satoshi Ninoyu,male,1944-09-13T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394685,Minister of State for Disaster Management and Ocean Policy,Q7426414-6BA2DF06-D46E-427C-B96A-0D855DA20ACD
+Q7426414,NINOYU Satoshi,Satoshi Ninoyu,male,1944-09-13T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q1575411,Chairperson of the National Public Safety Commission,Q7426414-49efafbe-4714-dc7c-adf2-ce1881a42532
+Q459698,NODA Seiko,Seiko Noda,female,1960-09-03T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q20041398,Minister of State for Regional Revitalization,Q459698-B7B13713-416E-4C9B-BCD8-F4A00922AA71
+Q7496422,Shigeyuki Goto,Shigeyuki Goto,male,1955-12-09T00:00:00Z,11,,,Q841962,"Minister of Health, Labour and Welfare",Q7496422-b32f581a-4c6f-9e43-3a21-06c6ef642884
+Q3482658,SUZUKI Shunichi,Shun'ichi Suzuki,male,1953-04-13T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394683,Minister of State for Financial Services,Q3482658-97B7747A-DBE0-4EE1-850C-897F3CE1631C
+Q3482658,SUZUKI Shunichi,Shun'ichi Suzuki,male,1953-04-13T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q6500849,Minister of Finance,Q3482658-38706FB6-2992-4B66-9DAF-69A52D1394D8
+Q11461955,KOBAYASHI Takayuki,Takayuki Kobayashi,male,1974-11-29T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394679,Minister of State for Science and Technology Policy,Q11461955-f9653bdd-4e3e-d7b0-df04-56df37a7c25f
+Q7678622,HIRAI Takuya,Takuya Hirai,male,1958-01-25T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-08-27T00:00:00Z,Q108294861,Minister in charge of Information Technology Policy,Q7678622-9278D034-3C71-4E81-A969-23C3C55AB864
+Q704345,YAMAGUCHI Tsuyoshi,Tsuyoshi Yamaguchi,male,1954-10-03T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q1104488,Minister of the Environment,Q704345-c09ed8c8-4c9f-aad6-838b-46fa5597fd98
+Q704345,YAMAGUCHI Tsuyoshi,Tsuyoshi Yamaguchi,male,1954-10-03T00:00:00Z,11,https://www.cao.go.jp/en/minister/index.html,2021-11-09T00:00:00Z,Q11394672,Minister of State for Nuclear Emergency Preparedness,Q704345-14EBAC62-FC6C-40F6-A8FF-14058D02AE9E
+Q8050092,Yasushi Kaneko,Yasushi Kaneko,male,1961-02-27T00:00:00Z,11,,,Q1578065,Minister of Internal Affairs and Communications,Q8050092-2ea4878b-4925-c674-34ba-be7593e304fb
+Q8056070,Yoshihisa Furukawa,Yoshihisa Furukawa,male,1965-08-03T00:00:00Z,11,,,Q841904,Minister of Justice,Q8056070-991b0e2a-4503-838e-9263-45c3b63f9f9a
