@@ -24,6 +24,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11649283,Kantaro Suzuki cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q10855343,Q10855343,Q1252961,Q1252961
 ,Q11657764,Q11657764,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11483190,Q11483190,Q11604014,Q11604014
 ,Q11671046,Q11671046,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1719944,Q1719944,Q11399065,Q11399065
+,Q109342903,Second Kishida Cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,Q108756771,Kishida Cabinet,,,,,,
 ,Q11270490,Q11270490,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1720275,Second Saionji Cabinet,Q10295967,Q10295967
 ,Q1045014,Q1045014,,,,,1888-01-01,9,,,Q529012,Cabinet of Japan,,,,,Q5366061,Q5366061,,,Q5366061,Q5366061
 ,Q1252961,Q1252961,,,,,,,,,Q529012,Cabinet of Japan,,,,,Q428100,Shidehara Cabinet,Q11649283,Kantaro Suzuki cabinet,Q428100,Shidehara Cabinet
@@ -159,4 +160,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),2018-10-02,11,,,2019-09-11,11,,,Q529012,Cabinet of Japan,,,Q42479041,Fourth S. Abe Cabinet,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),,,,
 ,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),2019-09-11,11,,,2020-09-16,11,,,Q529012,Cabinet of Japan,,,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q99372867,Suga Cabinet,,,,
 ,Q99372867,Suga Cabinet,2020-09-16,11,,,2021-10-04,11,,,Q529012,Cabinet of Japan,,,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),Q108756771,Kishida Cabinet,,,,
-,Q108756771,Kishida Cabinet,2021-10-04,11,,,,,,,Q529012,Cabinet of Japan,,,Q99372867,Suga Cabinet,,,,,,
+,Q108756771,Kishida Cabinet,2021-10-04,11,,,,,2021-11-10,11,Q529012,Cabinet of Japan,,,Q99372867,Suga Cabinet,Q109342903,Second Kishida Cabinet,,,,
