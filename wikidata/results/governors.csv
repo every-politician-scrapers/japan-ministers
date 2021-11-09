@@ -1,0 +1,49 @@
+prefecture,prefectureLabel,position,positionLabel,person,personLabel,start,psid
+Q80434,Aichi Prefecture,Q51199698,governor of Aichi Prefecture,Q1617350,Hideaki Ōmura,2011-02-15,Q1617350-01d25f20-4a04-75ab-7d90-743f4f9d4371
+Q81863,Akita Prefecture,Q51199071,governor of Akita Prefecture,Q438468,Norihisa Satake,2009-04-20,Q438468-fc96b382-406a-27e4-3410-61464da06f89
+Q71699,Aomori Prefecture,Q51198747,governor of Aomori Prefecture,Q174982,Shingo Mimura,2003-06-29,Q174982-b4ad69e6-4c09-4b31-979b-b029c0a44043
+Q80011,Chiba Prefecture,Q51199490,governor of Chiba Prefecture,Q11568706,Toshihito Kumagai,2021-04-05,Q11568706-794de32d-4a1c-1805-fb57-1150f8b61800
+Q123376,Ehime Prefecture,Q11493583,governor of Ehime Prefecture,Q2438992,Tokihiro Nakamura,2010-12-01,Q2438992-155bd249-4805-c9fc-cc05-bd7b583fb3de
+Q133879,Fukui Prefecture,Q51199499,governor of Fukui Prefecture,Q127759,Issei Nishikawa,2003-04-23,Q127759-7f727d21-4a21-eb7a-ae0c-da99df3068c3
+Q123258,Fukuoka Prefecture,Q51200134,governor of Fukuoka Prefecture,,,,
+Q71707,Fukushima Prefecture,Q51199273,governor of Fukushima Prefecture,Q17989197,Masao Uchibori,2014-11-12,Q17989197-24b6ec3c-4011-1fef-7e46-5e13a9f92a75
+Q131277,Gifu Prefecture,Q51199690,governor of Gifu Prefecture,Q982638,Hajime Furuta,2005-02-06,Q982638-C814B716-C851-4615-BBA5-A6806B5B4853
+Q129499,Gunma Prefecture,Q51199288,governor of Gunma Prefecture,Q1655599,Ichita Yamamoto,2019-07-28,Q1655599-dae9db6c-485c-8eaf-941b-8a4c80b0e91e
+Q617375,Hiroshima Prefecture,Q51200009,governor of Hiroshima Prefecture,Q1485068,Hidehiko Yuzaki,2009-11-29,Q1485068-9bf85c95-41fc-4d39-f100-ea37cdf4a33e
+Q1037393,Hokkaido Prefecture,Q33134383,Governor of Hokkaidō Prefecture,Q11649100,Naomichi Suzuki,2019-04-23,Q11649100-6fb91a4d-309c-4fe7-a4fc-875e19ca88b3
+Q130290,Hyōgo Prefecture,Q51199843,governor of Hyōgo Prefecture,Q107917854,Motohiko Saitō,2021-08-01,Q107917854-ab7e4cfd-4b5d-7632-ecb8-ca96450ad069
+Q83273,Ibaraki Prefecture,Q51199276,governor of Ibaraki Prefecture,Q38081041,Kazuhiko Ōigawa,2017-09-26,Q38081041-50afa532-4abb-4375-c89a-e6027b175320
+Q131281,Ishikawa Prefecture,Q51199497,governor of Ishikawa Prefecture,Q982469,Masanori Tanimoto,1994-03-27,Q982469-f76556d6-4d48-8786-a620-90e805b745b3
+Q48326,Iwate Prefecture,Q51198750,governor of Iwate Prefecture,Q49869,Takuya Tasso,2007-04-08,Q49869-8d615fed-4614-6856-8759-3413722006c4
+Q161454,Kagawa Prefecture,Q51200015,governor of Kagawa Prefecture,Q1738107,Keizō Hamada,2010-09-05,Q1738107-2c60de27-4d8a-222c-e5e0-02454cfe68c7
+Q15701,Kagoshima Prefecture,Q51200145,governor of Kagoshima Prefecture,Q11354596,Satoshi Mitazono,2016-07-28,Q11354596-84eb94a9-42df-4bbe-4abb-6ecc04ec3a76
+Q127513,Kanagawa Prefecture,Q51199494,governor of Kanagawa Prefecture,Q655960,Yūji Kuroiwa,2011-04-23,Q655960-708113a6-4033-6cd6-488e-7372a0b34e25
+Q130308,Kumamoto Prefecture,Q51200141,governor of Kumamoto Prefecture,Q1658176,Ikuo Kabashima,2008-04-16,Q1658176-17013fc4-4f33-9e59-74d4-106554d405b4
+Q120730,Kyōto Prefecture,Q27697103,governor of Kyoto,Q50824931,Takatoshi Nishiwaki,2018-04-16,Q50824931-A2D9E8AD-A482-44DA-905E-CD85D9FA5A62
+Q134093,Kōchi Prefecture,Q51200133,governor of Kōchi Prefecture,Q656644,Masanao Ozaki,2007-12-07,Q656644-fe9b9afc-48c6-8be7-4633-8b3f7c3031a6
+Q128196,Mie Prefecture,Q51199837,governor of Mie Prefecture,Q1303796,Eikei Suzuki,2011-04-21,Q1303796-4314ae57-47bf-1b4a-fc85-e5933036bec1
+Q47896,Miyagi Prefecture,Q51199070,governor of Miyagi Prefecture,Q377940,Yoshihiro Murai,2005-11-21,Q377940-b4405de6-434e-0a86-2939-22db772afb27
+Q130300,Miyazaki Prefecture,Q51200144,governor of Miyazaki Prefecture,Q1804854,Shunji Kōno,2011-01-21,Q1804854-353977f9-4965-6329-6db3-21dce90b56ef
+Q127877,Nagano Prefecture,Q51199689,governor of Nagano Prefecture,Q2280320,Shuichi Abe,2010-08-01,Q2280320-9f9c0354-42aa-e745-70fa-d09f213134a3
+Q169376,Nagasaki Prefecture,Q51200139,governor of Nagasaki Prefecture,Q52349,Hōdō Nakamura,2010-03-02,Q52349-9234e14c-44b5-334e-61ed-0f80d4c009d0
+Q131287,Nara Prefecture,Q51199845,governor of Nara Prefecture,Q1247261,Shōgo Arai,2007-05-03,Q1247261-cf0cdba9-444e-f38c-e062-819db04a7938
+Q132705,Niigata Prefecture,Q19962694,governor of Niigata Prefecture,Q54913364,Hideyo Hanazumi,2018-06-10,Q54913364-cf968bd5-473e-a169-5431-3dbd0388b808
+Q132936,Okayama Prefecture,Q51200007,governor of Okayama Prefecture,Q11379176,Ryūta Ibaragi,2012-11-12,Q11379176-fdf7eaa1-4b38-90e0-bc0e-2ee93af8c54a
+Q766445,Okinawa Prefecture,Q51200146,governor of Okinawa Prefecture,Q11572466,Denny Tamaki,2018-10-04,Q11572466-ce423503-4abc-bf49-fe6b-8e624663a07f
+Q160420,Saga Prefecture,Q51200136,governor of Saga Prefecture,Q18818272,Yoshinori Yamaguchi,2015-01-14,Q18818272-350b2d27-440f-6ebc-7078-b9d69122d9a6
+Q128186,Saitama Prefecture,Q51199298,governor of Saitama Prefecture,Q638431,Kiyoshi Ueda,2003-09-01,Q638431-ee6a497d-4661-d8bd-f59c-550f3423861e
+Q128186,Saitama Prefecture,Q51199298,governor of Saitama Prefecture,Q6140287,Motohiro Ōno,2019-01-01,Q6140287-e6c650c4-4eaa-ec72-9137-801312be7302
+Q131358,Shiga Prefecture,Q51199840,governor of Shiga Prefecture,Q7676684,Taizo Mikazuki,2014-07-20,Q7676684-6deb4176-4674-2291-201a-f95fe53bdfb1
+Q132751,Shimane Prefecture,Q51200006,governor of Shimane Prefecture,Q189287,Zenbee Mizoguchi,2007-04-30,Q189287-3a012340-42ad-3b9e-2307-575ccbb87c1a
+Q131320,Shizuoka Prefecture,Q51199693,governor of Shizuoka Prefecture,Q1505020,Heita Kawakatsu,2009-07-07,Q1505020-0e0534c1-48f2-fa3c-f6eb-dafa8e998b6c
+Q44843,Tochigi Prefecture,Q51199279,governor of Tochigi Prefecture,Q455915,Tomikazu Fukuda,2004-12-09,Q455915-5698516e-4e35-7066-bc65-2da1a08edd75
+Q160734,Tokushima Prefecture,Q51200013,governor of Tokushima Prefecture,Q1670854,Kamon Iizumi,2003-05-18,Q1670854-8ea06c19-4e10-9c13-4b88-e92230fd3fe0
+Q1490,Tokyo,Q11525354,Governor of Tokyo,Q261703,Yuriko Koike,2016-08-02,Q261703-c5e8e333-4c5b-69d8-be3e-81fa0c764604
+Q133935,Tottori Prefecture,Q51200002,governor of Tottori Prefecture,Q1326985,Hirai Shinji,2007-04-13,Q1326985-0cdd516e-43fd-8bcc-6ef8-954009dc6f45
+Q132929,Toyama Prefecture,Q51199496,governor of Toyama Prefecture,Q50640705,Hachiro Nitta,2020-11-09,Q50640705-62f15103-4f38-cce0-cfcc-6eea13720cb8
+Q131314,Wakayama Prefecture,Q51199847,governor of Wakayama Prefecture,Q453168,Yoshinobu Nisaka,2006-12-17,Q453168-fc1f5c8d-42ff-5817-1bf9-b68ca93d21ac
+Q125863,Yamagata,Q51199075,governor of Yamagata Prefecture,Q529418,Mieko Yoshimura,2009-02-14,Q529418-42f6268f-4226-b30e-b26a-e6059f26aaa3
+Q127264,Yamaguchi Prefecture,Q51200012,governor of Yamaguchi Prefecture,Q15830756,Tsugumasa Muraoka,2014-02-25,Q15830756-6043d43d-43de-42b4-f56a-ae272d73d1cb
+Q132720,Yamanashi Prefecture,Q51199686,governor of Yamanashi Prefecture,Q5872336,Hitoshi Goto,2015-02-16,Q5872336-f6bc6194-4d5e-db04-d6e7-6c433fb3a17d
+Q133924,Ōita Prefecture,Q51200142,governor of Ōita Prefecture,Q1736802,Katsusada Hirose,2003-04-28,Q1736802-a83bb638-409c-7650-2b78-7f73adcb0de0
+Q122723,Ōsaka Prefecture,Q15063280,Governor of Osaka Prefecture,Q21529384,Hirofumi Yoshimura,2019-04-08,Q21529384-c612e874-44d5-809b-7237-0106a5f4a64c
