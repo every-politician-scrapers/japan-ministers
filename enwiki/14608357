@@ -1,0 +1,222 @@
+{
+  "title": "Masanori Tanimoto",
+  "pageID": 14608357,
+  "categories": [
+    "1945 births",
+    "Living people",
+    "Politicians from Hyōgo Prefecture",
+    "Kyoto University alumni",
+    "Governors of Ishikawa Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Masanori Tanimoto (谷本 正憲) is the governor of Ishikawa Prefecture in Japan, first elected in 1994.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ishikawa Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "In 2006 he won his fourth election and has been reelected since then, most recently to 2018 to his seventh term.",
+              "links": [
+                {
+                  "text": "election",
+                  "type": "internal",
+                  "page": "2006 Ishikawa gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1945",
+          "month": "4",
+          "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Masanori Tanimoto",
+          "kanji": "谷本 正憲",
+          "romaji": "Tanimoto Masanori",
+          "extra": "born 16 April 1945",
+          "template": "nihongo"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "before": "Yōichi Nakanishi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Ishikawa Prefecture",
+          "years": "1994–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "incumbent",
+          "template": "s-aft"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Masanori Tanimoto"
+          },
+          "native_name": {
+            "text": "谷本 正憲"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "office": {
+            "text": "Governor of Ishikawa Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ishikawa Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 March 1994"
+          },
+          "alma_mater": {
+            "text": "Kyoto University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyoto University"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Yōichi Nakanishi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yōichi Nakanishi"
+              }
+            ]
+          },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
+          "birth_date": {
+            "text": "April 16, 1945"
+          },
+          "birth_place": {
+            "text": "Nishiwaki, Hyōgo, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nishiwaki, Hyōgo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.japantimes.co.jp/news/2018/03/12/national/politics-diplomacy/incumbent-tanimoto-wins-seventh-term-ishikawa-prefectures-gubernatorial-election/",
+          "title": "Masanori Tanimoto rolls to seventh term in Ishikawa gubernatorial election, becoming Japan's longest-serving governor",
+          "work": "Japan Times",
+          "date": "2018-03-12",
+          "access-date": "2021-06-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Premium passport",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premium passport"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "url": "https://web.archive.org/web/20201029065753/http://tanimoto-masanori.com/",
+          "date": "2020-10-29",
+          "template": "webarchive"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-1940s-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "title": "Tsugumasa Muraoka",
+  "pageID": 46771072,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "People from Yamaguchi Prefecture",
+    "University of Tokyo alumni",
+    "Governors of Yamaguchi Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tsugumasa Muraoka (村岡 嗣政) is a Japanese politician and the current governor of Yamaguchi Prefecture in Japan.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yamaguchi Prefecture"
+                }
+              ]
+            },
+            {
+              "text": "He was first elected in 2014, and re-elected in 2018.",
+              "links": [
+                {
+                  "text": "in 2018",
+                  "type": "internal",
+                  "page": "2018 Yamaguchi gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "y",
+          "year": "1972",
+          "month": "12",
+          "day": "7",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Tsugumasa Muraoka",
+          "kanji": "村岡 嗣政",
+          "romaji": "Muraoka Tsugumasa",
+          "extra": "born 7 December 1972",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tsugumasa Muraoka"
+          },
+          "native_name": {
+            "text": "村岡 嗣政"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "office": {
+            "text": "Governor of Yamaguchi Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yamaguchi Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 February 2014"
+          },
+          "predecessor": {
+            "text": "Shigetarō Yamamoto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shigetarō Yamamoto"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 7, 1972"
+          },
+          "birth_place": {
+            "text": "Ube, Yamaguchi, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ube, Yamaguchi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tokyo (BEc in 1996)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              },
+              {
+                "text": "BEc",
+                "type": "internal",
+                "page": "Bachelor of Economics"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "LDP-backed incumbents win in Nagasaki and Yamaguchi gubernatorial elections",
+          "url": "https://www.japantimes.co.jp/news/2018/02/04/national/politics-diplomacy/ldp-backed-incumbents-win-nagasaki-yamaguchi-gubernatorial-elections/",
+          "work": "The Japan Times Online",
+          "date": "4 February 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "japangovernors"
+        }
+      ]
+    }
+  ]
+}

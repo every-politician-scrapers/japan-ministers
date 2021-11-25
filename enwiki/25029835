@@ -1,0 +1,197 @@
+{
+  "title": "Heita Kawakatsu",
+  "pageID": 25029835,
+  "categories": [
+    "1948 births",
+    "Living people",
+    "Politicians from Shizuoka Prefecture",
+    "Waseda University alumni",
+    "Alumni of the University of Oxford",
+    "Waseda University faculty",
+    "Governors of Shizuoka Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Heita Kawakatsu (川勝 平太) is the current governor of Shizuoka Prefecture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shizuoka Prefecture"
+                }
+              ]
+            },
+            {
+              "text": "Born in 1948, he has been governor since 2009."
+            },
+            {
+              "text": "A former economic historian, Kawakatsu was a professor at the controversial International Research Center for Japanese Studies in Kyoto from 1998 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Research Center for Japanese Studies"
+                }
+              ]
+            },
+            {
+              "text": "Kawakatsu's research on \"civilization theory\" has been critiqued by historians such as Tessa Morris-Suzuki.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tessa Morris-Suzuki"
+                }
+              ]
+            },
+            {
+              "text": "Kawakatsu has written numerous books in the Nihonjinron genre of Japanese cultural studies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nihonjinron"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1948",
+          "month": "8",
+          "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Heita Kawakatsu",
+          "kanji": "川勝 平太",
+          "romaji": "Kawakatsu Heita",
+          "extra": "born 16 August 1948",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Heita Kawakatsu"
+          },
+          "native_name": {
+            "text": "川勝 平太"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "File:Heita Kawakatsu cropped 2 Heita Kawakatsu 20140831.jpg"
+          },
+          "caption": {
+            "text": "on August 31, 2014"
+          },
+          "office": {
+            "text": "Governor of Shizuoka Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shizuoka Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 July 2009"
+          },
+          "predecessor": {
+            "text": "Yoshinobu Ishikawa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yoshinobu Ishikawa"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 16, 1948"
+          },
+          "birth_place": {
+            "text": "Osaka, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osaka"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "alma_mater": {
+            "text": "Waseda University\nUniversity of Oxford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Waseda University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Oxford"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "静岡県／ようこそ知事室へ",
+          "url": "http://www.pref.shizuoka.jp/governor/index.html",
+          "access-date": "2021-06-20",
+          "website": "www.pref.shizuoka.jp",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "静岡県／プロフィール【ようこそ知事室へ】",
+          "url": "http://www.pref.shizuoka.jp/governor/profile.html",
+          "access-date": "2021-06-20",
+          "website": "www.pref.shizuoka.jp",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Re-inventing Japan: Nation, Culture, Identity",
+          "url": "https://www.routledge.com/Re-inventing-Japan-Nation-Culture-Identity/Morris-Suzuki/p/book/9780765600820",
+          "access-date": "2021-06-20",
+          "website": "Routledge & CRC Press",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

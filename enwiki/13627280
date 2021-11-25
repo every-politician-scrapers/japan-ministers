@@ -1,0 +1,270 @@
+{
+  "title": "Kotaro Nagasaki",
+  "pageID": 13627280,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Tokyo",
+    "University of Tokyo alumni",
+    "Cornell Law School alumni",
+    "Koizumi Children",
+    "Members of the House of Representatives (Japan)",
+    "Liberal Democratic Party (Japan) politicians",
+    "21st-century Japanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kotaro Nagasaki (長崎 幸太郎) is a Japanese politician serving in the House of Representatives in the Diet (national legislature) as a member of the Liberal Democratic Party.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Diet",
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "A native of Tokyo and graduate of the University of Tokyo he joined the Ministry of Finance in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                },
+                {
+                  "text": "Ministry of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Cornell Law School in the United States while still in the ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cornell Law School"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            {
+              "text": "In 2005 he left the ministry and was elected to the Diet for the first time."
+            },
+            {
+              "text": "In 2019 he was elected governor of the Yamanashi Prefecture with 49.7% votes in a single round.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yamanashi Prefecture"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "8",
+          "day": "18",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Kotaro Nagasaki",
+          "kanji": "長崎 幸太郎",
+          "romaji": "Nagasaki Kōtarō",
+          "extra": "born August 18, 1968",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kotaro Nagasaki"
+          },
+          "native_name": {
+            "text": "長崎幸太郎"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "office": {
+            "text": "Governor of Yamanashi Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yamanashi Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 February 2019"
+          },
+          "predecessor": {
+            "text": "Hitoshi Goto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hitoshi Goto"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives of Japan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 September 2005"
+          },
+          "term_end1": {
+            "text": "21 July 2009"
+          },
+          "constituency1": {
+            "text": "Southern Kanto Block"
+          },
+          "term_start2": {
+            "text": "8 December 2012"
+          },
+          "term_end2": {
+            "text": "28 September 2017"
+          },
+          "constituency2": {
+            "text": "Yamanashi 2nd ward"
+          },
+          "birth_date": {
+            "text": "August 18, 1968"
+          },
+          "birth_place": {
+            "text": "Tokyo, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tokyo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic Party",
+            "links": [
+              {
+                "text": "Liberal Democratic Party",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tokyo University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tokyo University"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.nagasakikotaro.jp"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0008/00008372.html",
+          "script-title": "ja:政治家情報 〜長崎 幸太郎〜",
+          "script-newspaper": "ja:ザ･選挙",
+          "newspaper": "JANJAN",
+          "accessdate": "2007-10-08",
+          "language": "ja",
+          "template": "citation",
+          "type": "cite news"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://nagasakikotaro.jp/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "japan-politician-1960s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "in Japanese."
+          }
+        ]
+      ]
+    }
+  ]
+}

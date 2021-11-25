@@ -1,0 +1,215 @@
+{
+  "title": "Shinji Hirai",
+  "pageID": 14609611,
+  "categories": [
+    "University of Tokyo alumni",
+    "Politicians from Tokyo",
+    "1961 births",
+    "Living people",
+    "Governors of Tottori Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shinji Hirai (平井 伸治) is a Japanese politician, the governor of Tottori Prefecture in Japan, first elected in 2007.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tottori Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the University of Tokyo with the B.L. degree in 1984 and joined the Ministry of Home Affairs upon graduation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                },
+                {
+                  "text": "B.L.",
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                },
+                {
+                  "text": "Ministry of Home Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Home Affairs (Japan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1961",
+          "month": "9",
+          "day": "17",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Shinji Hirai",
+          "kanji": "平井 伸治",
+          "romaji": "Hirai Shinji",
+          "extra": "born 17 September 1961",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shinji Hirai"
+          },
+          "native_name": {
+            "text": "平井 伸治"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Shinji Hirai.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "office": {
+            "text": "Governor of Tottori Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tottori Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 April 2007"
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Yoshihiro Katayama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yoshihiro Katayama"
+              }
+            ]
+          },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
+          "birth_date": {
+            "text": "September 17, 1961"
+          },
+          "birth_place": {
+            "text": "Chiyoda, Tokyo, Japan",
+            "links": [
+              {
+                "text": "Chiyoda",
+                "type": "internal",
+                "page": "Chiyoda, Tokyo"
+              },
+              {
+                "type": "internal",
+                "page": "Tokyo"
+              },
+              {
+                "type": "internal",
+                "page": "Japan"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "{{cite web |url=http://www.senkyo.janjan.jp/diet/profile/0052/00052831.html"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www1.ocn.ne.jp/~s-hirai/"
+          ],
+          "template": "official website"
+        },
+        {
+          "list": [
+            "ja"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-1960s-stub"
+        }
+      ]
+    }
+  ]
+}

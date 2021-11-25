@@ -1,0 +1,152 @@
+{
+  "title": "Kosaburo Nishime",
+  "pageID": 13660345,
+  "categories": [
+    "Members of the House of Representatives (Japan)",
+    "Sophia University alumni",
+    "Living people",
+    "1954 births",
+    "Liberal Democratic Party (Japan) politicians",
+    "21st-century Japanese politicians",
+    "Politicians from Okinawa Prefecture",
+    "Japanese politicians of Ryukyuan descent",
+    "Government ministers of Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kosaburo Nishime (西銘 恒三郎) is a Japanese politician of the Liberal Democratic Party (LDP), a member of the House of Representatives in the Diet (national legislature).",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Diet",
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                }
+              ]
+            },
+            {
+              "text": "A native of Chinen, Okinawa and graduate of Sophia University he was elected to the assembly of Okinawa Prefecture for the first time in 1988 and to the Diet for the first time in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinen, Okinawa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sophia University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Okinawa Prefecture"
+                }
+              ]
+            },
+            {
+              "text": "His father is Junji Nishime, former governor of Okinawa Prefecture, and his brother is Junshiro Nishime, a former member of the House of Councilors in the Diet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Junji Nishime"
+                },
+                {
+                  "type": "internal",
+                  "page": "Junshiro Nishime"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Councilors"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "english": "Kosaburo Nishime",
+          "kanji": "西銘 恒三郎",
+          "romaji": "Nishime Kōsaburō",
+          "extra": "born August 7, 1954",
+          "template": "nihongo"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "NB: This source incorrectly states that his name is Kozaburo."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0000/00000300.html",
+          "script-title": "ja:政治家情報 〜西銘 恒三郎〜",
+          "script-newspaper": "ja:ザ･選挙",
+          "newspaper": "JANJAN",
+          "accessdate": "2007-10-10",
+          "language": "ja",
+          "template": "citation",
+          "type": "cite news"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.nishime-k.jp/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "japan-politician-1950s-stub"
+        }
+      ]
+    }
+  ]
+}

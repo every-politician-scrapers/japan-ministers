@@ -1,0 +1,219 @@
+{
+  "title": "Katsusada Hirose",
+  "pageID": 14609433,
+  "categories": [
+    "Governors of Ōita",
+    "1942 births",
+    "Living people",
+    "University of Tokyo alumni",
+    "Politicians from Ōita Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Katsusada Hirose (広瀬 勝貞) is the governor of Ōita Prefecture in Japan, first elected in 2003.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Japan"
+                },
+                {
+                  "text": "Ōita Prefecture",
+                  "type": "internal",
+                  "page": "Ōita Prefecture"
+                }
+              ]
+            },
+            {
+              "text": "A native of Hita, Ōita and graduate of the University of Tokyo, he had worked at the Ministry of International Trade and Industry since 1966 before elected governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hita, Ōita"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of International Trade and Industry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1942",
+          "month": "6",
+          "day": "25",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Katsusada Hirose",
+          "kanji": "広瀬 勝貞",
+          "romaji": "Hirose Katsusada",
+          "extra": "born 25 June 1942",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Katsusada Hirose"
+          },
+          "native_name": {
+            "text": "広瀬 勝貞"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "20160908大分縣廣瀨勝貞知事.jpg"
+          },
+          "office": {
+            "text": "Governor of Ōita Prefecture",
+            "links": [
+              {
+                "text": "Ōita Prefecture",
+                "type": "internal",
+                "page": "Ōita Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 2003"
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Morihiko Hiramatsu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morihiko Hiramatsu"
+              }
+            ]
+          },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
+          "birth_date": {
+            "text": "June 25, 1942"
+          },
+          "birth_place": {
+            "text": "Hita, Ōita, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hita, Ōita"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0048/00048882.html",
+          "script-title": "ja:政治家情報 〜広瀬 勝貞〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-12-08",
+          "language": "Japanese",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20071028184718/http://www.senkyo.janjan.jp/diet/profile/0048/00048882.html",
+          "archivedate": "2007-10-28",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.kacchan.net"
+          ],
+          "template": "official website"
+        },
+        {
+          "list": [
+            "ja"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-1940s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ooita Prefecture Office(Japanese)",
+            "links": [
+              {
+                "text": "Ooita Prefecture Office",
+                "type": "external",
+                "site": "https://www.pref.oita.jp/site/chiji/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Ooita Prefecture Office(Japanese)",
+            "links": [
+              {
+                "text": "Ooita Prefecture Office",
+                "type": "external",
+                "site": "https://www.pref.oita.jp/site/chiji/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

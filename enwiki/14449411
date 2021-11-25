@@ -1,0 +1,236 @@
+{
+  "title": "Tomikazu Fukuda",
+  "pageID": 14449411,
+  "categories": [
+    "Mayors of places in Tochigi Prefecture",
+    "Nihon University alumni",
+    "1953 births",
+    "Living people",
+    "Governors of Tochigi Prefecture",
+    "Japanese municipal councilors",
+    "Politicians from Tochigi Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tomikazu Fukuda (福田 富一) is the governor of Tochigi Prefecture in Japan, first elected in 2004.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tochigi Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "A native of Imaichi, Tochigi and graduate of Nihon University, he had served in the city assembly of Utsunomiya, Tochigi since 1983 and then in the Tochigi Prefectural Assembly since 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Imaichi, Tochigi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nihon University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Utsunomiya, Tochigi"
+                }
+              ]
+            },
+            {
+              "text": "He also served as mayor of Utsunomiya for two terms from 1999 until his election as governor in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Utsunomiya"
+                }
+              ]
+            },
+            {
+              "text": "He was reelected on November 16, 2008 in a two-person election."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1953",
+          "month": "5",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Tomikazu Fukuda",
+          "kanji": "福田 富一",
+          "romaji": "Fukuda Tomikazu",
+          "extra": "born 21 May 1953",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tomikazu Fukuda"
+          },
+          "native_name": {
+            "text": "福田 富一"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "File:Tomikazu Fukuda, 20191206.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "office": {
+            "text": "Governor of Tochigi Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tochigi Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 December 2004"
+          },
+          "alma_mater": {
+            "text": "Nihon University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nihon University"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Akio Fukuda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Akio Fukuda"
+              }
+            ]
+          },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
+          "birth_date": {
+            "text": "May 21, 1953"
+          },
+          "birth_place": {
+            "text": "Imaichi, Tochigi, Japan",
+            "links": [
+              {
+                "text": "Imaichi",
+                "type": "internal",
+                "page": "Imaichi, Tochigi"
+              },
+              {
+                "text": "Tochigi",
+                "type": "internal",
+                "page": "Tochigi Prefecture"
+              },
+              {
+                "type": "internal",
+                "page": "Japan"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0001/00001973.html",
+          "script-title": "ja:政治家情報 〜福田 富一〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-11-27",
+          "language": "Japanese",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "url": "http://www3.nhk.or.jp/news/t10015419331000.html",
+          "script-title": "ja:栃木県知事選 福田氏が再選",
+          "publisher": "NHK",
+          "accessdate": "2008-11-16",
+          "language": "Japanese",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ja"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "japan-politician-1950s-stub"
+        },
+        {
+          "template": "japan-mayor-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20071008173941/http://www.tomikazu.com/profile.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

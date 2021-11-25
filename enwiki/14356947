@@ -1,0 +1,222 @@
+{
+  "title": "Shingo Mimura",
+  "pageID": 14356947,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "People from Aomori Prefecture",
+    "University of Tokyo alumni",
+    "Mayors of places in Japan",
+    "Members of the House of Representatives (Japan)",
+    "Governors of Aomori Prefecture",
+    "Politicians from Aomori Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shingo Mimura (三村申吾) is a Japanese Politician who is currently serving as Governor of Aomori Prefecture since June 29, 2003."
+            },
+            {
+              "text": "He previously served as a member of House of Representatives from June 2000 to June 2003 from Aomori 2nd ward.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                }
+              ]
+            },
+            {
+              "text": "He also served as a Mayor of his hometown Momoishi, Aomori from the year 1992 to 1996.",
+              "links": [
+                {
+                  "text": "Momoishi, Aomori",
+                  "type": "internal",
+                  "page": "Oirase, Aomori"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "4",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Shingo Mimura",
+          "kanji": "三村申吾",
+          "romaji": "Mimura Shingo",
+          "extra": "born 16 April 1956",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shingo Mimura"
+          },
+          "native_name": {
+            "text": "三村 申吾"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Shingo Mimura 2012.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "order": {
+            "text": "Governor of Aomori Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aomori Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 June 2003"
+          },
+          "predecessor": {
+            "text": "Morio Kimura"
+          },
+          "order2": {
+            "text": "Member of the House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives of Japan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "25 June 2000"
+          },
+          "term_end2": {
+            "text": "12 June 2003"
+          },
+          "constituency2": {
+            "text": "Aomori 2nd ward"
+          },
+          "order3": {
+            "text": "Mayor of Momoishi"
+          },
+          "term_start3": {
+            "text": "1992",
+            "number": 1992
+          },
+          "term_end3": {
+            "text": "1996",
+            "number": 1996
+          },
+          "birth_date": {
+            "text": "April 16, 1956"
+          },
+          "birth_place": {
+            "text": "Momoishi, Aomori, Japan",
+            "links": [
+              {
+                "text": "Momoishi, Aomori",
+                "type": "internal",
+                "page": "Oirase, Aomori"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official Website",
+            "links": [
+              {
+                "text": "Official Website",
+                "type": "external",
+                "site": "http://www.gogo-shingo.jp"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0067/00067253.html",
+          "script-title": "ja:政治家情報 〜三村 申吾〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-11-22",
+          "language": "Japanese",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20080216163318/http://www.senkyo.janjan.jp/diet/profile/0067/00067253.html",
+          "archivedate": "2008-02-16",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.gogo-shingo.jp/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "japan-politician-1950s-stub"
+        },
+        {
+          "template": "japan-mayor-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "in Japanese."
+          }
+        ]
+      ]
+    }
+  ]
+}

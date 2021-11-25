@@ -1,0 +1,183 @@
+{
+  "title": "Kōichi Shiota",
+  "pageID": 65517128,
+  "categories": [
+    "Japanese politicians",
+    "People from Kagoshima",
+    "People from the Amami Islands",
+    "1965 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kōichi Shiota (塩田 康一) is a Japanese politician currently serving as the governor of Kagoshima Prefecture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kagoshima Prefecture"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician serving as governor of Kagoshima province",
+          "template": "short description"
+        },
+        {
+          "year": "1965",
+          "month": "10",
+          "day": "15",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Kōichi Shiota",
+          "kanji": "塩田 康一",
+          "romaji": "Shiota Kōichi",
+          "extra": "born October 15, 1965",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kōichi Shiota"
+          },
+          "native_name": {
+            "text": "塩田 康一"
+          },
+          "birth_date": {
+            "text": "October 15, 1965"
+          },
+          "birth_place": {
+            "text": "Kagoshima City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kagoshima"
+              }
+            ]
+          },
+          "office": {
+            "text": "Governor of Kagoshima Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kagoshima Prefecture"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "July 28, 2020"
+          },
+          "predecessor": {
+            "text": "Satoshi Mitazono",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Satoshi Mitazono"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇯🇵ese"
+          },
+          "website": {
+            "text": "塩田康一"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Koichi Shiota",
+          "url": "https://www.japantimes.co.jp/tag/koichi-shiota/",
+          "access-date": "2020-10-07",
+          "website": "The Japan Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shiota served in the industrial ministry for around 30 years before running as governor in the 2020 Kagoshima gubernatorial elections."
+            },
+            {
+              "text": "His campaign focused heavily on revitalizing the local economy, emphasizing on his previous political experience."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He ran as an independent without the endorsement of any major party.",
+              "links": [
+                {
+                  "text": "independent",
+                  "type": "internal",
+                  "page": "Independent politician"
+                }
+              ]
+            },
+            {
+              "text": "He gained support using grassroots tactics, visiting local companies and farmers."
+            },
+            {
+              "text": "He beat incumbent governor Satoshi Mitazono in the elections,  assuming office on July 28, 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Satoshi Mitazono"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "新知事に聞く 塩田康一氏（しおた・こういち）",
+          "url": "http://www.nankainn.com/gvmnt-admin/%e6%96%b0%e7%9f%a5%e4%ba%8b%e3%81%ab%e8%81%9e%e3%81%8f-%e5%a1%a9%e7%94%b0%e5%ba%b7%e4%b8%80%e6%b0%8f%ef%bc%88%e3%81%97%e3%81%8a%e3%81%9f%e3%83%bb%e3%81%93%e3%81%86%e3%81%84%e3%81%a1%ef%bc%89",
+          "access-date": "2020-10-07",
+          "website": "南海日日新聞",
+          "language": "ja",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-13",
+          "title": "Rookie Shiota Wins Kagoshima Governor Race",
+          "url": "https://www.nippon.com/en/news/yjj2020071200424/",
+          "access-date": "2020-10-07",
+          "website": "nippon.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

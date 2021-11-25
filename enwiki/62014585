@@ -1,0 +1,235 @@
+{
+  "title": "Motohiro Ōno",
+  "pageID": 62014585,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People from Saitama Prefecture",
+    "Governors of Saitama Prefecture",
+    "Members of the House of Councillors (Japan)",
+    "Democratic Party of Japan politicians",
+    "Japanese diplomats",
+    "Japanese Arabists",
+    "Keio University alumni",
+    "Politicians from Saitama Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Motohiro Ōno (大野 元裕) is a Japanese politician and the current governor of Saitama Prefecture in Japan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saitama Prefecture"
+                }
+              ]
+            },
+            {
+              "text": "He assumed office replacing Kiyoshi Ueda in the August 2019 gubernatorial elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kiyoshi Ueda"
+                },
+                {
+                  "text": "August 2019 gubernatorial elections",
+                  "type": "internal",
+                  "page": "2019 Saitama gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "langcode": "ja",
+          "otherarticle": "大野元裕",
+          "date": "October 2019",
+          "template": "expand language"
+        },
+        {
+          "df": "y",
+          "year": "1963",
+          "month": "11",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Motohiro Ōno",
+          "kanji": "大野 元裕",
+          "romaji": "Ōno Motohiro",
+          "extra": "born 12 November 1963",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Motohiro Ōno"
+          },
+          "native_name": {
+            "text": "大野 元裕"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Motohiro Ono 201210.jpg"
+          },
+          "image_size": {
+            "text": "230px"
+          },
+          "office": {
+            "text": "Governor of Saitama Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saitama Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 August 2019"
+          },
+          "predecessor": {
+            "text": "Kiyoshi Ueda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiyoshi Ueda"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the House of Councillors",
+            "links": [
+              {
+                "text": "Member of the House of Councillors",
+                "type": "internal",
+                "page": "House of Councillors (Japan)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 July 2010"
+          },
+          "term_end1": {
+            "text": "5 August 2019"
+          },
+          "constituency1": {
+            "text": "Saitama at-large district",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saitama at-large district"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Chiyako Shimada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chiyako Shimada"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Kiyoshi Ueda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiyoshi Ueda"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 12, 1963"
+          },
+          "birth_place": {
+            "text": "Kawaguchi, Saitama, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kawaguchi, Saitama"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Party for the People",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Party for the People"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "International University of Japan Keio University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "International University of Japan"
+              },
+              {
+                "type": "internal",
+                "page": "Keio University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "collapsed",
+          "template": "governors of saitama prefecture"
+        },
+        {
+          "state": "collapsed",
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

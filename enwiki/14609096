@@ -1,0 +1,234 @@
+{
+  "title": "Shōgo Arai",
+  "pageID": 14609096,
+  "categories": [
+    "1945 births",
+    "Living people",
+    "People from Yao, Osaka",
+    "Politicians from Nara Prefecture",
+    "University of Tokyo alumni",
+    "Maxwell School of Citizenship and Public Affairs alumni",
+    "Members of the House of Councillors (Japan)",
+    "Governors of Nara Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shōgo Arai (荒井 正吾) is a Japanese politician and the current governor of Nara Prefecture in Japan, first elected in 2007.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nara Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "A graduate of the University of Tokyo, he joined the Ministry of Transport, attending Maxwell School of Citizenship and Public Affairs Syracuse University as a ministry official.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                },
+                {
+                  "text": "Ministry of Transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Japan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maxwell School of Citizenship and Public Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syracuse University"
+                }
+              ]
+            },
+            {
+              "text": "Leaving the ministry in 2001, he was elected to the House of Councillors in the Diet of Japan (national legislature) for the first time in the same year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Councillors"
+                },
+                {
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1945",
+          "month": "1",
+          "day": "18",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Shōgo Arai",
+          "kanji": "荒井 正吾",
+          "romaji": "Arai Shōgo",
+          "extra": "born 18 January 1945 in Yao, Osaka",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shōgo Arai"
+          },
+          "native_name": {
+            "text": "荒井 正吾"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Governor Nara sougo Arai. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg"
+          },
+          "office": {
+            "text": "Governor of Nara Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nara Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 May 2007"
+          },
+          "predecessor": {
+            "text": "Yoshiya Kakimoto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yoshiya Kakimoto"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 18, 1945"
+          },
+          "birth_place": {
+            "text": "Yao, Osaka, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yao, Osaka"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic Party of Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liberal Democratic Party of Japan"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0052/00052829.html",
+          "script-title": "ja:政治家情報 〜荒井 正吾〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-12-08",
+          "language": "Japanese",
+          "url-status": "dead",
+          "archiveurl": "https://archive.is/20070729044317/http://www.senkyo.janjan.jp/diet/profile/0052/00052829.html",
+          "archivedate": "2007-07-29",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ja"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-1940s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.araishougo.net/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
