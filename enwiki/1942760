@@ -84,8 +84,11 @@
                 },
                 {
                   "text": "first cabinet",
-                  "type": "internal",
-                  "page": ":ja:第1次安倍内閣"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ja"
+                  }
                 },
                 {
                   "text": "Prime Minister",

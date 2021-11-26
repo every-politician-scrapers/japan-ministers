@@ -258,8 +258,11 @@
               "links": [
                 {
                   "text": "熊谷 信太郎",
-                  "type": "internal",
-                  "page": ":ja:熊谷信太郎"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ja"
+                  }
                 }
               ]
             },
