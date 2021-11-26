@@ -2259,6 +2259,18 @@
           "template": "chart top"
         },
         {
+          "text": "Prince Oshisaka",
+          "lan1": "ja",
+          "text1": "押坂彦人大兄皇子",
+          "template": "ill"
+        },
+        {
+          "text": "Prince Shiki",
+          "lan1": "ja",
+          "text1": "志貴皇子",
+          "template": "ill"
+        },
+        {
           "template": "chart bottom"
         }
       ],
