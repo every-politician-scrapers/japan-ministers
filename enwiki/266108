@@ -71,16 +71,11 @@
         {
           "sentences": [
             {
-              "text": "Naruhito was born in Tokyo as the eldest child of Crown Prince Akihito and Crown Princess Michiko.",
+              "text": "Naruhito was born in Tokyo as the eldest child of Akihito and Michiko, then Crown Prince and Crown Princess of Japan.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Tokyo"
-                },
-                {
-                  "text": "Crown Prince",
-                  "type": "internal",
-                  "page": "Crown prince"
                 },
                 {
                   "type": "internal",
