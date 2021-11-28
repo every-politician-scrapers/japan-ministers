@@ -195,14 +195,6 @@
           "template": "expand japanese"
         },
         {
-          "list": [
-            "Since",
-            "1 May 2019",
-            "#e4dcf6"
-          ],
-          "template": "period"
-        },
-        {
           "spouse": "Masako Owada",
           "from": "9 June 1993",
           "template": "marriage"
@@ -247,6 +239,9 @@
                 "page": "Emperor of Japan"
               }
             ]
+          },
+          "reign": {
+            "text": "Since 1 May 2019"
           },
           "coronation": {
             "text": "22 October 2019"
