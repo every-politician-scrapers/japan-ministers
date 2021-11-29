@@ -1574,11 +1574,16 @@
         {
           "sentences": [
             {
-              "text": "Despite being the leader of the moderate Kōchikai faction, Kishida, like many other LDP members of parliament, is affiliated with the parliamentary league of the ultra-conservative organization Nippon Kaigi.",
+              "text": "Despite being the leader of the moderate Kōchikai faction, Kishida is affiliated with the parliamentary league of the far-right ultra-conservative organization Nippon Kaigi.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kōchikai"
+                },
+                {
+                  "text": "far-right",
+                  "type": "internal",
+                  "page": "Far-right politics"
                 },
                 {
                   "type": "internal",
