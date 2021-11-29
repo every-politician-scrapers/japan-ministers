@@ -32,6 +32,8 @@
     "New Frontier Party (Japan) politicians",
     "Recipients of the Olympic Order",
     "Recipients of the Paralympic Order",
+    "Right-wing populism in Japan",
+    "Zaitokukai",
     "Politicians from Hyōgo Prefecture",
     "Anti-Korean sentiment in Japan",
     "Asia Game Changer Award winners",
@@ -1132,6 +1134,16 @@
             },
             {
               "text": "A strong turn towards IT development, natural sciences, sustainable infrastructure, and efficiency-based administrative reforms for public services were also on the docket."
+            },
+            {
+              "text": "She is also one of the main figures in Japan's right-wing populist camp.",
+              "links": [
+                {
+                  "text": "right-wing populist",
+                  "type": "internal",
+                  "page": "Right-wing populism"
+                }
+              ]
             }
           ]
         }
@@ -1148,6 +1160,34 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "url": "https://www.reuters.com/article/us-japan-election-newparty-analysis-idUSKCN1C20XS",
+          "title": "In Japan, new party challenges Abe with populist slogans; but little policy gap",
+          "work": "Reuters",
+          "date": "27 September 2017",
+          "access-date": "28 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.aljazeera.com/features/2021/6/10/why-is-populism-so-unpopular-in-japan",
+          "title": "Why is populism so unpopular in Japan?",
+          "work": "Al Jazeera",
+          "date": "10 June 2021",
+          "access-date": "28 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.cnbc.com/2017/10/02/party-of-hope-rival-to-japan-pm-shinzo-abe-bloc-is-extreme-rightist--analyst.html",
+          "title": "The main rival to Japan’s ruling party is really ‘extreme rightist,’ analyst says",
+          "quote": "But some are already labeling the current Tokyo governor a populist, which is often a euphemism for a far-right politician. Koike has garnered significant public support by promising to move away from nuclear power and to halt consumer tax hikes.",
+          "work": "CNBC",
+          "date": "2 October 2017",
+          "access-date": "28 November 2021",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1336,6 +1376,25 @@
                   "Zaitokukai"
                 ]
               }
+            },
+            {
+              "text": "Also, CNBC, a broadcasting media in the United States, called her a far-right politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CNBC"
+                },
+                {
+                  "text": "broadcasting",
+                  "type": "internal",
+                  "page": "broadcasting"
+                },
+                {
+                  "text": "far-right",
+                  "type": "internal",
+                  "page": "Far-right politics"
+                }
+              ]
             }
           ]
         }
