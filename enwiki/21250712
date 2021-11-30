@@ -146,7 +146,7 @@
             ]
           },
           "otherparty": {
-            "text": "DP (2016-2017) DPJ (2009-2016)",
+            "text": "DP (2016–2017) DPJ (2009–2016)",
             "links": [
               {
                 "text": "DP",
@@ -160,119 +160,6 @@
               }
             ]
           }
-        }
-      ]
-    },
-    {
-      "title": "2009 Election",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yoshimura ran as an independent.",
-              "links": [
-                {
-                  "text": "independent",
-                  "type": "internal",
-                  "page": "Independent (politician)"
-                }
-              ]
-            },
-            {
-              "text": "She received the support of the Democratic Party of Japan (DPJ) and various Upper House members from the Liberal Democratic Party (LDP).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Democratic Party of Japan"
-                },
-                {
-                  "text": "Liberal Democratic Party",
-                  "type": "internal",
-                  "page": "Liberal Democratic Party (Japan)"
-                }
-              ]
-            },
-            {
-              "text": "This race was seen as an early indicator of the strength of the two main parties in Japan because elections will be held before the end of 2009.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Japan"
-                }
-              ]
-            },
-            {
-              "text": "Yoshimura's rival, Governor Hiroshi Saito, was supported by both the New Komeito Party and the majority of the LDP.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New Komeito Party"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "2021 Election",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yoshimura re-elected for Governor again."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-1950s-stub"
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www3.nhk.or.jp/news/t10013761931000.html",
-          "script-title": "ja:山形県知事選 吉村氏が当確",
-          "accessdate": "2009-01-25",
-          "language": "Japanese",
-          "template": "citation",
-          "type": "cite web"
-        },
-        {
-          "url": "http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=420483",
-          "title": "Newcomer set to win Yamagata governorship, Gifu governor to keep post",
-          "accessdate": "2009-01-25",
-          "archive-url": "https://archive.is/20130218152456/http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=420483",
-          "archive-date": "2013-02-18",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "cite web"
         }
       ]
     }

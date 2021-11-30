@@ -136,6 +136,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "September 17, 1961"
           },
@@ -157,54 +160,6 @@
               }
             ]
           }
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "{{cite web |url=http://www.senkyo.janjan.jp/diet/profile/0052/00052831.html"
-          }
-        ]
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www1.ocn.ne.jp/~s-hirai/"
-          ],
-          "template": "official website"
-        },
-        {
-          "list": [
-            "ja"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1960s-stub"
         }
       ]
     }

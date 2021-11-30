@@ -160,63 +160,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0067/00067253.html",
-          "script-title": "ja:政治家情報 〜三村 申吾〜",
-          "work": "ザ･選挙",
-          "publisher": "JANJAN",
-          "accessdate": "2007-11-22",
-          "language": "Japanese",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20080216163318/http://www.senkyo.janjan.jp/diet/profile/0067/00067253.html",
-          "archivedate": "2008-02-16",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www.gogo-shingo.jp/"
-          ],
-          "template": "official website"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-1950s-stub"
-        },
-        {
-          "template": "japan-mayor-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "in Japanese."
-          }
-        ]
-      ]
     }
   ]
 }

@@ -211,6 +211,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "January 28, 1947"
           },
@@ -256,24 +259,6 @@
           "url-status": "dead",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-stub"
         }
       ]
     }

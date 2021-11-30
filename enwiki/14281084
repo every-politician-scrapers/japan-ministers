@@ -78,58 +78,6 @@
           "template": "nihongo"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0008/00008729.html",
-          "script-title": "ja:政治家情報 〜二之湯 智〜",
-          "work": "ザ･選挙",
-          "publisher": "JANJAN",
-          "accessdate": "2007-11-17",
-          "language": "Japanese",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20071208145741/http://www.senkyo.janjan.jp/diet/profile/0008/00008729.html",
-          "archivedate": "2007-12-08",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "japan-politician-1940s-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official website in Japanese.",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "http://www.ninoyusatoshi.com/"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

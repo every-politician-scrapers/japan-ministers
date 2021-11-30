@@ -248,64 +248,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "before": "Masaru Hashimoto",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of Ibaraki Prefecture",
-          "years": "2017–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1960s-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official website in Japanese.",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "http://k-oigawa.jp/"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

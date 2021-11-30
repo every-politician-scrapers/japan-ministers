@@ -127,53 +127,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "Anti-nuclear",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Governor Nakamura together with Nagasaki City mayor Tomihisa Taue filed a protest against the first U.S nuclear test under President Barack Obama.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nagasaki City"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tomihisa Taue"
-                },
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "japan-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -120,60 +120,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "Biography",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kōno was born on 8 September 1964 in Kure, Hiroshima.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kure, Hiroshima"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www.kouno-shunji.com/index.html"
-          ],
-          "template": "official website"
-        },
-        {
-          "list": [
-            "ja"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "japan-politician-stub"
-        }
-      ]
     }
   ]
 }

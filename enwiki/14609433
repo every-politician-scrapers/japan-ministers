@@ -115,6 +115,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "June 25, 1942"
           },
@@ -128,88 +131,6 @@
             ]
           }
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0048/00048882.html",
-          "script-title": "ja:政治家情報 〜広瀬 勝貞〜",
-          "work": "ザ･選挙",
-          "publisher": "JANJAN",
-          "accessdate": "2007-12-08",
-          "language": "Japanese",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20071028184718/http://www.senkyo.janjan.jp/diet/profile/0048/00048882.html",
-          "archivedate": "2007-10-28",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www.kacchan.net"
-          ],
-          "template": "official website"
-        },
-        {
-          "list": [
-            "ja"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1940s-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Ooita Prefecture Office(Japanese)",
-            "links": [
-              {
-                "text": "Ooita Prefecture Office",
-                "type": "external",
-                "site": "https://www.pref.oita.jp/site/chiji/"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Ooita Prefecture Office(Japanese)",
-            "links": [
-              {
-                "text": "Ooita Prefecture Office",
-                "type": "external",
-                "site": "https://www.pref.oita.jp/site/chiji/"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

@@ -127,6 +127,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "April 16, 1945"
           },
@@ -156,62 +159,6 @@
           "access-date": "2021-06-26",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Premium passport",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premium passport"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "url": "https://web.archive.org/web/20201029065753/http://tanimoto-masanori.com/",
-          "date": "2020-10-29",
-          "template": "webarchive"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1940s-stub"
         }
       ]
     }

@@ -99,54 +99,6 @@
           "template": "nihongo"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "NB: This source incorrectly states that his name is Kozaburo."
-          }
-        ]
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0000/00000300.html",
-          "script-title": "ja:政治家情報 〜西銘 恒三郎〜",
-          "script-newspaper": "ja:ザ･選挙",
-          "newspaper": "JANJAN",
-          "accessdate": "2007-10-10",
-          "language": "ja",
-          "template": "citation",
-          "type": "cite news"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www.nishime-k.jp/"
-          ],
-          "template": "official website"
-        },
-        {
-          "template": "japan-politician-1950s-stub"
-        }
-      ]
     }
   ]
 }

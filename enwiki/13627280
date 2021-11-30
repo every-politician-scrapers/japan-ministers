@@ -217,54 +217,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0008/00008372.html",
-          "script-title": "ja:政治家情報 〜長崎 幸太郎〜",
-          "script-newspaper": "ja:ザ･選挙",
-          "newspaper": "JANJAN",
-          "accessdate": "2007-10-08",
-          "language": "ja",
-          "template": "citation",
-          "type": "cite news"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://nagasakikotaro.jp/"
-          ],
-          "template": "official website"
-        },
-        {
-          "template": "japan-politician-1960s-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "in Japanese."
-          }
-        ]
-      ]
     }
   ]
 }

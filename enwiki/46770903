@@ -160,26 +160,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "state": "collapsed",
-          "template": "governors of fukushima prefecture"
-        },
-        {
-          "state": "collapsed",
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-stub"
-        }
-      ]
     }
   ]
 }

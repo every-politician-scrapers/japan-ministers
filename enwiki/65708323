@@ -119,21 +119,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-stub"
-        }
-      ]
     }
   ]
 }

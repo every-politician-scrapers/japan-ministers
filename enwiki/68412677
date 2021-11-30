@@ -143,58 +143,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "id": "motohikosaitoH",
-          "name": "Saitō Motohiko",
-          "template": "twitter"
-        },
-        {
-          "id": "motohikosaito.hyogo",
-          "name": "Saitō Motohiko",
-          "template": "facebook"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "start box"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "title": "Governor of Hyōgo Prefecture",
-          "years": "From：2021-",
-          "before": "Toshizō Ido (2001 - 2021)",
-          "after": "Incumbent",
-          "template": "succession box"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1970s-stub"
-        }
-      ]
     }
   ]
 }

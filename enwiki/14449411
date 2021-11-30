@@ -134,6 +134,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "May 21, 1953"
           },
@@ -157,76 +160,6 @@
             ]
           }
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0001/00001973.html",
-          "script-title": "ja:政治家情報 〜福田 富一〜",
-          "work": "ザ･選挙",
-          "publisher": "JANJAN",
-          "accessdate": "2007-11-27",
-          "language": "Japanese",
-          "template": "citation",
-          "type": "cite web"
-        },
-        {
-          "url": "http://www3.nhk.or.jp/news/t10015419331000.html",
-          "script-title": "ja:栃木県知事選 福田氏が再選",
-          "publisher": "NHK",
-          "accessdate": "2008-11-16",
-          "language": "Japanese",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "ja"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-1950s-stub"
-        },
-        {
-          "template": "japan-mayor-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official website",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "https://web.archive.org/web/20071008173941/http://www.tomikazu.com/profile.html"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

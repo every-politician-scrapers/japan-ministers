@@ -128,51 +128,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "title": "Governor of Tokushima Prefecture",
-          "years": "2003 -",
-          "before": "Tadashi Oota",
-          "after": "Incumbent",
-          "template": "succession box"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1960s-stub"
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0002/00002042.html",
-          "script-title": "ja:政治家情報 〜飯泉 嘉門〜",
-          "work": "ザ･選挙",
-          "publisher": "JANJAN",
-          "accessdate": "2007-12-08",
-          "language": "Japanese",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
     }
   ]
 }

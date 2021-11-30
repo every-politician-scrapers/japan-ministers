@@ -142,6 +142,9 @@
               }
             ]
           },
+          "[object Object]": {
+            "text": "jr/sr2      ="
+          },
           "birth_date": {
             "text": "August 20, 1960"
           },
@@ -196,24 +199,6 @@
           "access-date": "July 29, 2018",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "japangovernors"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "japan-politician-1960s-stub"
         }
       ]
     }

@@ -129,45 +129,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "http://www.hamada-keizo.jp"
-          ],
-          "template": "official website"
-        },
-        {
-          "list": [
-            "ja"
-          ],
-          "template": "in lang"
-        },
-        {
-          "state": "collapsed",
-          "template": "japangovernors"
-        },
-        {
-          "template": "japan-politician-stub"
-        }
-      ]
     }
   ]
 }
