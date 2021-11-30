@@ -51,6 +51,12 @@
           "template": "unbulleted list"
         },
         {
+          "text": "Ryohei Miyata",
+          "lan1": "ja",
+          "text1": "宮田亮平",
+          "template": "ill"
+        },
+        {
           "english": "Shunichi Tokura",
           "kanji": "都倉 俊一",
           "romaji": "Tokura Shun'ichi",
