@@ -583,49 +583,6 @@
             ]
           },
           "primeminister2": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "26 December 2012"
-          },
-          "term_end2": {
-            "text": "3 August 2017"
-          },
-          "predecessor2": {
-            "text": "Kōichirō Genba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kōichirō Genba"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Tarō Kōno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarō Kōno"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Foreign Affairs Acting",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Minister for Foreign Affairs (Japan)"
-              }
-            ]
-          },
-          "primeminister3": {
             "text": "Himself",
             "formatting": {
               "italic": [
@@ -633,13 +590,16 @@
               ]
             }
           },
-          "term_start3": {
+          "term_label2": {
+            "text": "In office (Acting)"
+          },
+          "term_start2": {
             "text": "4 November 2021"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "10 November 2021"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Toshimitsu Motegi",
             "links": [
               {
@@ -648,7 +608,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Yoshimasa Hayashi",
             "links": [
               {
@@ -657,8 +617,41 @@
               }
             ]
           },
+          "primeminister3": {
+            "text": "Shinzō Abe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shinzō Abe"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 December 2012"
+          },
+          "term_end3": {
+            "text": "3 August 2017"
+          },
+          "predecessor3": {
+            "text": "Kōichirō Genba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kōichirō Genba"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Tarō Kōno",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tarō Kōno"
+              }
+            ]
+          },
           "office4": {
-            "text": "Minister of Defense Acting",
+            "text": "Minister of Defense",
             "links": [
               {
                 "text": "Minister of Defense",
@@ -675,6 +668,9 @@
                 "page": "Shinzō Abe"
               }
             ]
+          },
+          "term_label4": {
+            "text": "In office (Acting)"
           },
           "term_start4": {
             "text": "28 July 2017"
