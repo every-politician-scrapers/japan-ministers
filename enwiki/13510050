@@ -812,6 +812,10 @@
         {
           "url": "https://asia.nikkei.com/Spotlight/The-Big-Story/Leading-by-listening-Kishida-offers-Japan-a-traditional-style-of-politics",
           "title": "Leading by listening: Kishida offers Japan a traditional style of politics",
+          "access-date": "31 October 2021",
+          "archive-date": "31 October 2021",
+          "archive-url": "https://web.archive.org/web/20211031170238/https://asia.nikkei.com/Spotlight/The-Big-Story/Leading-by-listening-Kishida-offers-Japan-a-traditional-style-of-politics",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -821,6 +825,10 @@
           "language": "en-GB",
           "work": "BBC News",
           "url": "https://www.bbc.com/news/world-asia-58784635",
+          "access-date": "4 October 2021",
+          "archive-date": "4 October 2021",
+          "archive-url": "https://web.archive.org/web/20211004052101/https://www.bbc.com/news/world-asia-58784635",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -842,6 +850,9 @@
           "last": "Sugiyama",
           "date": "8 October 2021",
           "access-date": "8 October 2021",
+          "archive-date": "8 October 2021",
+          "archive-url": "https://web.archive.org/web/20211008060425/https://www.japantimes.co.jp/news/2021/10/08/national/politics-diplomacy/kishida-first-policy-speech/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -854,6 +865,9 @@
           "first": "Peter",
           "last": "Landers",
           "language": "en-US",
+          "archive-date": "28 September 2021",
+          "archive-url": "https://web.archive.org/web/20210928162940/https://www.wsj.com/articles/japans-next-prime-minister-who-are-the-candidates-to-succeed-yoshihide-suga-11630657293",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
