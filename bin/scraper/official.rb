@@ -7,35 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      name_and_position[0]
+      noko.css('th').text.gsub(/\(\w\)/, '').tidy
     end
 
     def position
-      [first_position] + other_positions
-    end
-
-    private
-
-    def name_and_position
-      lines.first.split(':').map(&:tidy)
-    end
-
-    def first_position
-      name_and_position[1]
-    end
-
-    def other_positions
-      lines.drop(1)
-    end
-
-    def lines
-      noko.xpath('text()').map(&:text).map(&:tidy)
+      noko.xpath('.//td//text()').map(&:text).map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('ul.enMinisterList').css('li')
+      noko.css('table.cabinetListDl').first.css('tr')
     end
   end
 end
