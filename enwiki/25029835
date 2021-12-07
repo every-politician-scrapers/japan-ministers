@@ -30,29 +30,13 @@
               "text": "Born in 1948, he has been governor since 2009."
             },
             {
-              "text": "A former economic historian, Kawakatsu was a professor at the controversial International Research Center for Japanese Studies in Kyoto from 1998 to 2007.",
+              "text": "Part of his political program is opposition to the Tokyo-Nagoya MagLev route.",
               "links": [
                 {
+                  "text": "Tokyo-Nagoya MagLev route",
                   "type": "internal",
-                  "page": "International Research Center for Japanese Studies"
-                }
-              ]
-            },
-            {
-              "text": "Kawakatsu's research on \"civilization theory\" has been critiqued by historians such as Tessa Morris-Suzuki.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tessa Morris-Suzuki"
-                }
-              ]
-            },
-            {
-              "text": "Kawakatsu has written numerous books in the Nihonjinron genre of Japanese cultural studies.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nihonjinron"
+                  "page": "Chūō Shinkansen",
+                  "anchor": "The Ōi River issue"
                 }
               ]
             }
@@ -165,11 +149,14 @@
           "type": "web"
         },
         {
-          "title": "Re-inventing Japan: Nation, Culture, Identity",
-          "url": "https://www.routledge.com/Re-inventing-Japan-Nation-Culture-Identity/Morris-Suzuki/p/book/9780765600820",
-          "access-date": "2021-06-20",
-          "website": "Routledge & CRC Press",
-          "language": "en",
+          "title": "Japan maglev critic reelected in Shizuoka, claiming green mandate",
+          "url": "https://asia.nikkei.com/Politics/Japan-maglev-critic-reelected-in-Shizuoka-claiming-green-mandate",
+          "access-date": "2021-06-21",
+          "website": "Nikkei Asia",
+          "language": "en-GB",
+          "archive-url": "https://web.archive.org/web/20211203112704/https://asia.nikkei.com/Politics/Japan-maglev-critic-reelected-in-Shizuoka-claiming-green-mandate",
+          "archive-date": "3 December 2021",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
