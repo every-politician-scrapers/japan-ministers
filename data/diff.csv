@@ -1,24 +1,87 @@
 @@,name,position
+->,Yoshimasa Hayashi->HAYASHI Yoshimasa,Minister for Foreign Affairs
+->,Yoshihisa Furukawa->FURUKAWA Yoshihisa,Minister of Justice
+->,Tsuyoshi Yamaguchi->YAMAGUCHI Tsuyoshi,Minister of the Environment
+->,Tsuyoshi Yamaguchi->YAMAGUCHI Tsuyoshi,Minister of State for Nuclear Emergency Preparedness
+->,Tetsuo Saito->SAITO Tetsuo,Minister in charge of Water Cycle Policy
+->,Tetsuo Saito->SAITO Tetsuo,"Minister of Land, Infrastructure, Transport and Tourism"
+->,Takayuki Kobayashi->KOBAYASHI Takayuki,Minister of State for Space Policy
+->,Takayuki Kobayashi->KOBAYASHI Takayuki,Minister of State for Science and Technology Policy
+->,Shun'ichi Suzuki->SUZUKI Shunichi,Minister of Finance
+->,Shun'ichi Suzuki->SUZUKI Shunichi,Minister of State for Financial Services
+->,Shigeyuki Goto->GOTO Shigeyuki,"Minister of Health, Labour and Welfare"
 ->,Seiko Noda->NODA Seiko,Minister in Charge of Measures for Loneliness and Isolation
 ->,Seiko Noda->NODA Seiko,Minister in Charge of Policies Related to Children
+->,Seiko Noda->NODA Seiko,Minister in Charge of Women's Empowerment
+->,Seiko Noda->NODA Seiko,Minister of State for Gender Equality
+->,Seiko Noda->NODA Seiko,Minister of State for Measures for Declining Birthrate
 ->,Satoshi Ninoyu->NINOYU Satoshi,Minister of State for Disaster Management and Ocean Policy
-->,Satoshi Ninoyu->NINOYU Satoshi,Minister in Charge of Building National Resilience
-->,Satoshi Ninoyu->NINOYU Satoshi,Minister in Charge of Territorial Issues
-->,Satoshi Ninoyu->NINOYU Satoshi,Minister in Charge of Civil Service Reform
-->,Kosaburo Nishime->NISHIME Kosaburo,Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima
----,Yoshimasa Hayashi,Minister for Foreign Affairs
----,Yoshihisa Furukawa,Minister of Justice
+->,Kosaburo Nishime->NISHIME Kosaburo,Minister of State for Okinawa and Northern Territories Affairs
+->,Koichi Hagiuda->HAGIUDA Koichi,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation
+->,Koichi Hagiuda->HAGIUDA Koichi,"Minister of Economy, Trade and Industry"
+->,Koichi Hagiuda->HAGIUDA Koichi,Minister for Economic Cooperation with Russia
+->,Kenji Wakamiya->WAKAMIYA Kenji,Minister of State for Consumer Affairs and Food Safety
+->,Kenji Wakamiya->WAKAMIYA Kenji,Minister in Charge of Digital Garden City Nation Vision
+->,Kenji Wakamiya->WAKAMIYA Kenji,Minister for the World Expo 2025
+->,Karen Makishima->MAKISHIMA Karen,Minister of State for Regulatory Reform
+->,Hirokazu Matsuno->MATSUNO Hirokazu,Chief Cabinet Secretary
+->,Genjirō Kaneko->KANEKO Genjiro,"Minister of Agriculture, Forestry and Fisheries"
+->,Daishiro Yamagiwa->YAMAGIWA Daishiro,Minister of State for Economic and Fiscal Policy
 ---,Yasushi Kaneko,Minister of Internal Affairs and Communications
----,Tetsuo Saito,"Minister of Land, Infrastructure, Transport and Tourism"
----,Tetsuo Saito,Minister in charge of Water Cycle Policy
+---,Takayuki Kobayashi,Minister in Charge of Economic Security
+---,Shun'ichi Suzuki,Minister in Charge of Overcoming Deflation
 ---,Shinsuke Suematsu,"Minister of Education, Culture, Sports, Science and Technology of Japan"
----,Shinsuke Suematsu,
----,Shigeyuki Goto,"Minister of Health, Labour and Welfare"
+---,Shinsuke Suematsu,Minister in Charge of Education Rebuilding
+---,Seiko Noda,Minister of State for the Promotion of Overcoming Population Decline and Vitalizing Local Economy in Japan
+---,Satoshi Ninoyu,Minister in Charge of Building National Resilience
+---,Satoshi Ninoyu,Minister in Charge of Territorial Issues
+---,Satoshi Ninoyu,Chairman of the National Public Safety Commission
+---,Satoshi Ninoyu,Minister in Charge of Civil Service Reform
 ---,Noriko Horiuchi,Minister in Charge of the Tokyo Olympic Games and the Tokyo Paralympic Games
 ---,Nobuo Kishi,Minister of Defense of Japan
----,Genjirō Kaneko,"Minister of Agriculture, Forestry and Fisheries"
-+++,YAMAGIWA Daishiro,Minister of State for Economic and Fiscal Policy
-+++,WAKAMIYA Kenji,Minister in Charge of Policies on Cohesive Society
-+++,WAKAMIYA Kenji,"Minister of State for Special Mission（Consumer Affairs and Food Safety,Cool Japan Strategy,Intellectual Property Strategy）"
-+++,NODA Seiko,Minister in Charge of Women's Empowerment
-+++,NISHIME Kosaburo,Minister of State for Okinawa and Northern Territories Affairs
+---,Kosaburo Nishime,Minister for Reconstruction of Japan
+---,Kosaburo Nishime,Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima
+---,Koichi Hagiuda,Minister in Charge of Industrial Competitiveness
+---,Koichi Hagiuda,Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident
+---,Kenji Wakamiya,Minister in Charge of Policies on Cohesive Society
+---,Kenji Wakamiya,Minister of State for Special Mission (Intellectual Property Strategy）
+---,Kenji Wakamiya,Minister of State for Special Missions (Cool Japan Strategy)
+---,Karen Makishima,Minister for Digital Agency
+---,Karen Makishima,Minister in Charge of Administrative Reform
+---,Hirokazu Matsuno,Minister in Charge of Mitigating the Impact of U.S. Forces in Okinawa
+---,Hirokazu Matsuno,Minister in Charge of the Abductions Issue
+---,Fumio Kishida,Prime Minister of Japan
+---,Daishiro Yamagiwa,Minister in Charge of Measures for Novel Coronavirus Disease and Health Crisis Management
+---,Daishiro Yamagiwa,Minister in Charge of Social Security Reform
+---,Daishiro Yamagiwa,Minister in Charge of Economic Revitalization
+---,Daishiro Yamagiwa,Minister in Charge of New Capitalism
++++,YAMAGIWA Daishiro,Minister in charge of Measures for Novel Coronavirus Disease andHealth Crisis Management
++++,YAMAGIWA Daishiro,Minister in charge of New Capitalism
++++,YAMAGIWA Daishiro,Minister in charge of Economic Revitalization
++++,YAMAGIWA Daishiro,Minister in charge of Social Security Reform
++++,WAKAMIYA Kenji,Minister in Charge of Cohesive Society
++++,WAKAMIYA Kenji,"Minister of State for ""Cool Japan"" Strategy"
++++,WAKAMIYA Kenji,Minister of State for Intellectual Property Strategy
++++,WAKAMIYA Kenji,Minister in Charge of Overcoming Population Decline and Vitalizing Local Economy
++++,SUZUKI Shunichi,Minister in charge of Overcoming Deflation
++++,SUEMATSU Shinsuke,"Minister of Education, Culture, Sports, Science and Technology"
++++,SUEMATSU Shinsuke,Minister in charge of Education Rebuilding
++++,NODA Seiko,Minister of State for Regional Revitalization
++++,NISHIME Kosaburo,Minister for Reconstruction
++++,NISHIME Kosaburo,Minister in charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima
++++,NINOYU Satoshi,Chairperson of the National Public Safety Commission
++++,NINOYU Satoshi,Minister in charge of Building National Resilience
++++,NINOYU Satoshi,Minister in charge of Territorial Issues
++++,NINOYU Satoshi,Minister in charge of Civil Service Reform
++++,MATSUNO Hirokazu,Minister in charge of the Abductions Issue
++++,MATSUNO Hirokazu,Minister in charge of Mitigating the Impact of U.S. Forces in Okinawa
++++,MAKISHIMA Karen,Minister in charge of Administrative Reform
++++,MAKISHIMA Karen,Minister for Digital Transformation
++++,KOBAYASHI Takayuki,Minister in charge of Economic Security
++++,KISHIDA Fumio,Prime Minister
++++,KISHI Nobuo,Minister of Defense
++++,KANEKO Yasushi,Minister for Internal Affairs and Communications
++++,HORIUCHI Noriko,Minister for the Tokyo Olympic and Paralympic Games
++++,HORIUCHI Noriko,Minister in Charge of Promoting Vaccinations
++++,HAGIUDA Koichi,Minister in charge of Industrial Competitiveness
++++,HAGIUDA Koichi,Minister in charge of the Response to the Economic Impact caused by the Nuclear Accident
