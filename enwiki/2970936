@@ -1,0 +1,299 @@
+{
+  "title": "Shinsuke Suematsu",
+  "pageID": 2970936,
+  "categories": [
+    "Members of the House of Councillors (Japan)",
+    "Members of the Hyogo Prefectural Assembly",
+    "Living people",
+    "1955 births",
+    "Liberal Democratic Party (Japan) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shinsuke Suematsu (末松 信介) is a Japanese politician and current member of the House of Councillors in the Diet of Japan.",
+              "links": [
+                {
+                  "text": "House of Councillors",
+                  "type": "internal",
+                  "page": "House of Councillors (Japan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                }
+              ]
+            },
+            {
+              "text": "He has represented the Hyogo at-large district as a member of the Liberal Democratic Party since 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hyogo at-large district"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "Before entering politics, Suematsu graduated from the School of Law and Politics, Kwansei Gakuin University in 1979 and worked for All Nippon Airways.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kwansei Gakuin University"
+                },
+                {
+                  "type": "internal",
+                  "page": "All Nippon Airways"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1955",
+            "month": "12",
+            "date": "17",
+            "mf": "y",
+            "template": "birth date",
+            "text": "December 17, 1955"
+          }
+        },
+        {
+          "english": "Shinsuke Suematsu",
+          "kanji": "末松 信介",
+          "romaji": "Suematsu Shinsuke",
+          "extra": "born December 17, 1955",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shinsuke Suematsu"
+          },
+          "image": {
+            "text": "Shinsuke Suematsu in Takarazuka (04) IMG 2150 20130407.JPG"
+          },
+          "office": {
+            "text": "Minister of Education, Culture, Sports, Science and Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Education, Culture, Sports, Science and Technology"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Fumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 October 2021"
+          },
+          "predecessor": {
+            "text": "Kōichi Hagiuda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kōichi Hagiuda"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice Minister of Finance",
+            "links": [
+              {
+                "text": "Vice Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Japan)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Yasuo Fukuda (until 24 Sep. 2008), Taro Aso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yasuo Fukuda"
+              },
+              {
+                "text": "Taro Aso",
+                "type": "internal",
+                "page": "Tarō Asō"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Norio Mitsuya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norio Mitsuya"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 August 2008"
+          },
+          "term_end1": {
+            "text": "16 September 2009"
+          },
+          "predecessor1": {
+            "text": "Ichiro Miyashita, Akio Koizumi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ichiro Miyashita"
+              },
+              {
+                "type": "internal",
+                "page": "Akio Koizumi"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hiroshi Ogushi, Shinichiro Furumoto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hiroshi Ogushi"
+              },
+              {
+                "type": "internal",
+                "page": "Shinichiro Furumoto"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the House of Councillors for the Hyogo at-large district",
+            "links": [
+              {
+                "text": "House of Councillors",
+                "type": "internal",
+                "page": "House of Councillors (Japan)"
+              },
+              {
+                "type": "internal",
+                "page": "Hyogo at-large district"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "July 2004"
+          },
+          "predecessor2": {
+            "text": "Tatsumi Osawa, Shōji Motooka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tatsumi Osawa"
+              },
+              {
+                "type": "internal",
+                "page": "Shōji Motooka"
+              }
+            ]
+          },
+          "alongside2": {
+            "text": "Shunichi Mizuoka, Yoshitada Konoike, Yasuhiro Tsuji (until 28 July 2013), Takayuki Shimizu (from 29 July 2013)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shunichi Mizuoka"
+              },
+              {
+                "type": "internal",
+                "page": "Yoshitada Konoike"
+              },
+              {
+                "type": "internal",
+                "page": "Yasuhiro Tsuji"
+              },
+              {
+                "text": "Takayuki Shimizu",
+                "type": "internal",
+                "page": "Takayuki Shimizu (politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Hyogo Prefectural Assembly for the Tarumi district",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hyogo Prefectural Assembly"
+              },
+              {
+                "type": "internal",
+                "page": "Tarumi district"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1983",
+            "number": 1983
+          },
+          "term_end3": {
+            "text": "24 June 2004"
+          },
+          "successor3": {
+            "text": "Yuichiro Wada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yuichiro Wada"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic",
+            "links": [
+              {
+                "text": "Liberal Democratic",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 17, 1955"
+          },
+          "birth_place": {
+            "text": "Kobe, Hyogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kobe, Hyogo"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Yumi Suematsu"
+          }
+        }
+      ]
+    }
+  ]
+}

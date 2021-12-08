@@ -1,0 +1,280 @@
+{
+  "title": "Nobuo Kishi",
+  "pageID": 14173083,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Politicians from Tokyo",
+    "Keio University alumni",
+    "Members of Nippon Kaigi",
+    "Members of the House of Councillors (Japan)",
+    "Liberal Democratic Party (Japan) politicians",
+    "Shinzo Abe",
+    "Japanese defense ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nobuo Kishi (岸 信夫) is a Japanese politician who currently serves as Minister of Defense since September 2020.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Minister of Defense (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He is serving in the House of Representatives as a member of the Liberal Democratic Party.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He is a younger brother of former Japanese Prime Minister Shinzo Abe, and a grandson of former Prime Minister Nobusuke Kishi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shinzo Abe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nobusuke Kishi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "english": "安倍 信夫",
+          "kanji": "Abe Nobuo",
+          "template": "nihongo"
+        },
+        {
+          "year": "1959",
+          "month": "04",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Nobuo Kishi",
+          "kanji": "岸 信夫",
+          "romaji": "Kishi Nobuo",
+          "extra": "born April 1, 1959",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nobuo Kishi"
+          },
+          "native_name": {
+            "text": "岸 信夫"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Nobuo Kishi 20200916.jpg"
+          },
+          "caption": {
+            "text": "Nobuo Kishi September 16, 2020"
+          },
+          "office": {
+            "text": "Minister of Defense",
+            "links": [
+              {
+                "text": "Minister of Defense",
+                "type": "internal",
+                "page": "Minister of Defense (Japan)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Yoshihide Suga\nFumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yoshihide Suga"
+              },
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 September 2020"
+          },
+          "predecessor": {
+            "text": "Tarō Kōno",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tarō Kōno"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the House of Representatives",
+            "links": [
+              {
+                "text": "Member of the House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Japan)"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Yamaguchi 2nd district",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yamaguchi 2nd district"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "12 December 2012"
+          },
+          "office2": {
+            "text": "Member of the House of Councillors",
+            "links": [
+              {
+                "text": "Member of the House of Councillors",
+                "type": "internal",
+                "page": "House of Councillors (Japan)"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Yamaguchi",
+            "links": [
+              {
+                "text": "Yamaguchi",
+                "type": "internal",
+                "page": "Yamaguchi at-large district"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 July 2004"
+          },
+          "term_end2": {
+            "text": "30 November 2012"
+          },
+          "predecessor2": {
+            "text": "Masuo Matsuoka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masuo Matsuoka"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ejima Kiyoshi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ejima Kiyoshi"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "安倍 信夫 (Abe Nobuo)"
+          },
+          "birth_date": {
+            "text": "April 1, 1959"
+          },
+          "birth_place": {
+            "text": "Tokyo, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tokyo"
+              },
+              {
+                "type": "internal",
+                "page": "Japan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic",
+            "links": [
+              {
+                "text": "Liberal Democratic",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Shinzo Abe, Nobusuke Kishi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shinzo Abe"
+              },
+              {
+                "type": "internal",
+                "page": "Nobusuke Kishi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Keio University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keio University"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Hideo Hiraoka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hideo Hiraoka"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

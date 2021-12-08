@@ -1,0 +1,69 @@
+{
+  "title": "Takayuki Kobayashi",
+  "pageID": 68890865,
+  "categories": [
+    "Living people",
+    "1974 births",
+    "21st-century Japanese politicians",
+    "Liberal Democratic Party (Japan) politicians",
+    "Ministers of Finance of Japan",
+    "Harvard University alumni",
+    "Japanese bankers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Takayuki Kobayashi (小林 鷹之, Kobayashi Takayuki, born 29 November 1974) is a Japanese politician who was appointed to the Kishida Cabinet as Minister for Economic Security on 4 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kishida Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Takayuki Kobayashi"
+                ],
+                "italic": [
+                  "Kobayashi Takayuki"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Kobayashi Takayuki.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Kobayashi_Takayuki.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Kobayashi_Takayuki.jpg",
+          "caption": "Official portrait.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-03",
+          "title": "Kishida taps Takayuki Kobayashi for new economic security post as Cabinet takes shape",
+          "url": "https://www.japantimes.co.jp/news/2021/10/03/national/politics-diplomacy/kishida-economic-security-cabinet/",
+          "access-date": "2021-10-04",
+          "website": "The Japan Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
