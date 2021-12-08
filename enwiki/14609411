@@ -1,0 +1,311 @@
+{
+  "title": "Genjirō Kaneko",
+  "pageID": 14609411,
+  "categories": [
+    "1944 births",
+    "Living people",
+    "Politicians from Nagasaki Prefecture",
+    "Keio University alumni",
+    "Members of the House of Representatives (Japan)",
+    "Members of the House of Councillors (Japan)",
+    "Governors of Nagasaki Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Genjirō Kaneko (金子 原二郎) is a Japanese politician and member of the Liberal Democratic Party.",
+              "links": [
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "Kaneko is the Minister of Agriculture, Forestry and Fisheries since October 2021.",
+              "links": [
+                {
+                  "text": "Minister of Agriculture, Forestry and Fisheries",
+                  "type": "internal",
+                  "page": "Minister of Agriculture, Forestry and Fisheries (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He has represented the Nagasaki At-large district in the House of Councillors of the national Diet since his election in the July 2010 Councillors election.",
+              "links": [
+                {
+                  "text": "Nagasaki At-large district",
+                  "type": "internal",
+                  "page": "Nagasaki At-large district (House of Councillors)"
+                },
+                {
+                  "text": "House of Councillors",
+                  "type": "internal",
+                  "page": "House of Councillors (Japan)"
+                },
+                {
+                  "text": "Diet",
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                },
+                {
+                  "text": "July 2010 Councillors election",
+                  "type": "internal",
+                  "page": "2010 Japanese House of Councillors election"
+                }
+              ]
+            },
+            {
+              "text": "Kaneko is a native of Ikitsuki, Nagasaki and graduate of Keio University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ikitsuki, Nagasaki"
+                },
+                {
+                  "type": "internal",
+                  "page": "Keio University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1944",
+          "month": "5",
+          "day": "8",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Genjirō Kaneko",
+          "kanji": "金子 原二郎",
+          "romaji": "Kaneko Genjirō",
+          "extra": "born May 8, 1944",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Genjirō Kaneko"
+          },
+          "native_name": {
+            "text": "金子 原二郎"
+          },
+          "image": {
+            "text": "20211004kaneko genjiro.jpg"
+          },
+          "caption": {
+            "text": "Kaneko in 2021"
+          },
+          "office": {
+            "text": "Minister of Agriculture, Forestry and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Forestry and Fisheries",
+                "type": "internal",
+                "page": "Minister of Agriculture, Forestry and Fisheries (Japan)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Fumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 October 2021"
+          },
+          "predecessor": {
+            "text": "Kōtarō Nogami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kōtarō Nogami"
+              }
+            ]
+          },
+          "office2": {
+            "text": "House of Councillors",
+            "links": [
+              {
+                "text": "House of Councillors",
+                "type": "internal",
+                "page": "House of Councillors (Japan)"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Nagasaki At-large district",
+            "links": [
+              {
+                "text": "Nagasaki At-large district",
+                "type": "internal",
+                "page": "Nagasaki At-large district (House of Councillors)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 July 2010"
+          },
+          "predecessor2": {
+            "text": "Tadashi Inuzuka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tadashi Inuzuka"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Governor of Nagasaki Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nagasaki Prefecture"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2 March 1998"
+          },
+          "term_end3": {
+            "text": "1 March 2010"
+          },
+          "predecessor3": {
+            "text": "Isamu Takada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isamu Takada"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Hōdō Nakamura",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hōdō Nakamura"
+              }
+            ]
+          },
+          "office4": {
+            "text": "House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Japan)"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "Nagasaki No.4 District (Nagasaki No.2 District until 1996)"
+          },
+          "term_start4": {
+            "text": "1983",
+            "number": 1983
+          },
+          "term_end4": {
+            "text": "1998",
+            "number": 1998
+          },
+          "predecessor4": {
+            "text": "Iwazō Kaneko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iwazō Kaneko"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Daisuke Miyajima",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daisuke Miyajima"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Nagasaki Prefectural Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nagasaki Prefectural Assembly"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "1975",
+            "number": 1975
+          },
+          "term_end5": {
+            "text": "1983",
+            "number": 1983
+          },
+          "birth_date": {
+            "text": "May 8, 1944"
+          },
+          "birth_place": {
+            "text": "Ikitsuki, Nagasaki, Japan",
+            "links": [
+              {
+                "text": "Ikitsuki",
+                "type": "internal",
+                "page": "Ikitsuki, Nagasaki"
+              },
+              {
+                "text": "Nagasaki",
+                "type": "internal",
+                "page": "Nagasaki Prefecture"
+              },
+              {
+                "type": "internal",
+                "page": "Japan"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Keio University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keio University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic Party",
+            "links": [
+              {
+                "text": "Liberal Democratic Party",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "title": "Yasushi Kaneko",
+  "pageID": 13818471,
+  "categories": [
+    "Members of the House of Representatives (Japan)",
+    "Waseda University alumni",
+    "Politicians from Kumamoto Prefecture",
+    "Living people",
+    "Members of Nippon Kaigi",
+    "1961 births",
+    "Liberal Democratic Party (Japan) politicians",
+    "21st-century Japanese politicians",
+    "Ministers of Internal Affairs of Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yasushi Kaneko (金子 恭之) is a Japanese politician who currently serves as Minister for Internal Affairs and Communications since October 2021.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for Internal Affairs and Communications"
+                }
+              ]
+            },
+            {
+              "text": "He is serving in the House of Representatives as a member of the Liberal Democratic Party.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1961",
+          "month": "2",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Yasushi Kaneko",
+          "kanji": "金子 恭之",
+          "romaji": "Kaneko Yasushi",
+          "extra": "born February 27, 1961",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kaneko Yasushi"
+          },
+          "native_name": {
+            "text": "金子 恭之"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Kaneko Yasushi (2020).jpg"
+          },
+          "office": {
+            "text": "Minister for Internal Affairs and Communications",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for  Internal Affairs and Communications"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Fumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 October 2021"
+          },
+          "predecessor": {
+            "text": "Ryota Takeda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ryota Takeda"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 27, 1961"
+          },
+          "birth_place": {
+            "text": "Kuma District, Kumamoto, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuma District, Kumamoto"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic",
+            "links": [
+              {
+                "text": "Liberal Democratic",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Waseda University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Waseda University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

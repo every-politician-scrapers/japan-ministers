@@ -1,0 +1,158 @@
+{
+  "title": "Yoshihisa Furukawa",
+  "pageID": 13706244,
+  "categories": [
+    "Members of the House of Representatives (Japan)",
+    "University of Tokyo alumni",
+    "Living people",
+    "1965 births",
+    "Liberal Democratic Party (Japan) politicians",
+    "21st-century Japanese politicians",
+    "Ministers of Justice of Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yoshihisa Furukawa (古川 禎久) is a Japanese politician who currently serves as Minister of Justice since October 2021.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He is serving in the House of Representatives as a member of the Liberal Democratic Party.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1965",
+          "month": "8",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Yoshihisa Furukawa",
+          "kanji": "古川 禎久",
+          "romaji": "Furukawa Yoshihisa",
+          "extra": "born August 3, 1965",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yoshihisa Furukawa"
+          },
+          "native_name": {
+            "text": "古川 禎久"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Furukawayoshihisa.jpg"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Minister of Justice (Japan)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Fumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 October 2021"
+          },
+          "predecessor": {
+            "text": "Yōko Kamikawa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yōko Kamikawa"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 3, 1965"
+          },
+          "birth_place": {
+            "text": "Kushima, Miyazaki, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kushima, Miyazaki"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic",
+            "links": [
+              {
+                "text": "Liberal Democratic",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
