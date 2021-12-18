@@ -145,8 +145,11 @@
               }
             ]
           },
+          "party": {
+            "text": "Independent"
+          },
           "otherparty": {
-            "text": "DP (2016–2017) DPJ (2009–2016)",
+            "text": "DP (2016–2017)\n\nDPJ (2009–2016)",
             "links": [
               {
                 "text": "DP",
@@ -156,7 +159,7 @@
               {
                 "text": "DPJ",
                 "type": "internal",
-                "page": "Democratic Party (Japan, 1998)"
+                "page": "Democratic Party of Japan"
               }
             ]
           }
