@@ -42,6 +42,26 @@
               "text": "Ibaragi assumed office as Okayama Prefectural Governor in November 2012."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He's after the gaduated University ,He replaced his father, Ibara Kiichi, as president and representative director of Tenmaya.",
+              "links": [
+                {
+                  "text": "Tenmaya",
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "ja"
+                  }
+                }
+              ]
+            },
+            {
+              "text": "He has been president of the company for 14 years."
+            }
+          ]
         }
       ],
       "templates": [
