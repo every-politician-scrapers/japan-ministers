@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Ryuta Ibaragi (伊原木 隆太) is a Japanese politician and the governor of Okayama Prefecture in Japan.",
+              "text": "Ryūta Ibaragi (伊原木 隆太) is a Japanese politician and the governor of Okayama Prefecture in Japan.",
               "links": [
                 {
                   "text": "Japanese",
@@ -35,33 +35,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Ibaragi assumed office as Okayama Prefectural Governor in November 2012."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He's after the gaduated University ,He replaced his father, Ibara Kiichi, as president and representative director of Tenmaya.",
-              "links": [
-                {
-                  "text": "Tenmaya",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "ja"
-                  }
-                }
-              ]
-            },
-            {
-              "text": "He has been president of the company for 14 years."
-            }
-          ]
         }
       ],
       "templates": [
@@ -77,7 +50,7 @@
           "template": "birth date and age"
         },
         {
-          "english": "Ryuta Ibaragi",
+          "english": "Ryūta Ibaragi",
           "kanji": "伊原木 隆太",
           "romaji": "Ibaragi Ryūta",
           "extra": "born 29 July 1966",
@@ -87,13 +60,19 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Ryuta Ibaragi"
+            "text": "Ryūta Ibaragi"
           },
           "native_name": {
             "text": "伊原木 隆太"
           },
           "native_name_lang": {
             "text": "ja"
+          },
+          "image": {
+            "text": "Ryuta Ibaragi cropped 2 Shinzo Abe Hidehiko Yuzaki Ryuta Ibaragi and Tokihiro Nakamura 20180802.jpg"
+          },
+          "caption": {
+            "text": "Ryūta Ibaragi"
           },
           "office": {
             "text": "Governor of Okayama Prefecture",
