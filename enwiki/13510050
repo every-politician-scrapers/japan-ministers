@@ -223,6 +223,12 @@
         },
         {
           "list": [
+            "Kishida Fumio"
+          ],
+          "template": "eastern name order"
+        },
+        {
+          "list": [
             "岸田文雄"
           ],
           "date": "November 2021",
@@ -231,12 +237,6 @@
         {
           "date": "November 2021",
           "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Kishida Fumio"
-          ],
-          "template": "eastern name order"
         },
         {
           "last": "yes",
