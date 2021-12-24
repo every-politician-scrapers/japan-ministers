@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q208233,Emperor of Japan,Q17,Q188712,,Q188210,,,,,Emperor of Japan
-Q274948,Prime Minister of Japan,Q17,Q17,Q4676862,Q243185,1885-12-22,,,,Prime Minister of Japan
+Q274948,Prime Minister of Japan,Q17,Q17,Q1767791,Q243185,1885-12-22,,,,Prime Minister of Japan
 Q1767791,Deputy Prime Minister of Japan,Q17,Q17,,,1947-05-03,,,,Deputy Prime Minister of Japan
 Q8191055,"Minister of Agriculture, Forestry and Fisheries",Q17,Q17,,,,,,,"Minister of Agriculture, Forestry and Fisheries (Japan)"
 Q6500838,Minister of Defense of Japan,Q17,Q17,,,2006-01-09,,,,Minister of Defense (Japan)
