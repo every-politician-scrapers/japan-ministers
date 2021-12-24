@@ -183,10 +183,6 @@
           "template": "about"
         },
         {
-          "date": "November 2021",
-          "template": "lead too short"
-        },
-        {
           "date": "September 2020",
           "template": "use dmy dates"
         },
