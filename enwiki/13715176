@@ -28,11 +28,6 @@
               "text": "Hirokazu Matsuno (松野 博一) is a Japanese politician who currently serve as the Chief Cabinet Secretary since October 2021.",
               "links": [
                 {
-                  "text": "Japanese",
-                  "type": "internal",
-                  "page": "Japan"
-                },
-                {
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
@@ -79,10 +74,6 @@
           "romaji": "Matsuno Hirokazu",
           "extra": "born September 13, 1962",
           "template": "nihongo"
-        },
-        {
-          "date": "October 2021",
-          "template": "cn"
         }
       ],
       "infoboxes": [
@@ -215,6 +206,10 @@
           "url": "https://www.reuters.com/world/asia-pacific/japans-kishida-set-take-office-form-government-2021-10-03/",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "October 2021",
+          "template": "citation needed"
         }
       ]
     }

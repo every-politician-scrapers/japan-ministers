@@ -23,11 +23,6 @@
               "text": "Yasushi Kaneko (金子 恭之) is a Japanese politician who currently serves as Minister for Internal Affairs and Communications since October 2021.",
               "links": [
                 {
-                  "text": "Japanese",
-                  "type": "internal",
-                  "page": "Japan"
-                },
-                {
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
@@ -95,7 +90,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Minister for  Internal Affairs and Communications"
+                "page": "Minister for Internal Affairs and Communications"
               }
             ]
           },
