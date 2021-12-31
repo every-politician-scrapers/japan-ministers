@@ -592,7 +592,7 @@
             }
           },
           "term_label2": {
-            "text": "In office (Acting)"
+            "text": "Acting"
           },
           "term_start2": {
             "text": "4 November 2021"
@@ -671,7 +671,10 @@
             ]
           },
           "term_label4": {
-            "text": "In office (Acting)"
+            "text": "In office"
+          },
+          "status4": {
+            "text": "Acting"
           },
           "term_start4": {
             "text": "28 July 2017"
