@@ -140,23 +140,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.japantimes.co.jp/news/2018/03/12/national/politics-diplomacy/incumbent-tanimoto-wins-seventh-term-ishikawa-prefectures-gubernatorial-election/",
-          "title": "Masanori Tanimoto rolls to seventh term in Ishikawa gubernatorial election, becoming Japan's longest-serving governor",
-          "work": "Japan Times",
-          "date": "2018-03-12",
-          "access-date": "2021-06-26",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -164,39 +164,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0007/00007289.html",
-          "script-title": "ja:政治家情報 〜村井 嘉浩〜",
-          "work": "Senkyo",
-          "publisher": "JANJAN",
-          "access-date": "2007-11-22",
-          "language": "ja",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20080119215340/http://www.senkyo.janjan.jp/diet/profile/0007/00007289.html",
-          "archive-date": "January 19, 2008",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.japantimes.co.jp/news/2017/07/21/national/miyagi-lawmakers-ask-governor-to-take-down-suggestive-tourism-video-featuring-dan-mitsu/",
-          "title": "Miyagi lawmakers ask governor to take down suggestive tourism video featuring Dan Mitsu",
-          "work": "The Japan Times",
-          "date": "July 21, 2017",
-          "access-date": "July 29, 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.japantimes.co.jp/news/2017/08/21/national/miyagi-remove-sexist-tourism-video-month-complaints/",
-          "title": "Miyagi to remove ‘sexist’ tourism video after a month of complaints",
-          "work": "The Japan Times",
-          "date": "August 21, 2017",
-          "access-date": "July 29, 2018",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

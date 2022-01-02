@@ -130,36 +130,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "静岡県／ようこそ知事室へ",
-          "url": "http://www.pref.shizuoka.jp/governor/index.html",
-          "access-date": "2021-06-20",
-          "website": "www.pref.shizuoka.jp",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "静岡県／プロフィール【ようこそ知事室へ】",
-          "url": "http://www.pref.shizuoka.jp/governor/profile.html",
-          "access-date": "2021-06-20",
-          "website": "www.pref.shizuoka.jp",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Japan maglev critic reelected in Shizuoka, claiming green mandate",
-          "url": "https://asia.nikkei.com/Politics/Japan-maglev-critic-reelected-in-Shizuoka-claiming-green-mandate",
-          "access-date": "2021-06-21",
-          "website": "Nikkei Asia",
-          "language": "en-GB",
-          "archive-url": "https://web.archive.org/web/20211203112704/https://asia.nikkei.com/Politics/Japan-maglev-critic-reelected-in-Shizuoka-claiming-green-mandate",
-          "archive-date": "3 December 2021",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

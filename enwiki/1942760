@@ -434,34 +434,6 @@
             "text": "Official website"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.wsj.com/articles/yuriko-koike-elected-governor-of-tokyo-first-woman-in-post-1469967380",
-          "title": "Yuriko Koike Elected Governor of Tokyo, First Woman in Post",
-          "first": "Peter",
-          "last": "Landers",
-          "date": "July 31, 2016",
-          "access-date": "December 26, 2016",
-          "newspaper": "Wall Street Journal",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.asahi.com/senkyo/tochijisen/2020/kaihyo/",
-          "title": "開票速報｜2020都知事選（東京都知事選挙）：朝日新聞デジタル",
-          "last": "The Asahi Shimbun Company",
-          "website": "朝日新聞デジタル",
-          "access-date": "November 25, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

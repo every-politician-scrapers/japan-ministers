@@ -178,25 +178,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Prime Minister of Japan and His Cabinet",
-          "url": "https://japan.kantei.go.jp/96_abe/cabinetlist1/daijin/1206754_9741.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "21 July 2019",
-          "title": "Ruling coalition-backed Ichita Yamamoto wins Gunma governor race",
-          "url": "https://www.japantimes.co.jp/news/2019/07/21/national/politics-diplomacy/ruling-coalition-backed-ichita-yamamoto-wins-gunma-governor-race/",
-          "url-status": "live",
-          "access-date": "3 August 2021",
-          "website": "The Japan Times",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

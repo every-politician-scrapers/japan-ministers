@@ -290,30 +290,6 @@
             "text": "Official website"
           }
         }
-      ],
-      "references": [
-        {
-          "author": "Junko Ogura, Selina Wang and Helen Regan",
-          "title": "Fumio Kishida expected to become Japan's next Prime Minister after ruling party vote",
-          "url": "https://www.cnn.com/2021/09/29/asia/japan-leadership-election-kishida-intl-hnk/index.html",
-          "access-date": "2021-10-01",
-          "website": "CNN",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Sim",
-          "first": "Walter",
-          "date": "2021-10-04",
-          "title": "Who's who in Cabinet of Japan's new PM Fumio Kishida",
-          "language": "en",
-          "work": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/east-asia/whos-who-in-the-cabinet-of-japans-new-pm-fumio-kishida",
-          "access-date": "2021-10-04",
-          "issn": "0585-3923",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -235,28 +235,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.pref.kumamoto.jp/site/tiji/",
-          "title": "Archived copy",
-          "access-date": "2009-11-10",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20091102214943/http://www.pref.kumamoto.jp/site/tiji/",
-          "archive-date": "2009-11-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.pref.kumamoto.jp/site/tiji/profile.html",
-          "title": "Archived copy",
-          "access-date": "2009-11-10",
-          "archive-url": "https://web.archive.org/web/20091031211109/http://www.pref.kumamoto.jp/site/tiji/profile.html",
-          "archive-date": "2009-10-31",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

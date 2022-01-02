@@ -195,35 +195,6 @@
             ]
           }
         ]
-      ],
-      "references": [
-        {
-          "title": "HORIUCHI Noriko {{!}} Liberal Democratic Party of Japan",
-          "url": "https://www.jimin.jp/english/profile/members/120830.html",
-          "access-date": "2021-10-05",
-          "website": "www.jimin.jp",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-09-03",
-          "title": "Vaccination minister Taro Kono to run in LDP leadership race, source says",
-          "url": "https://www.japantimes.co.jp/news/2021/09/03/national/taro-kono-ldp-leadership-race/",
-          "access-date": "2021-11-03",
-          "website": "The Japan Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "https://twitter.com/genkihoriuchi",
-          "url": "https://twitter.com/genkihoriuchi",
-          "access-date": "2021-10-05",
-          "website": "Twitter",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
