@@ -120,21 +120,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.senkyo.janjan.jp/diet/profile/0041/00041603.html",
-          "script-title": "ja:政治家情報 〜仁坂 吉伸〜",
-          "work": "senkyo.janjan.jp ザ･選挙",
-          "publisher": "JANJAN",
-          "access-date": "2007-12-08",
-          "language": "ja",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20071127161359/http://www.senkyo.janjan.jp/diet/profile/0041/00041603.html",
-          "archive-date": "November 27, 2007",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

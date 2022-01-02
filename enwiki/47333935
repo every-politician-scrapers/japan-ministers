@@ -140,24 +140,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.pref.nagano.lg.jp/hisho/kensei/gaiyo/chiji/profile/index.html",
-          "title": "阿部知事のプロフィール",
-          "publisher": "Nagano Prefecture",
-          "date": "1 April 2015",
-          "language": "ja",
-          "accessdate": "24 October 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

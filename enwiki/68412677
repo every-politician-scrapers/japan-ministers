@@ -122,26 +122,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.japantimes.co.jp/news/2021/07/19/national/hyogo-governor-election/",
-          "title": "Motohiko Saito elected Hyogo governor for first time",
-          "newspaper": "The Japan Times",
-          "date": "19 July 2021",
-          "access-date": "6 August 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thebharatexpressnews.com/motohiko-saito-elected-governor-of-hyogo-for-the-first-time/",
-          "title": "Motohiko Saito elected governor of Hyogo for the first time",
-          "newspaper": "The Bharat Express News",
-          "date": "19 July 2021",
-          "access-date": "6 August 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

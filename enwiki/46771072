@@ -122,22 +122,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "LDP-backed incumbents win in Nagasaki and Yamaguchi gubernatorial elections",
-          "url": "https://www.japantimes.co.jp/news/2018/02/04/national/politics-diplomacy/ldp-backed-incumbents-win-nagasaki-yamaguchi-gubernatorial-elections/",
-          "work": "The Japan Times Online",
-          "date": "4 February 2018",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
