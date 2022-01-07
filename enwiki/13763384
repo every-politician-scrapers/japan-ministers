@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Tsuyoshi Yamaguchi (山口 壯) is a Japanese politician of the Liberal Democratic Party (Japan) and a member of the House of Representatives in the Diet (national legislature).",
+              "text": "Tsuyoshi Yamaguchi (山口 壯) is a Japanese politician of the Liberal Democratic Party (Japan) and a member of the House of Representatives in the Diet (national legislature) who currently serves as Minister of the Environment since 2021.",
               "links": [
                 {
                   "text": "politician",
@@ -37,9 +37,18 @@
                   "text": "Diet",
                   "type": "internal",
                   "page": "Diet of Japan"
+                },
+                {
+                  "text": "Minister of the Environment",
+                  "type": "internal",
+                  "page": "Minister of the Environment (Japan)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "A native of Aioi, Hyōgo and 1978 graduate of the faculty of law at the University of Tokyo, he joined the Ministry of Foreign Affairs in 1979 and received a Ph. D from SAIS at The Johns Hopkins University in the United States while an attache to the Embassy of Japan in Washington, D.C.",
               "links": [
@@ -197,7 +206,7 @@
             "text": "ja"
           },
           "image": {
-            "text": "Yamaguchi tsuyoshi profile.png"
+            "text": "20211004 yamaguchi tsuyoshi.jpg"
           },
           "image_size": {
             "text": "220px"
