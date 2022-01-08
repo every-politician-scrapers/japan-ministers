@@ -1,163 +1,160 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q11600464,Q11600464,,,,,,,,,Q13406463,Wikimedia list article,,,,,,,Q11399608,Q11399608,Q11575856,Q11575856
-,Q11601105,Q11601105,,,,,,,,,Q13406463,Wikimedia list article,,,,,,,Q11600808,Q11600808,Q11600459,Q11600459
-,Q11399065,Q11399065,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11671046,Q11671046,Q11270441,Q11270441
-,Q11399608,Q11399608,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11561287,Q11561287,Q11600464,Q11600464
-,Q11483190,Q11483190,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600468,Q11600468,Q11657764,Q11657764
-,Q11532865,Q11532865,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11486424,Hirota's Gabinet,Q11600468,Q11600468
-,Q11561287,Q11561287,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11270441,Q11270441,Q11399608,Q11399608
-,Q11566150,Q11566150,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11575856,Q11575856,Q1674008,Q1674008
-,Q11575856,Q11575856,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600464,Q11600464,Q11566150,Q11566150
-,Q11600459,Q11600459,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11601105,Q11601105,Q11600806,Q11600806
-,Q11600463,First Katsura Cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11601307,Q11601307,Q11600466,First Saionji Cabinet
-,Q11600464,Q11600464,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11399608,Q11399608,Q11575856,Q11575856
-,Q11600466,First Saionji Cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600463,First Katsura Cabinet,Q11270404,Second Katsura Cabinet
-,Q11600468,Q11600468,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11532865,Q11532865,Q11483190,Q11483190
-,Q11600801,Q11600801,,,,,1896-01-01,9,,,Q529012,Cabinet of Japan,,,Q8010527,Q8010527,Q11600808,Q11600808,Q8010527,Q8010527,Q11600808,Q11600808
-,Q11600806,Q11600806,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600459,Q11600459,Q11601307,Q11601307
-,Q11600808,Q11600808,,,,,,,,,Q529012,Cabinet of Japan,,,Q11600801,Q11600801,,,Q11600801,Q11600801,Q11601105,Q11601105
-,Q11600810,Q11600810,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11604014,Q11604014,Q11601112,Q11601112
-,Q11601105,Q11601105,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600808,Q11600808,Q11600459,Q11600459
-,Q11601112,Q11601112,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600810,Q11600810,Q1720424,Q1720424
-,Q11601307,Q11601307,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600806,Q11600806,Q11600463,First Katsura Cabinet
-,Q11604014,Q11604014,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11657764,Q11657764,Q11600810,Q11600810
-,Q11649283,Kantaro Suzuki cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q10855343,Q10855343,Q1252961,Q1252961
-,Q11657764,Q11657764,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11483190,Q11483190,Q11604014,Q11604014
-,Q11671046,Q11671046,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1719944,Q1719944,Q11399065,Q11399065
-,Q11270490,Q11270490,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1720275,Second Saionji Cabinet,Q10295967,Q10295967
-,Q1045014,Q1045014,,,,,1888-01-01,9,,,Q529012,Cabinet of Japan,,,,,Q5366061,Q5366061,,,Q5366061,Q5366061
-,Q1252961,Q1252961,,,,,,,,,Q529012,Cabinet of Japan,,,,,Q428100,Shidehara Cabinet,Q11649283,Kantaro Suzuki cabinet,Q428100,Shidehara Cabinet
-,Q1618380,Q1618380,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1674008,Q1674008,Q1720277,Q1720277
-,Q1674008,Q1674008,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11566150,Q11566150,Q1618380,Q1618380
-,Q1719944,Q1719944,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11233979,Q11233979,Q11671046,Q11671046
-,Q1720275,Second Saionji Cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11270404,Second Katsura Cabinet,Q11270490,Q11270490
-,Q1720277,Q1720277,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1618380,Q1618380,Q7081714,Okada Cabinet
-,Q1720424,Q1720424,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11601112,Q11601112,Q10855343,Q10855343
-,Q8010527,Q8010527,,,,,1892-01-01,9,,,Q529012,Cabinet of Japan,,,Q583746,First Yamagata Cabinet,Q11600801,Q11600801,Q583746,First Yamagata Cabinet,Q11600801,Q11600801
-,Q10295967,Q10295967,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11270490,Q11270490,Q11270444,Q11270444
-,Q10855343,Q10855343,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q1720424,Q1720424,Q11649283,Kantaro Suzuki cabinet
-,Q11233979,Q11233979,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11270444,Q11270444,Q1719944,Q1719944
-,Q11270404,Second Katsura Cabinet,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11600466,First Saionji Cabinet,Q1720275,Second Saionji Cabinet
-,Q11270441,Q11270441,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q11399065,Q11399065,Q11561287,Q11561287
-,Q11270444,Q11270444,,,,,,,,,Q529012,Cabinet of Japan,,,,,,,Q10295967,Q10295967,Q11233979,Q11233979
-,Q5366061,Q5366061,1888-04-30,11,,,1889-12-25,11,,,Q529012,Cabinet of Japan,,,Q1045014,Q1045014,Q583746,First Yamagata Cabinet,Q1045014,Q1045014,Q22960725,Q22960725
-,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,Q529012,Cabinet of Japan,,,,,,,Q5366061,Q5366061,Q583746,First Yamagata Cabinet
-,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q529012,Cabinet of Japan,,,Q5366061,Q5366061,Q8010527,Q8010527,Q5366061,Q5366061,Q8010527,Q8010527
-,Q7081714,Okada Cabinet,1934-01-01,9,1934-01-01,9,1936-01-01,9,,,Q529012,Cabinet of Japan,,,,,,,Q1720277,Q1720277,Q11486424,Hirota's Gabinet
-,Q11486424,Hirota's Gabinet,1936-03-09,11,,,1937-02-02,11,,,Q529012,Cabinet of Japan,,,,,,,Q7081714,Okada Cabinet,Q11532865,Q11532865
-,Q428100,Shidehara Cabinet,1945-10-09,11,,,1946-05-22,11,,,Q529012,Cabinet of Japan,,,Q1252961,Q1252961,Q382498,First Yoshida Cabinet,Q1252961,Q1252961,Q382498,First Yoshida Cabinet
-,Q382498,First Yoshida Cabinet,1946-05-22,11,,,1947-01-31,11,,,Q529012,Cabinet of Japan,,,Q428100,Shidehara Cabinet,Q16511268,Q16511268,Q428100,Shidehara Cabinet,Q1720042,Katayama Cabinet
-,Q16511268,Q16511268,1947-01-31,11,,,1947-05-24,11,,,Q529012,Cabinet of Japan,,,Q382498,First Yoshida Cabinet,,,,,,
-,Q1720042,Katayama Cabinet,1947-05-24,11,1947-05-24,11,1948-03-10,11,1948-03-10,11,Q529012,Cabinet of Japan,,,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet
-,Q980227,Ashida Cabinet,1948-03-10,11,,,1948-10-15,11,,,Q529012,Cabinet of Japan,,,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet
-,Q1720803,Second Yoshida Cabinet,1948-10-15,11,,,1949-02-16,11,,,Q529012,Cabinet of Japan,,,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet
-,Q1720805,Third Yoshida Cabinet,1949-02-16,11,,,1950-06-28,11,,,Q529012,Cabinet of Japan,,,Q1720803,Second Yoshida Cabinet,Q11270492,Third Yoshida Cabinet (First Reshuffle),Q1720803,Second Yoshida Cabinet,Q11270492,Third Yoshida Cabinet (First Reshuffle)
-,Q11270492,Third Yoshida Cabinet (First Reshuffle),1950-06-28,11,,,1951-07-04,11,,,Q529012,Cabinet of Japan,,,Q1720805,Third Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q1720805,Third Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle)
-,Q11270494,Third Yoshida Cabinet (Second Reshuffle),1951-07-04,11,,,1951-12-26,11,,,Q529012,Cabinet of Japan,,,Q11270492,Third Yoshida Cabinet (First Reshuffle),Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270492,Third Yoshida Cabinet (First Reshuffle),Q11270496,Third Yoshida Cabinet (Third Reshuffle)
-,Q11270496,Third Yoshida Cabinet (Third Reshuffle),1951-12-26,11,,,1952-10-30,11,,,Q529012,Cabinet of Japan,,,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q11270519,Fourth Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q11270519,Fourth Yoshida Cabinet
-,Q11270519,Fourth Yoshida Cabinet,1952-10-30,11,,,1953-05-21,11,,,Q529012,Cabinet of Japan,,,Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270521,Fifth Yoshida Cabinet,Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270521,Fifth Yoshida Cabinet
-,Q11270521,Fifth Yoshida Cabinet,1953-05-21,11,,,1954-12-10,11,,,Q529012,Cabinet of Japan,,,Q11270519,Fourth Yoshida Cabinet,Q1719953,First I. Hatoyama Cabinet,Q11270519,Fourth Yoshida Cabinet,Q1719953,First I. Hatoyama Cabinet
-,Q1719953,First I. Hatoyama Cabinet,1954-12-10,11,,,1955-03-19,11,,,Q529012,Cabinet of Japan,,,Q11270521,Fifth Yoshida Cabinet,Q11600813,Second I. Hatoyama Cabinet,Q11270521,Fifth Yoshida Cabinet,Q11600813,Second I. Hatoyama Cabinet
-,Q11600813,Second I. Hatoyama Cabinet,1955-03-19,11,,,1955-11-22,11,,,Q529012,Cabinet of Japan,,,Q1719953,First I. Hatoyama Cabinet,Q11270510,Third I. Hatoyama Cabinet,Q1719953,First I. Hatoyama Cabinet,Q11270510,Third I. Hatoyama Cabinet
-,Q11270510,Third I. Hatoyama Cabinet,1955-11-22,11,,,1956-12-23,11,,,Q529012,Cabinet of Japan,,,Q11600813,Second I. Hatoyama Cabinet,Q1720005,Ishibashi Cabinet,Q11600813,Second I. Hatoyama Cabinet,Q1720005,Ishibashi Cabinet
-,Q1720005,Ishibashi Cabinet,1956-12-23,11,,,1957-02-25,11,,,Q529012,Cabinet of Japan,,,Q11270510,Third I. Hatoyama Cabinet,Q11270341,First Kishi Cabinet,Q11270510,Third I. Hatoyama Cabinet,Q11270341,First Kishi Cabinet
-,Q11270341,First Kishi Cabinet,1957-02-25,11,,,1957-07-10,11,,,Q529012,Cabinet of Japan,,,Q1720005,Ishibashi Cabinet,Q11270343,First Kishi Cabinet (Reshuffle),Q1720005,Ishibashi Cabinet,Q11270343,First Kishi Cabinet (Reshuffle)
-,Q11270343,First Kishi Cabinet (Reshuffle),1957-07-10,11,,,1958-06-12,11,,,Q529012,Cabinet of Japan,,,Q11270341,First Kishi Cabinet,Q11270406,Second Kishi Cabinet,Q11270341,First Kishi Cabinet,Q11270406,Second Kishi Cabinet
-,Q11270406,Second Kishi Cabinet,1958-06-12,11,,,1959-06-18,11,,,Q529012,Cabinet of Japan,,,Q11270343,First Kishi Cabinet (Reshuffle),Q11270408,Second Kishi Cabinet (Reshuffle),Q11270343,First Kishi Cabinet (Reshuffle),Q11270408,Second Kishi Cabinet (Reshuffle)
-,Q11270408,Second Kishi Cabinet (Reshuffle),1959-06-18,11,,,1960-07-19,11,,,Q529012,Cabinet of Japan,,,Q11270406,Second Kishi Cabinet,Q11270389,First Ikeda Cabinet,Q11270406,Second Kishi Cabinet,Q11270389,First Ikeda Cabinet
-,Q11270389,First Ikeda Cabinet,1960-07-19,11,,,1960-12-08,11,,,Q529012,Cabinet of Japan,,,Q11270408,Second Kishi Cabinet (Reshuffle),Q11270446,Second Ikeda Cabinet,Q11270408,Second Kishi Cabinet (Reshuffle),Q11270446,Second Ikeda Cabinet
-,Q11270446,Second Ikeda Cabinet,1960-12-08,11,,,1961-07-18,11,,,Q529012,Cabinet of Japan,,,Q11270389,First Ikeda Cabinet,Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270389,First Ikeda Cabinet,Q11270448,Second Ikeda Cabinet (First Reshuffle)
-,Q11270448,Second Ikeda Cabinet (First Reshuffle),1961-07-18,11,,,1962-07-18,11,,,Q529012,Cabinet of Japan,,,Q11270446,Second Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270446,Second Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle)
-,Q11270451,Second Ikeda Cabinet (Second Reshuffle),1962-07-18,11,,,1963-07-18,11,,,Q529012,Cabinet of Japan,,,Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle)
-,Q11270453,Second Ikeda Cabinet (Third Reshuffle),1963-07-18,11,,,1963-12-09,11,,,Q529012,Cabinet of Japan,,,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270498,Third Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270498,Third Ikeda Cabinet
-,Q11270498,Third Ikeda Cabinet,1963-12-09,11,,,1964-07-18,11,,,Q529012,Cabinet of Japan,,,Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle)
-,Q11270500,Third Ikeda Cabinet (Reshuffle),1964-07-18,11,,,1964-11-09,11,,,Q529012,Cabinet of Japan,,,Q11270498,Third Ikeda Cabinet,Q11285771,First Satō Cabinet,Q11270498,Third Ikeda Cabinet,Q11285771,First Satō Cabinet
-,Q11285771,First Satō Cabinet,1964-11-09,11,,,1965-06-03,11,,,Q529012,Cabinet of Japan,,,Q11270500,Third Ikeda Cabinet (Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle)
-,Q11600456,First Satō Cabinet (First Reshuffle),1965-06-03,11,,,1966-08-01,11,,,Q529012,Cabinet of Japan,,,Q11285771,First Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle),Q11285771,First Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle)
-,Q11600457,First Satō Cabinet (Second Reshuffle),1966-08-01,11,,,1966-12-03,11,,,Q529012,Cabinet of Japan,,,Q11600456,First Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle)
-,Q11600458,First Satō Cabinet (Third Reshuffle),1966-12-03,11,,,1967-02-17,11,,,Q529012,Cabinet of Japan,,,Q11600457,First Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet
-,Q11600802,Second Satō Cabinet,1967-02-17,11,,,1967-11-25,11,,,Q529012,Cabinet of Japan,,,Q11600458,First Satō Cabinet (Third Reshuffle),Q11600803,Second Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle),Q11600803,Second Satō Cabinet (First Reshuffle)
-,Q11600803,Second Satō Cabinet (First Reshuffle),1967-11-25,11,,,1968-11-30,11,,,Q529012,Cabinet of Japan,,,Q11600802,Second Satō Cabinet,Q11600805,Second Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet,Q11600805,Second Satō Cabinet (Second Reshuffle)
-,Q11600805,Second Satō Cabinet (Second Reshuffle),1968-11-30,11,,,1970-01-14,11,,,Q529012,Cabinet of Japan,,,Q11600803,Second Satō Cabinet (First Reshuffle),Q11601107,Third Satō Cabinet,Q11600803,Second Satō Cabinet (First Reshuffle),Q11601107,Third Satō Cabinet
-,Q11601107,Third Satō Cabinet,1970-01-14,11,,,1971-07-05,11,,,Q529012,Cabinet of Japan,,,Q11600805,Second Satō Cabinet (Second Reshuffle),Q11601109,Third Satō Cabinet (Reshuffle),Q11600805,Second Satō Cabinet (Second Reshuffle),Q11601109,Third Satō Cabinet (Reshuffle)
-,Q11601109,Third Satō Cabinet (Reshuffle),1971-07-05,11,,,1972-07-07,11,,,Q529012,Cabinet of Japan,,,Q11601107,Third Satō Cabinet,Q1544511,First K. Tanaka Cabinet,Q11601107,Third Satō Cabinet,Q1544511,First K. Tanaka Cabinet
-,Q1544511,First K. Tanaka Cabinet,1972-07-07,11,,,1972-12-22,11,,,Q529012,Cabinet of Japan,,,Q11601109,Third Satō Cabinet (Reshuffle),Q1720377,Second K. Tanaka Cabinet,Q11601109,Third Satō Cabinet (Reshuffle),Q1720377,Second K. Tanaka Cabinet
-,Q1720377,Second K. Tanaka Cabinet,1972-12-22,11,,,1973-11-25,11,,,Q529012,Cabinet of Japan,,,Q1544511,First K. Tanaka Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1544511,First K. Tanaka Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle)
-,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),1973-11-25,11,,,1974-11-11,11,,,Q529012,Cabinet of Japan,,,Q1720377,Second K. Tanaka Cabinet,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1720377,Second K. Tanaka Cabinet,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle)
-,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),1974-11-11,11,,,1974-12-09,11,,,Q529012,Cabinet of Japan,,,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1720145,Miki Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1720145,Miki Cabinet
-,Q1720145,Miki Cabinet,1974-12-09,11,,,1976-09-15,11,,,Q529012,Cabinet of Japan,,,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1660144,Miki Cabinet (Reshuffle),Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1660144,Miki Cabinet (Reshuffle)
-,Q1660144,Miki Cabinet (Reshuffle),1976-09-15,11,,,1976-12-24,11,,,Q529012,Cabinet of Japan,,,Q1720145,Miki Cabinet,Q1720373,T. Fukuda Cabinet,Q1720145,Miki Cabinet,Q1720373,T. Fukuda Cabinet
-,Q1720373,T. Fukuda Cabinet,1976-12-24,11,,,1977-11-28,11,,,Q529012,Cabinet of Japan,,,Q1660144,Miki Cabinet (Reshuffle),Q1303979,T. Fukuda Cabinet (Reshuffle),Q1660144,Miki Cabinet (Reshuffle),Q1303979,T. Fukuda Cabinet (Reshuffle)
-,Q1303979,T. Fukuda Cabinet (Reshuffle),1977-11-28,11,,,1978-12-07,11,,,Q529012,Cabinet of Japan,,,Q1720373,T. Fukuda Cabinet,Q766899,First Ōhira Cabinet,Q1720373,T. Fukuda Cabinet,Q766899,First Ōhira Cabinet
-,Q766899,First Ōhira Cabinet,1978-12-07,11,,,1979-11-09,11,,,Q529012,Cabinet of Japan,,,Q1303979,T. Fukuda Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet,Q1303979,T. Fukuda Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet
-,Q1284294,Second Ōhira Cabinet,1979-11-09,11,,,1980-07-17,11,,,Q529012,Cabinet of Japan,,,Q766899,First Ōhira Cabinet,Q1170970,Suzuki Cabinet,Q766899,First Ōhira Cabinet,Q1170970,Suzuki Cabinet
-,Q1170970,Suzuki Cabinet,1980-07-17,11,,,1981-11-30,11,,,Q529012,Cabinet of Japan,,,Q1284294,Second Ōhira Cabinet,Q1720368,Suzuki Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet,Q1720368,Suzuki Cabinet (Reshuffle)
-,Q1720368,Suzuki Cabinet (Reshuffle),1981-11-30,11,,,1982-11-27,11,,,Q529012,Cabinet of Japan,,,Q1170970,Suzuki Cabinet,Q1720166,First Nakasone Cabinet,Q1170970,Suzuki Cabinet,Q1720166,First Nakasone Cabinet
-,Q1720166,First Nakasone Cabinet,1982-11-27,11,,,1983-12-27,11,,,Q529012,Cabinet of Japan,,,Q1720368,Suzuki Cabinet (Reshuffle),Q1720167,Second Nakasone Cabinet,Q1720368,Suzuki Cabinet (Reshuffle),Q1720167,Second Nakasone Cabinet
-,Q1720167,Second Nakasone Cabinet,1983-12-27,11,,,1984-11-01,11,,,Q529012,Cabinet of Japan,,,Q1720166,First Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720166,First Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle)
-,Q1720171,Second Nakasone Cabinet (First Reshuffle),1984-11-01,11,,,1985-12-28,11,,,Q529012,Cabinet of Japan,,,Q1720167,Second Nakasone Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1720167,Second Nakasone Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle)
-,Q1536334,Second Nakasone Cabinet (Second Reshuffle),1985-12-28,11,,,1986-07-22,11,,,Q529012,Cabinet of Japan,,,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720169,Third Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720169,Third Nakasone Cabinet
-,Q1720169,Third Nakasone Cabinet,1986-07-22,11,,,1987-11-06,11,,,Q529012,Cabinet of Japan,,,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1249136,Takeshita Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1249136,Takeshita Cabinet
-,Q1249136,Takeshita Cabinet,1987-11-06,11,,,1988-12-27,11,,,Q529012,Cabinet of Japan,,,Q1720169,Third Nakasone Cabinet,Q550523,Takeshita Cabinet (Reshuffle),Q1720169,Third Nakasone Cabinet,Q550523,Takeshita Cabinet (Reshuffle)
-,Q550523,Takeshita Cabinet (Reshuffle),1988-12-27,11,,,1989-06-03,11,,,Q529012,Cabinet of Japan,,,Q1249136,Takeshita Cabinet,Q1720430,Uno Cabinet,Q1249136,Takeshita Cabinet,Q1720430,Uno Cabinet
-,Q1720430,Uno Cabinet,1989-06-03,11,,,1989-08-10,11,,,Q529012,Cabinet of Japan,,,Q550523,Takeshita Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet,Q550523,Takeshita Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet
-,Q1720029,First Kaifu Cabinet,1989-08-10,11,,,1990-02-28,11,,,Q529012,Cabinet of Japan,,,Q1720430,Uno Cabinet,Q1720031,Second Kaifu Cabinet,Q1720430,Uno Cabinet,Q1720031,Second Kaifu Cabinet
-,Q1720031,Second Kaifu Cabinet,1990-02-28,11,,,1990-12-29,11,,,Q529012,Cabinet of Japan,,,Q1720029,First Kaifu Cabinet,Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet,Q1720033,Second Kaifu Cabinet (Reshuffle)
-,Q1720033,Second Kaifu Cabinet (Reshuffle),1990-12-29,11,,,1991-11-05,11,,,Q529012,Cabinet of Japan,,,Q1720031,Second Kaifu Cabinet,Q1591262,Miyazawa Cabinet,Q1720031,Second Kaifu Cabinet,Q1591262,Miyazawa Cabinet
-,Q1591262,Miyazawa Cabinet,1991-11-05,11,,,1992-12-12,11,,,Q529012,Cabinet of Japan,,,Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720149,Miyazawa Cabinet (Reshuffle),Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720149,Miyazawa Cabinet (Reshuffle)
-,Q1720149,Miyazawa Cabinet (Reshuffle),1992-12-12,11,,,1993-08-09,11,,,Q529012,Cabinet of Japan,,,Q1591262,Miyazawa Cabinet,Q1719992,Hosokawa Cabinet,Q1591262,Miyazawa Cabinet,Q1719992,Hosokawa Cabinet
-,Q1719992,Hosokawa Cabinet,1993-08-09,11,,,1994-04-28,11,,,Q529012,Cabinet of Japan,,,Q1720149,Miyazawa Cabinet (Reshuffle),Q1719951,Hata Cabinet,Q1720149,Miyazawa Cabinet (Reshuffle),Q1719951,Hata Cabinet
-,Q1719951,Hata Cabinet,1994-04-28,11,,,1994-06-30,11,,,Q529012,Cabinet of Japan,,,Q1719992,Hosokawa Cabinet,Q224838,Murayama Cabinet,Q1719992,Hosokawa Cabinet,Q224838,Murayama Cabinet
-,Q224838,Murayama Cabinet,1994-06-30,11,1994-06-30,11,1995-08-08,11,1995-08-08,11,Q529012,Cabinet of Japan,,,Q1719951,Hata Cabinet,Q1720152,Murayama Cabinet (Reshuffle),Q1719951,Hata Cabinet,Q1720152,Murayama Cabinet (Reshuffle)
-,Q1720152,Murayama Cabinet (Reshuffle),1995-08-08,11,,,1996-01-11,11,,,Q529012,Cabinet of Japan,,,Q224838,Murayama Cabinet,Q1639415,First Hashimoto Cabinet,Q224838,Murayama Cabinet,Q1639415,First Hashimoto Cabinet
-,Q1639415,First Hashimoto Cabinet,1996-01-11,11,,,1996-11-07,11,,,Q529012,Cabinet of Japan,,,Q1720152,Murayama Cabinet (Reshuffle),Q1719949,Second Hashimoto Cabinet,Q1720152,Murayama Cabinet (Reshuffle),Q1719949,Second Hashimoto Cabinet
-,Q1719949,Second Hashimoto Cabinet,1996-11-07,11,,,1997-09-11,11,,,Q529012,Cabinet of Japan,,,Q1639415,First Hashimoto Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q1639415,First Hashimoto Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle)
-,Q1667135,Second Hashimoto Cabinet (Reshuffle),1997-09-11,11,,,1998-07-30,11,,,Q529012,Cabinet of Japan,,,Q1719949,Second Hashimoto Cabinet,Q1530370,Obuchi Cabinet,Q1719949,Second Hashimoto Cabinet,Q1530370,Obuchi Cabinet
-,Q1530370,Obuchi Cabinet,1998-07-30,11,,,1999-01-14,11,,,Q529012,Cabinet of Japan,,,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q179032,First Mori Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q519911,Obuchi Cabinet (First Reshuffle)
-,Q519911,Obuchi Cabinet (First Reshuffle),1999-01-14,11,,,1999-10-05,11,,,Q529012,Cabinet of Japan,,,Q1530370,Obuchi Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q1530370,Obuchi Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle)
-,Q1666948,Obuchi Cabinet (Second Reshuffle),1999-10-05,11,,,2000-04-05,11,,,Q529012,Cabinet of Japan,,,Q519911,Obuchi Cabinet (First Reshuffle),Q179032,First Mori Cabinet,Q519911,Obuchi Cabinet (First Reshuffle),Q179032,First Mori Cabinet
-,Q179032,First Mori Cabinet,2000-04-05,11,,,2000-07-04,11,,,Q529012,Cabinet of Japan,,,Q1530370,Obuchi Cabinet,Q651338,Second Mori Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet
-,Q179032,First Mori Cabinet,2000-04-05,11,,,2000-07-04,11,,,Q529012,Cabinet of Japan,,,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet
-,Q651338,Second Mori Cabinet,2000-07-04,11,,,2000-12-05,11,,,Q529012,Cabinet of Japan,,,Q179032,First Mori Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle),Q179032,First Mori Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle)
-,Q11270412,Second Mori Cabinet (First Reshuffle),2000-12-05,11,,,2001-01-06,11,,,Q529012,Cabinet of Japan,,,Q651338,Second Mori Cabinet,Q826595,Second Mori Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet,Q826595,Second Mori Cabinet (Second Reshuffle)
-,Q826595,Second Mori Cabinet (Second Reshuffle),2001-01-06,11,,,2001-04-26,11,,,Q529012,Cabinet of Japan,,,Q11270412,Second Mori Cabinet (First Reshuffle),Q821301,First Koizumi Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle),Q821301,First Koizumi Cabinet
-,Q821301,First Koizumi Cabinet,2001-04-26,11,,,2002-09-30,11,,,Q529012,Cabinet of Japan,,,Q826595,Second Mori Cabinet (Second Reshuffle),Q1337013,First Koizumi Cabinet (First Reshuffle),Q826595,Second Mori Cabinet (Second Reshuffle),Q1337013,First Koizumi Cabinet (First Reshuffle)
-,Q1337013,First Koizumi Cabinet (First Reshuffle),2002-09-30,11,,,2003-09-22,11,,,Q529012,Cabinet of Japan,,,Q821301,First Koizumi Cabinet,Q820641,First Koizumi Cabinet (Second Reshuffle),Q821301,First Koizumi Cabinet,Q820641,First Koizumi Cabinet (Second Reshuffle)
-,Q820641,First Koizumi Cabinet (Second Reshuffle),2003-09-22,11,,,2003-11-19,11,,,Q529012,Cabinet of Japan,,,Q1337013,First Koizumi Cabinet (First Reshuffle),Q906300,Second Koizumi Cabinet,Q1337013,First Koizumi Cabinet (First Reshuffle),Q906300,Second Koizumi Cabinet
-,Q906300,Second Koizumi Cabinet,2003-11-19,11,,,2004-09-27,11,,,Q529012,Cabinet of Japan,,,Q820641,First Koizumi Cabinet (Second Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle),Q820641,First Koizumi Cabinet (Second Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle)
-,Q1720066,Second Koizumi Cabinet (Reshuffle),2004-09-27,11,,,2005-09-21,11,,,Q529012,Cabinet of Japan,,,Q906300,Second Koizumi Cabinet,Q1720064,Third Koizumi Cabinet,Q906300,Second Koizumi Cabinet,Q1720064,Third Koizumi Cabinet
-,Q1720064,Third Koizumi Cabinet,2005-09-21,11,,,2005-10-31,11,,,Q529012,Cabinet of Japan,,,Q1720066,Second Koizumi Cabinet (Reshuffle),Q820647,Third Koizumi Cabinet (Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle),Q820647,Third Koizumi Cabinet (Reshuffle)
-,Q820647,Third Koizumi Cabinet (Reshuffle),2005-10-31,11,,,2006-09-26,11,,,Q529012,Cabinet of Japan,,,Q906300,Second Koizumi Cabinet,Q1387825,First S. Abe Cabinet,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet
-,Q820647,Third Koizumi Cabinet (Reshuffle),2005-10-31,11,,,2006-09-26,11,,,Q529012,Cabinet of Japan,,,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet
-,Q1387825,First S. Abe Cabinet,2006-09-26,11,,,2007-09-25,11,,,Q529012,Cabinet of Japan,,,Q820647,Third Koizumi Cabinet (Reshuffle),Q1748106,First S. Abe Cabinet (Reshuffled),Q820647,Third Koizumi Cabinet (Reshuffle),Q1748106,First S. Abe Cabinet (Reshuffled)
-,Q1748106,First S. Abe Cabinet (Reshuffled),2007-08-27,11,,,2007-09-26,11,,,Q529012,Cabinet of Japan,,,Q1387825,First S. Abe Cabinet,Q825979,Y. Fukuda Cabinet,Q1387825,First S. Abe Cabinet,Q825979,Y. Fukuda Cabinet
-,Q825979,Y. Fukuda Cabinet,2007-09-26,11,,,2008-08-01,11,,,Q529012,Cabinet of Japan,,,Q1387825,First S. Abe Cabinet,Q905997,Asō Cabinet,Q1748106,First S. Abe Cabinet (Reshuffled),Q6140023,Y. Fukuda Cabinet (Reshuffle)
-,Q825979,Y. Fukuda Cabinet,2007-09-26,11,,,2008-08-01,11,,,Q529012,Cabinet of Japan,,,Q1748106,First S. Abe Cabinet (Reshuffled),Q905997,Asō Cabinet,Q1748106,First S. Abe Cabinet (Reshuffled),Q6140023,Y. Fukuda Cabinet (Reshuffle)
-,Q6140023,Y. Fukuda Cabinet (Reshuffle),2008-08-02,11,,,2008-09-24,11,,,Q529012,Cabinet of Japan,,,Q825979,Y. Fukuda Cabinet,Q905997,Asō Cabinet,Q825979,Y. Fukuda Cabinet,Q905997,Asō Cabinet
-,Q905997,Asō Cabinet,2008-09-24,11,,,2009-09-16,11,,,Q529012,Cabinet of Japan,,,Q825979,Y. Fukuda Cabinet,Q732419,Y. Hatoyama Cabinet,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet
-,Q905997,Asō Cabinet,2008-09-24,11,,,2009-09-16,11,,,Q529012,Cabinet of Japan,,,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet
-,Q732419,Y. Hatoyama Cabinet,2009-09-16,11,,,2010-06-08,11,,,Q529012,Cabinet of Japan,,,Q905997,Asō Cabinet,Q1053282,Kan Cabinet,Q905997,Asō Cabinet,Q1053282,Kan Cabinet
-,Q1053282,Kan Cabinet,2010-06-08,11,,,2010-09-17,11,,,Q529012,Cabinet of Japan,,,Q732419,Y. Hatoyama Cabinet,Q1136515,Noda Cabinet,Q732419,Y. Hatoyama Cabinet,Q1054649,Kan Cabinet (First Reshuffle)
-,Q1054649,Kan Cabinet (First Reshuffle),2010-09-17,11,,,2011-01-14,11,,,Q529012,Cabinet of Japan,,,Q1053282,Kan Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1053282,Kan Cabinet,Q2578486,Kan Cabinet (Second Reshuffle)
-,Q2578486,Kan Cabinet (Second Reshuffle),2011-01-14,11,,,2011-09-02,11,,,Q529012,Cabinet of Japan,,,Q1054649,Kan Cabinet (First Reshuffle),Q1136515,Noda Cabinet,Q1054649,Kan Cabinet (First Reshuffle),Q1136515,Noda Cabinet
-,Q1136515,Noda Cabinet,2011-09-02,11,,,2012-01-13,11,,,Q529012,Cabinet of Japan,,,Q1053282,Kan Cabinet,Q1756955,Second S. Abe Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1720180,Noda Cabinet (First Reshuffle)
-,Q1136515,Noda Cabinet,2011-09-02,11,,,2012-01-13,11,,,Q529012,Cabinet of Japan,,,Q2578486,Kan Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1720180,Noda Cabinet (First Reshuffle)
-,Q1720180,Noda Cabinet (First Reshuffle),2012-01-13,11,,,2012-06-04,11,,,Q529012,Cabinet of Japan,,,Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle)
-,Q900509,Noda Cabinet (Second Reshuffle),2012-06-04,11,,,2012-10-01,11,,,Q529012,Cabinet of Japan,,,Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle)
-,Q1720182,Noda Cabinet (Third Reshuffle),2012-10-01,11,,,2012-12-26,11,,,Q529012,Cabinet of Japan,,,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet
-,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q529012,Cabinet of Japan,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
-,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q529012,Cabinet of Japan,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
-,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q529012,Cabinet of Japan,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
-,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q529012,Cabinet of Japan,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
-,Q17855689,Second S. Abe Cabinet (Reshuffle),2014-09-03,11,,,2014-12-24,11,,,Q529012,Cabinet of Japan,,,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet
-,Q18657782,Third S. Abe Cabinet,2014-12-24,11,,,2015-10-07,11,,,Q529012,Cabinet of Japan,,,Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle)
-,Q21074124,Third S. Abe Cabinet (First Reshuffle),2015-10-07,11,,,2016-08-03,11,,,Q529012,Cabinet of Japan,,,Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle),Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle)
-,Q26215018,Third S. Abe Cabinet (Second Reshuffle),2016-08-03,11,,,2017-08-03,11,,,Q529012,Cabinet of Japan,,,Q21074124,Third S. Abe Cabinet (First Reshuffle),Q34610983,Third S. Abe Cabinet (Third Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle),,
-,Q34610983,Third S. Abe Cabinet (Third Reshuffle),2017-08-03,11,,,2017-11-01,11,,,Q529012,Cabinet of Japan,,,Q26215018,Third S. Abe Cabinet (Second Reshuffle),Q42479041,Fourth S. Abe Cabinet,,,Q42479041,Fourth S. Abe Cabinet
-,Q42479041,Fourth S. Abe Cabinet,2017-11-01,11,,,2018-10-02,11,,,Q13406463,Wikimedia list article,,,Q34610983,Third S. Abe Cabinet (Third Reshuffle),Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q34610983,Third S. Abe Cabinet (Third Reshuffle),,
-,Q42479041,Fourth S. Abe Cabinet,2017-11-01,11,,,2018-10-02,11,,,Q529012,Cabinet of Japan,,,Q34610983,Third S. Abe Cabinet (Third Reshuffle),Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q34610983,Third S. Abe Cabinet (Third Reshuffle),,
-,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),2018-10-02,11,,,2019-09-11,11,,,Q529012,Cabinet of Japan,,,Q42479041,Fourth S. Abe Cabinet,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),,,,
-,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),2019-09-11,11,,,2020-09-16,11,,,Q529012,Cabinet of Japan,,,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q99372867,Suga Cabinet,,,,
-,Q99372867,Suga Cabinet,2020-09-16,11,,,2021-10-04,11,,,Q529012,Cabinet of Japan,,,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),Q108756771,Kishida Cabinet I,,,,
-,Q108756771,Kishida Cabinet I,2021-10-04,11,,,,,2021-11-10,11,Q529012,Cabinet of Japan,,,Q99372867,Suga Cabinet,Q109342903,Second Kishida Cabinet,,,,
-,Q109342903,Second Kishida Cabinet,2021-11-10,11,,,,,,,Q529012,Cabinet of Japan,,,Q108756771,Kishida Cabinet I,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q10295967,Q10295967,,,,,,,,,,,,,Q11270490,Q11270490,Q11270444,Q11270444
+,Q1045014,Q1045014,,,,,1888-01-01,9,,,,,Q5366061,Q5366061,,,Q5366061,Q5366061
+,Q10855343,Q10855343,,,,,,,,,,,,,Q1720424,Q1720424,Q11649283,Kantaro Suzuki cabinet
+,Q11233979,Q11233979,,,,,,,,,,,,,Q11270444,Q11270444,Q1719944,Q1719944
+,Q11270404,Second Katsura Cabinet,,,,,,,,,,,,,Q11600466,First Saionji Cabinet,Q1720275,Second Saionji Cabinet
+,Q11270441,Q11270441,,,,,,,,,,,,,Q11399065,Q11399065,Q11561287,Q11561287
+,Q11270444,Q11270444,,,,,,,,,,,,,Q10295967,Q10295967,Q11233979,Q11233979
+,Q11270490,Q11270490,,,,,,,,,,,,,Q1720275,Second Saionji Cabinet,Q10295967,Q10295967
+,Q11399065,Q11399065,,,,,,,,,,,,,Q11671046,Q11671046,Q11270441,Q11270441
+,Q11399608,Q11399608,,,,,,,,,,,,,Q11561287,Q11561287,Q11600464,Q11600464
+,Q11483190,Q11483190,,,,,,,,,,,,,Q11600468,Q11600468,Q11657764,Q11657764
+,Q11532865,Q11532865,,,,,,,,,,,,,Q11486424,Hirota's Gabinet,Q11600468,Q11600468
+,Q11561287,Q11561287,,,,,,,,,,,,,Q11270441,Q11270441,Q11399608,Q11399608
+,Q11566150,Q11566150,,,,,,,,,,,,,Q11575856,Q11575856,Q1674008,Q1674008
+,Q11575856,Q11575856,,,,,,,,,,,,,Q11600464,Q11600464,Q11566150,Q11566150
+,Q11600459,Q11600459,,,,,,,,,,,,,Q11601105,Q11601105,Q11600806,Q11600806
+,Q11600463,First Katsura Cabinet,,,,,,,,,,,,,Q11601307,Q11601307,Q11600466,First Saionji Cabinet
+,Q11600464,Q11600464,,,,,,,,,,,,,Q11399608,Q11399608,Q11575856,Q11575856
+,Q11600466,First Saionji Cabinet,,,,,,,,,,,,,Q11600463,First Katsura Cabinet,Q11270404,Second Katsura Cabinet
+,Q11600468,Q11600468,,,,,,,,,,,,,Q11532865,Q11532865,Q11483190,Q11483190
+,Q11600801,Q11600801,,,,,1896-01-01,9,,,Q8010527,Q8010527,Q11600808,Q11600808,Q8010527,Q8010527,Q11600808,Q11600808
+,Q11600806,Q11600806,,,,,,,,,,,,,Q11600459,Q11600459,Q11601307,Q11601307
+,Q11600808,Q11600808,,,,,,,,,Q11600801,Q11600801,,,Q11600801,Q11600801,Q11601105,Q11601105
+,Q11600810,Q11600810,,,,,,,,,,,,,Q11604014,Q11604014,Q11601112,Q11601112
+,Q11601105,Q11601105,,,,,,,,,,,,,Q11600808,Q11600808,Q11600459,Q11600459
+,Q11601112,Q11601112,,,,,,,,,,,,,Q11600810,Q11600810,Q1720424,Q1720424
+,Q11601307,Q11601307,,,,,,,,,,,,,Q11600806,Q11600806,Q11600463,First Katsura Cabinet
+,Q11604014,Q11604014,,,,,,,,,,,,,Q11657764,Q11657764,Q11600810,Q11600810
+,Q11649283,Kantaro Suzuki cabinet,,,,,,,,,,,,,Q10855343,Q10855343,Q1252961,Q1252961
+,Q11657764,Q11657764,,,,,,,,,,,,,Q11483190,Q11483190,Q11604014,Q11604014
+,Q11671046,Q11671046,,,,,,,,,,,,,Q1719944,Q1719944,Q11399065,Q11399065
+,Q1252961,Q1252961,,,,,,,,,,,Q428100,Shidehara Cabinet,Q11649283,Kantaro Suzuki cabinet,Q428100,Shidehara Cabinet
+,Q1618380,Q1618380,,,,,,,,,,,,,Q1674008,Q1674008,Q1720277,Q1720277
+,Q1674008,Q1674008,,,,,,,,,,,,,Q11566150,Q11566150,Q1618380,Q1618380
+,Q1719944,Q1719944,,,,,,,,,,,,,Q11233979,Q11233979,Q11671046,Q11671046
+,Q1720275,Second Saionji Cabinet,,,,,,,,,,,,,Q11270404,Second Katsura Cabinet,Q11270490,Q11270490
+,Q1720277,Q1720277,,,,,,,,,,,,,Q1618380,Q1618380,Q7081714,Okada Cabinet
+,Q1720424,Q1720424,,,,,,,,,,,,,Q11601112,Q11601112,Q10855343,Q10855343
+,Q8010527,Q8010527,,,,,1892-01-01,9,,,Q583746,First Yamagata Cabinet,Q11600801,Q11600801,Q583746,First Yamagata Cabinet,Q11600801,Q11600801
+,Q5366061,Q5366061,1888-04-30,11,,,1889-12-25,11,,,Q1045014,Q1045014,Q583746,First Yamagata Cabinet,Q1045014,Q1045014,Q22960725,Q22960725
+,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,,,,,Q5366061,Q5366061,Q583746,First Yamagata Cabinet
+,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q5366061,Q5366061,Q8010527,Q8010527,Q5366061,Q5366061,Q8010527,Q8010527
+,Q7081714,Okada Cabinet,1934-01-01,9,1934-01-01,9,1936-01-01,9,,,,,,,Q1720277,Q1720277,Q11486424,Hirota's Gabinet
+,Q11486424,Hirota's Gabinet,1936-03-09,11,,,1937-02-02,11,,,,,,,Q7081714,Okada Cabinet,Q11532865,Q11532865
+,Q428100,Shidehara Cabinet,1945-10-09,11,,,1946-05-22,11,,,Q1252961,Q1252961,Q382498,First Yoshida Cabinet,Q1252961,Q1252961,Q382498,First Yoshida Cabinet
+,Q382498,First Yoshida Cabinet,1946-05-22,11,,,1947-01-31,11,,,Q428100,Shidehara Cabinet,Q16511268,Q16511268,Q428100,Shidehara Cabinet,Q1720042,Katayama Cabinet
+,Q16511268,Q16511268,1947-01-31,11,,,1947-05-24,11,,,Q382498,First Yoshida Cabinet,,,,,,
+,Q1720042,Katayama Cabinet,1947-05-24,11,1947-05-24,11,1948-03-10,11,1948-03-10,11,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet,Q382498,First Yoshida Cabinet,Q980227,Ashida Cabinet
+,Q980227,Ashida Cabinet,1948-03-10,11,,,1948-10-15,11,,,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet,Q1720042,Katayama Cabinet,Q1720803,Second Yoshida Cabinet
+,Q1720803,Second Yoshida Cabinet,1948-10-15,11,,,1949-02-16,11,,,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet,Q980227,Ashida Cabinet,Q1720805,Third Yoshida Cabinet
+,Q1720805,Third Yoshida Cabinet,1949-02-16,11,,,1950-06-28,11,,,Q1720803,Second Yoshida Cabinet,Q11270492,Third Yoshida Cabinet (First Reshuffle),Q1720803,Second Yoshida Cabinet,Q11270492,Third Yoshida Cabinet (First Reshuffle)
+,Q11270492,Third Yoshida Cabinet (First Reshuffle),1950-06-28,11,,,1951-07-04,11,,,Q1720805,Third Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q1720805,Third Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle)
+,Q11270494,Third Yoshida Cabinet (Second Reshuffle),1951-07-04,11,,,1951-12-26,11,,,Q11270492,Third Yoshida Cabinet (First Reshuffle),Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270492,Third Yoshida Cabinet (First Reshuffle),Q11270496,Third Yoshida Cabinet (Third Reshuffle)
+,Q11270496,Third Yoshida Cabinet (Third Reshuffle),1951-12-26,11,,,1952-10-30,11,,,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q11270519,Fourth Yoshida Cabinet,Q11270494,Third Yoshida Cabinet (Second Reshuffle),Q11270519,Fourth Yoshida Cabinet
+,Q11270519,Fourth Yoshida Cabinet,1952-10-30,11,,,1953-05-21,11,,,Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270521,Fifth Yoshida Cabinet,Q11270496,Third Yoshida Cabinet (Third Reshuffle),Q11270521,Fifth Yoshida Cabinet
+,Q11270521,Fifth Yoshida Cabinet,1953-05-21,11,,,1954-12-10,11,,,Q11270519,Fourth Yoshida Cabinet,Q1719953,First I. Hatoyama Cabinet,Q11270519,Fourth Yoshida Cabinet,Q1719953,First I. Hatoyama Cabinet
+,Q1719953,First I. Hatoyama Cabinet,1954-12-10,11,,,1955-03-19,11,,,Q11270521,Fifth Yoshida Cabinet,Q11600813,Second I. Hatoyama Cabinet,Q11270521,Fifth Yoshida Cabinet,Q11600813,Second I. Hatoyama Cabinet
+,Q11600813,Second I. Hatoyama Cabinet,1955-03-19,11,,,1955-11-22,11,,,Q1719953,First I. Hatoyama Cabinet,Q11270510,Third I. Hatoyama Cabinet,Q1719953,First I. Hatoyama Cabinet,Q11270510,Third I. Hatoyama Cabinet
+,Q11270510,Third I. Hatoyama Cabinet,1955-11-22,11,,,1956-12-23,11,,,Q11600813,Second I. Hatoyama Cabinet,Q1720005,Ishibashi Cabinet,Q11600813,Second I. Hatoyama Cabinet,Q1720005,Ishibashi Cabinet
+,Q1720005,Ishibashi Cabinet,1956-12-23,11,,,1957-02-25,11,,,Q11270510,Third I. Hatoyama Cabinet,Q11270341,First Kishi Cabinet,Q11270510,Third I. Hatoyama Cabinet,Q11270341,First Kishi Cabinet
+,Q11270341,First Kishi Cabinet,1957-02-25,11,,,1957-07-10,11,,,Q1720005,Ishibashi Cabinet,Q11270343,First Kishi Cabinet (Reshuffle),Q1720005,Ishibashi Cabinet,Q11270343,First Kishi Cabinet (Reshuffle)
+,Q11270343,First Kishi Cabinet (Reshuffle),1957-07-10,11,,,1958-06-12,11,,,Q11270341,First Kishi Cabinet,Q11270406,Second Kishi Cabinet,Q11270341,First Kishi Cabinet,Q11270406,Second Kishi Cabinet
+,Q11270406,Second Kishi Cabinet,1958-06-12,11,,,1959-06-18,11,,,Q11270343,First Kishi Cabinet (Reshuffle),Q11270408,Second Kishi Cabinet (Reshuffle),Q11270343,First Kishi Cabinet (Reshuffle),Q11270408,Second Kishi Cabinet (Reshuffle)
+,Q11270408,Second Kishi Cabinet (Reshuffle),1959-06-18,11,,,1960-07-19,11,,,Q11270406,Second Kishi Cabinet,Q11270389,First Ikeda Cabinet,Q11270406,Second Kishi Cabinet,Q11270389,First Ikeda Cabinet
+,Q11270389,First Ikeda Cabinet,1960-07-19,11,,,1960-12-08,11,,,Q11270408,Second Kishi Cabinet (Reshuffle),Q11270446,Second Ikeda Cabinet,Q11270408,Second Kishi Cabinet (Reshuffle),Q11270446,Second Ikeda Cabinet
+,Q11270446,Second Ikeda Cabinet,1960-12-08,11,,,1961-07-18,11,,,Q11270389,First Ikeda Cabinet,Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270389,First Ikeda Cabinet,Q11270448,Second Ikeda Cabinet (First Reshuffle)
+,Q11270448,Second Ikeda Cabinet (First Reshuffle),1961-07-18,11,,,1962-07-18,11,,,Q11270446,Second Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270446,Second Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle)
+,Q11270451,Second Ikeda Cabinet (Second Reshuffle),1962-07-18,11,,,1963-07-18,11,,,Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270448,Second Ikeda Cabinet (First Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle)
+,Q11270453,Second Ikeda Cabinet (Third Reshuffle),1963-07-18,11,,,1963-12-09,11,,,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270498,Third Ikeda Cabinet,Q11270451,Second Ikeda Cabinet (Second Reshuffle),Q11270498,Third Ikeda Cabinet
+,Q11270498,Third Ikeda Cabinet,1963-12-09,11,,,1964-07-18,11,,,Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle),Q11270453,Second Ikeda Cabinet (Third Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle)
+,Q11270500,Third Ikeda Cabinet (Reshuffle),1964-07-18,11,,,1964-11-09,11,,,Q11270498,Third Ikeda Cabinet,Q11285771,First Satō Cabinet,Q11270498,Third Ikeda Cabinet,Q11285771,First Satō Cabinet
+,Q11285771,First Satō Cabinet,1964-11-09,11,,,1965-06-03,11,,,Q11270500,Third Ikeda Cabinet (Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle),Q11270500,Third Ikeda Cabinet (Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle)
+,Q11600456,First Satō Cabinet (First Reshuffle),1965-06-03,11,,,1966-08-01,11,,,Q11285771,First Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle),Q11285771,First Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle)
+,Q11600457,First Satō Cabinet (Second Reshuffle),1966-08-01,11,,,1966-12-03,11,,,Q11600456,First Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle),Q11600456,First Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle)
+,Q11600458,First Satō Cabinet (Third Reshuffle),1966-12-03,11,,,1967-02-17,11,,,Q11600457,First Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet,Q11600457,First Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet
+,Q11600802,Second Satō Cabinet,1967-02-17,11,,,1967-11-25,11,,,Q11600458,First Satō Cabinet (Third Reshuffle),Q11600803,Second Satō Cabinet (First Reshuffle),Q11600458,First Satō Cabinet (Third Reshuffle),Q11600803,Second Satō Cabinet (First Reshuffle)
+,Q11600803,Second Satō Cabinet (First Reshuffle),1967-11-25,11,,,1968-11-30,11,,,Q11600802,Second Satō Cabinet,Q11600805,Second Satō Cabinet (Second Reshuffle),Q11600802,Second Satō Cabinet,Q11600805,Second Satō Cabinet (Second Reshuffle)
+,Q11600805,Second Satō Cabinet (Second Reshuffle),1968-11-30,11,,,1970-01-14,11,,,Q11600803,Second Satō Cabinet (First Reshuffle),Q11601107,Third Satō Cabinet,Q11600803,Second Satō Cabinet (First Reshuffle),Q11601107,Third Satō Cabinet
+,Q11601107,Third Satō Cabinet,1970-01-14,11,,,1971-07-05,11,,,Q11600805,Second Satō Cabinet (Second Reshuffle),Q11601109,Third Satō Cabinet (Reshuffle),Q11600805,Second Satō Cabinet (Second Reshuffle),Q11601109,Third Satō Cabinet (Reshuffle)
+,Q11601109,Third Satō Cabinet (Reshuffle),1971-07-05,11,,,1972-07-07,11,,,Q11601107,Third Satō Cabinet,Q1544511,First K. Tanaka Cabinet,Q11601107,Third Satō Cabinet,Q1544511,First K. Tanaka Cabinet
+,Q1544511,First K. Tanaka Cabinet,1972-07-07,11,,,1972-12-22,11,,,Q11601109,Third Satō Cabinet (Reshuffle),Q1720377,Second K. Tanaka Cabinet,Q11601109,Third Satō Cabinet (Reshuffle),Q1720377,Second K. Tanaka Cabinet
+,Q1720377,Second K. Tanaka Cabinet,1972-12-22,11,,,1973-11-25,11,,,Q1544511,First K. Tanaka Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1544511,First K. Tanaka Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle)
+,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),1973-11-25,11,,,1974-11-11,11,,,Q1720377,Second K. Tanaka Cabinet,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1720377,Second K. Tanaka Cabinet,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle)
+,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),1974-11-11,11,,,1974-12-09,11,,,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1720145,Miki Cabinet,Q1720378,Second K. Tanaka Cabinet (First Reshuffle),Q1720145,Miki Cabinet
+,Q1720145,Miki Cabinet,1974-12-09,11,,,1976-09-15,11,,,Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1660144,Miki Cabinet (Reshuffle),Q1720380,Second K. Tanaka Cabinet (Second Reshuffle),Q1660144,Miki Cabinet (Reshuffle)
+,Q1660144,Miki Cabinet (Reshuffle),1976-09-15,11,,,1976-12-24,11,,,Q1720145,Miki Cabinet,Q1720373,T. Fukuda Cabinet,Q1720145,Miki Cabinet,Q1720373,T. Fukuda Cabinet
+,Q1720373,T. Fukuda Cabinet,1976-12-24,11,,,1977-11-28,11,,,Q1660144,Miki Cabinet (Reshuffle),Q1303979,T. Fukuda Cabinet (Reshuffle),Q1660144,Miki Cabinet (Reshuffle),Q1303979,T. Fukuda Cabinet (Reshuffle)
+,Q1303979,T. Fukuda Cabinet (Reshuffle),1977-11-28,11,,,1978-12-07,11,,,Q1720373,T. Fukuda Cabinet,Q766899,First Ōhira Cabinet,Q1720373,T. Fukuda Cabinet,Q766899,First Ōhira Cabinet
+,Q766899,First Ōhira Cabinet,1978-12-07,11,,,1979-11-09,11,,,Q1303979,T. Fukuda Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet,Q1303979,T. Fukuda Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet
+,Q1284294,Second Ōhira Cabinet,1979-11-09,11,,,1980-07-17,11,,,Q766899,First Ōhira Cabinet,Q1170970,Suzuki Cabinet,Q766899,First Ōhira Cabinet,Q1170970,Suzuki Cabinet
+,Q1170970,Suzuki Cabinet,1980-07-17,11,,,1981-11-30,11,,,Q1284294,Second Ōhira Cabinet,Q1720368,Suzuki Cabinet (Reshuffle),Q1284294,Second Ōhira Cabinet,Q1720368,Suzuki Cabinet (Reshuffle)
+,Q1720368,Suzuki Cabinet (Reshuffle),1981-11-30,11,,,1982-11-27,11,,,Q1170970,Suzuki Cabinet,Q1720166,First Nakasone Cabinet,Q1170970,Suzuki Cabinet,Q1720166,First Nakasone Cabinet
+,Q1720166,First Nakasone Cabinet,1982-11-27,11,,,1983-12-27,11,,,Q1720368,Suzuki Cabinet (Reshuffle),Q1720167,Second Nakasone Cabinet,Q1720368,Suzuki Cabinet (Reshuffle),Q1720167,Second Nakasone Cabinet
+,Q1720167,Second Nakasone Cabinet,1983-12-27,11,,,1984-11-01,11,,,Q1720166,First Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720166,First Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle)
+,Q1720171,Second Nakasone Cabinet (First Reshuffle),1984-11-01,11,,,1985-12-28,11,,,Q1720167,Second Nakasone Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1720167,Second Nakasone Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle)
+,Q1536334,Second Nakasone Cabinet (Second Reshuffle),1985-12-28,11,,,1986-07-22,11,,,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720169,Third Nakasone Cabinet,Q1720171,Second Nakasone Cabinet (First Reshuffle),Q1720169,Third Nakasone Cabinet
+,Q1720169,Third Nakasone Cabinet,1986-07-22,11,,,1987-11-06,11,,,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1249136,Takeshita Cabinet,Q1536334,Second Nakasone Cabinet (Second Reshuffle),Q1249136,Takeshita Cabinet
+,Q1249136,Takeshita Cabinet,1987-11-06,11,,,1988-12-27,11,,,Q1720169,Third Nakasone Cabinet,Q550523,Takeshita Cabinet (Reshuffle),Q1720169,Third Nakasone Cabinet,Q550523,Takeshita Cabinet (Reshuffle)
+,Q550523,Takeshita Cabinet (Reshuffle),1988-12-27,11,,,1989-06-03,11,,,Q1249136,Takeshita Cabinet,Q1720430,Uno Cabinet,Q1249136,Takeshita Cabinet,Q1720430,Uno Cabinet
+,Q1720430,Uno Cabinet,1989-06-03,11,,,1989-08-10,11,,,Q550523,Takeshita Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet,Q550523,Takeshita Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet
+,Q1720029,First Kaifu Cabinet,1989-08-10,11,,,1990-02-28,11,,,Q1720430,Uno Cabinet,Q1720031,Second Kaifu Cabinet,Q1720430,Uno Cabinet,Q1720031,Second Kaifu Cabinet
+,Q1720031,Second Kaifu Cabinet,1990-02-28,11,,,1990-12-29,11,,,Q1720029,First Kaifu Cabinet,Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720029,First Kaifu Cabinet,Q1720033,Second Kaifu Cabinet (Reshuffle)
+,Q1720033,Second Kaifu Cabinet (Reshuffle),1990-12-29,11,,,1991-11-05,11,,,Q1720031,Second Kaifu Cabinet,Q1591262,Miyazawa Cabinet,Q1720031,Second Kaifu Cabinet,Q1591262,Miyazawa Cabinet
+,Q1591262,Miyazawa Cabinet,1991-11-05,11,,,1992-12-12,11,,,Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720149,Miyazawa Cabinet (Reshuffle),Q1720033,Second Kaifu Cabinet (Reshuffle),Q1720149,Miyazawa Cabinet (Reshuffle)
+,Q1720149,Miyazawa Cabinet (Reshuffle),1992-12-12,11,,,1993-08-09,11,,,Q1591262,Miyazawa Cabinet,Q1719992,Hosokawa Cabinet,Q1591262,Miyazawa Cabinet,Q1719992,Hosokawa Cabinet
+,Q1719992,Hosokawa Cabinet,1993-08-09,11,,,1994-04-28,11,,,Q1720149,Miyazawa Cabinet (Reshuffle),Q1719951,Hata Cabinet,Q1720149,Miyazawa Cabinet (Reshuffle),Q1719951,Hata Cabinet
+,Q1719951,Hata Cabinet,1994-04-28,11,,,1994-06-30,11,,,Q1719992,Hosokawa Cabinet,Q224838,Murayama Cabinet,Q1719992,Hosokawa Cabinet,Q224838,Murayama Cabinet
+,Q224838,Murayama Cabinet,1994-06-30,11,1994-06-30,11,1995-08-08,11,1995-08-08,11,Q1719951,Hata Cabinet,Q1720152,Murayama Cabinet (Reshuffle),Q1719951,Hata Cabinet,Q1720152,Murayama Cabinet (Reshuffle)
+,Q1720152,Murayama Cabinet (Reshuffle),1995-08-08,11,,,1996-01-11,11,,,Q224838,Murayama Cabinet,Q1639415,First Hashimoto Cabinet,Q224838,Murayama Cabinet,Q1639415,First Hashimoto Cabinet
+,Q1639415,First Hashimoto Cabinet,1996-01-11,11,,,1996-11-07,11,,,Q1720152,Murayama Cabinet (Reshuffle),Q1719949,Second Hashimoto Cabinet,Q1720152,Murayama Cabinet (Reshuffle),Q1719949,Second Hashimoto Cabinet
+,Q1719949,Second Hashimoto Cabinet,1996-11-07,11,,,1997-09-11,11,,,Q1639415,First Hashimoto Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q1639415,First Hashimoto Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle)
+,Q1667135,Second Hashimoto Cabinet (Reshuffle),1997-09-11,11,,,1998-07-30,11,,,Q1719949,Second Hashimoto Cabinet,Q1530370,Obuchi Cabinet,Q1719949,Second Hashimoto Cabinet,Q1530370,Obuchi Cabinet
+,Q1530370,Obuchi Cabinet,1998-07-30,11,,,1999-01-14,11,,,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q179032,First Mori Cabinet,Q1667135,Second Hashimoto Cabinet (Reshuffle),Q519911,Obuchi Cabinet (First Reshuffle)
+,Q519911,Obuchi Cabinet (First Reshuffle),1999-01-14,11,,,1999-10-05,11,,,Q1530370,Obuchi Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q1530370,Obuchi Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle)
+,Q1666948,Obuchi Cabinet (Second Reshuffle),1999-10-05,11,,,2000-04-05,11,,,Q519911,Obuchi Cabinet (First Reshuffle),Q179032,First Mori Cabinet,Q519911,Obuchi Cabinet (First Reshuffle),Q179032,First Mori Cabinet
+,Q179032,First Mori Cabinet,2000-04-05,11,,,2000-07-04,11,,,Q1530370,Obuchi Cabinet,Q651338,Second Mori Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet
+,Q179032,First Mori Cabinet,2000-04-05,11,,,2000-07-04,11,,,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet,Q1666948,Obuchi Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet
+,Q651338,Second Mori Cabinet,2000-07-04,11,,,2000-12-05,11,,,Q179032,First Mori Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle),Q179032,First Mori Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle)
+,Q11270412,Second Mori Cabinet (First Reshuffle),2000-12-05,11,,,2001-01-06,11,,,Q651338,Second Mori Cabinet,Q826595,Second Mori Cabinet (Second Reshuffle),Q651338,Second Mori Cabinet,Q826595,Second Mori Cabinet (Second Reshuffle)
+,Q826595,Second Mori Cabinet (Second Reshuffle),2001-01-06,11,,,2001-04-26,11,,,Q11270412,Second Mori Cabinet (First Reshuffle),Q821301,First Koizumi Cabinet,Q11270412,Second Mori Cabinet (First Reshuffle),Q821301,First Koizumi Cabinet
+,Q821301,First Koizumi Cabinet,2001-04-26,11,,,2002-09-30,11,,,Q826595,Second Mori Cabinet (Second Reshuffle),Q1337013,First Koizumi Cabinet (First Reshuffle),Q826595,Second Mori Cabinet (Second Reshuffle),Q1337013,First Koizumi Cabinet (First Reshuffle)
+,Q1337013,First Koizumi Cabinet (First Reshuffle),2002-09-30,11,,,2003-09-22,11,,,Q821301,First Koizumi Cabinet,Q820641,First Koizumi Cabinet (Second Reshuffle),Q821301,First Koizumi Cabinet,Q820641,First Koizumi Cabinet (Second Reshuffle)
+,Q820641,First Koizumi Cabinet (Second Reshuffle),2003-09-22,11,,,2003-11-19,11,,,Q1337013,First Koizumi Cabinet (First Reshuffle),Q906300,Second Koizumi Cabinet,Q1337013,First Koizumi Cabinet (First Reshuffle),Q906300,Second Koizumi Cabinet
+,Q906300,Second Koizumi Cabinet,2003-11-19,11,,,2004-09-27,11,,,Q820641,First Koizumi Cabinet (Second Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle),Q820641,First Koizumi Cabinet (Second Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle)
+,Q1720066,Second Koizumi Cabinet (Reshuffle),2004-09-27,11,,,2005-09-21,11,,,Q906300,Second Koizumi Cabinet,Q1720064,Third Koizumi Cabinet,Q906300,Second Koizumi Cabinet,Q1720064,Third Koizumi Cabinet
+,Q1720064,Third Koizumi Cabinet,2005-09-21,11,,,2005-10-31,11,,,Q1720066,Second Koizumi Cabinet (Reshuffle),Q820647,Third Koizumi Cabinet (Reshuffle),Q1720066,Second Koizumi Cabinet (Reshuffle),Q820647,Third Koizumi Cabinet (Reshuffle)
+,Q820647,Third Koizumi Cabinet (Reshuffle),2005-10-31,11,,,2006-09-26,11,,,Q906300,Second Koizumi Cabinet,Q1387825,First S. Abe Cabinet,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet
+,Q820647,Third Koizumi Cabinet (Reshuffle),2005-10-31,11,,,2006-09-26,11,,,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet,Q1720064,Third Koizumi Cabinet,Q1387825,First S. Abe Cabinet
+,Q1387825,First S. Abe Cabinet,2006-09-26,11,,,2007-09-25,11,,,Q820647,Third Koizumi Cabinet (Reshuffle),Q1748106,First S. Abe Cabinet (Reshuffled),Q820647,Third Koizumi Cabinet (Reshuffle),Q1748106,First S. Abe Cabinet (Reshuffled)
+,Q1748106,First S. Abe Cabinet (Reshuffled),2007-08-27,11,,,2007-09-26,11,,,Q1387825,First S. Abe Cabinet,Q825979,Y. Fukuda Cabinet,Q1387825,First S. Abe Cabinet,Q825979,Y. Fukuda Cabinet
+,Q825979,Y. Fukuda Cabinet,2007-09-26,11,,,2008-08-01,11,,,Q1387825,First S. Abe Cabinet,Q905997,Asō Cabinet,Q1748106,First S. Abe Cabinet (Reshuffled),Q6140023,Y. Fukuda Cabinet (Reshuffle)
+,Q825979,Y. Fukuda Cabinet,2007-09-26,11,,,2008-08-01,11,,,Q1748106,First S. Abe Cabinet (Reshuffled),Q905997,Asō Cabinet,Q1748106,First S. Abe Cabinet (Reshuffled),Q6140023,Y. Fukuda Cabinet (Reshuffle)
+,Q6140023,Y. Fukuda Cabinet (Reshuffle),2008-08-02,11,,,2008-09-24,11,,,Q825979,Y. Fukuda Cabinet,Q905997,Asō Cabinet,Q825979,Y. Fukuda Cabinet,Q905997,Asō Cabinet
+,Q905997,Asō Cabinet,2008-09-24,11,,,2009-09-16,11,,,Q825979,Y. Fukuda Cabinet,Q732419,Y. Hatoyama Cabinet,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet
+,Q905997,Asō Cabinet,2008-09-24,11,,,2009-09-16,11,,,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet,Q6140023,Y. Fukuda Cabinet (Reshuffle),Q732419,Y. Hatoyama Cabinet
+,Q732419,Y. Hatoyama Cabinet,2009-09-16,11,,,2010-06-08,11,,,Q905997,Asō Cabinet,Q1053282,Kan Cabinet,Q905997,Asō Cabinet,Q1053282,Kan Cabinet
+,Q1053282,Kan Cabinet,2010-06-08,11,,,2010-09-17,11,,,Q732419,Y. Hatoyama Cabinet,Q1136515,Noda Cabinet,Q732419,Y. Hatoyama Cabinet,Q1054649,Kan Cabinet (First Reshuffle)
+,Q1054649,Kan Cabinet (First Reshuffle),2010-09-17,11,,,2011-01-14,11,,,Q1053282,Kan Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1053282,Kan Cabinet,Q2578486,Kan Cabinet (Second Reshuffle)
+,Q2578486,Kan Cabinet (Second Reshuffle),2011-01-14,11,,,2011-09-02,11,,,Q1054649,Kan Cabinet (First Reshuffle),Q1136515,Noda Cabinet,Q1054649,Kan Cabinet (First Reshuffle),Q1136515,Noda Cabinet
+,Q1136515,Noda Cabinet,2011-09-02,11,,,2012-01-13,11,,,Q1053282,Kan Cabinet,Q1756955,Second S. Abe Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1720180,Noda Cabinet (First Reshuffle)
+,Q1136515,Noda Cabinet,2011-09-02,11,,,2012-01-13,11,,,Q2578486,Kan Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet,Q2578486,Kan Cabinet (Second Reshuffle),Q1720180,Noda Cabinet (First Reshuffle)
+,Q1720180,Noda Cabinet (First Reshuffle),2012-01-13,11,,,2012-06-04,11,,,Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle)
+,Q900509,Noda Cabinet (Second Reshuffle),2012-06-04,11,,,2012-10-01,11,,,Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle)
+,Q1720182,Noda Cabinet (Third Reshuffle),2012-10-01,11,,,2012-12-26,11,,,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet
+,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
+,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
+,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
+,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
+,Q17855689,Second S. Abe Cabinet (Reshuffle),2014-09-03,11,,,2014-12-24,11,,,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet
+,Q18657782,Third S. Abe Cabinet,2014-12-24,11,,,2015-10-07,11,,,Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle)
+,Q21074124,Third S. Abe Cabinet (First Reshuffle),2015-10-07,11,,,2016-08-03,11,,,Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle),Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle)
+,Q26215018,Third S. Abe Cabinet (Second Reshuffle),2016-08-03,11,,,2017-08-03,11,,,Q21074124,Third S. Abe Cabinet (First Reshuffle),Q34610983,Third S. Abe Cabinet (Third Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle),,
+,Q34610983,Third S. Abe Cabinet (Third Reshuffle),2017-08-03,11,,,2017-11-01,11,,,Q26215018,Third S. Abe Cabinet (Second Reshuffle),Q42479041,Fourth S. Abe Cabinet,,,Q42479041,Fourth S. Abe Cabinet
+,Q42479041,Fourth S. Abe Cabinet,2017-11-01,11,,,2018-10-02,11,,,Q34610983,Third S. Abe Cabinet (Third Reshuffle),Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q34610983,Third S. Abe Cabinet (Third Reshuffle),,
+,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),2018-10-02,11,,,2019-09-11,11,,,Q42479041,Fourth S. Abe Cabinet,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),,,,
+,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),2019-09-11,11,,,2020-09-16,11,,,Q56855286,Fourth S. Abe Cabinet (First Reshuffle),Q99372867,Suga Cabinet,,,,
+,Q99372867,Suga Cabinet,2020-09-16,11,,,2021-10-04,11,,,Q67225460,Fourth S. Abe Cabinet (Second Reshuffle),Q108756771,Kishida Cabinet I,,,,
+,Q108756771,Kishida Cabinet I,2021-10-04,11,,,,,2021-11-10,11,Q99372867,Suga Cabinet,Q109342903,Second Kishida Cabinet,,,,
+,Q109342903,Second Kishida Cabinet,2021-11-10,11,,,,,,,Q108756771,Kishida Cabinet I,,,,,,
