@@ -44,7 +44,14 @@
               ]
             },
             {
-              "text": "Saito is currently serving his fifth term in the Lower House by Chugoku proportional election and is the Minister of the Environment."
+              "text": "Saito is currently serving his fifth term in the Lower House by Chugoku proportional election and is the current Minister of Land, Infrastructure, Transport and Tourism.",
+              "links": [
+                {
+                  "text": "Minister of Land, Infrastructure, Transport and Tourism",
+                  "type": "internal",
+                  "page": "Minister of Land, Infrastructure, Transport and Tourism (Japan)"
+                }
+              ]
             }
           ]
         },
