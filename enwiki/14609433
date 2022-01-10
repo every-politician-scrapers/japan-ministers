@@ -52,6 +52,10 @@
       ],
       "templates": [
         {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
           "date": "March 2020",
           "template": "use dmy dates"
         },

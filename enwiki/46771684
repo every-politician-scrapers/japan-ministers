@@ -56,6 +56,10 @@
       ],
       "templates": [
         {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
           "df": "y",
           "year": "1965",
           "month": "7",

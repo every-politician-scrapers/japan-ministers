@@ -50,6 +50,10 @@
       ],
       "templates": [
         {
+          "description": "Governor of Hiroshima Prefecture in Japan",
+          "template": "short description"
+        },
+        {
           "year": "1965",
           "month": "10",
           "day": "4",

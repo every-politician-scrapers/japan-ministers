@@ -40,6 +40,10 @@
       ],
       "templates": [
         {
+          "description": "19th Chief Justice of Japan",
+          "template": "short description"
+        },
+        {
           "english": "大谷直人",
           "romaji": "Ōtani Naoto",
           "template": "nihongo"
