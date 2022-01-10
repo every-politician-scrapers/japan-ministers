@@ -81,6 +81,10 @@
       ],
       "templates": [
         {
+          "description": "Governor of Gifu Prefecture in Japan",
+          "template": "short description"
+        },
+        {
           "df": "y",
           "year": "1947",
           "month": "9",
