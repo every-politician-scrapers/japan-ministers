@@ -79,6 +79,9 @@
           "native_name": {
             "text": "大谷 直人"
           },
+          "image": {
+            "text": "大谷直人.jpg"
+          },
           "native_name_lang": {
             "text": "ja"
           },
@@ -136,6 +139,9 @@
                 "page": "University of Tokyo"
               }
             ]
+          },
+          "caption": {
+            "text": "Ōtani in 2019"
           }
         }
       ]

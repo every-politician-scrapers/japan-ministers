@@ -488,7 +488,7 @@
             "text": "ja"
           },
           "image": {
-            "text": "Fumio Kishida cropped 1 Fumio Kishida 20211004.jpg"
+            "text": "Fumio Kishida 20211004.jpg"
           },
           "caption": {
             "text": "Official portrait, 2021"
@@ -668,9 +668,6 @@
             ]
           },
           "term_label4": {
-            "text": "In office"
-          },
-          "status4": {
             "text": "Acting"
           },
           "term_start4": {
