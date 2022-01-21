@@ -161,7 +161,7 @@
               }
             ]
           },
-          "office3": {
+          "office2": {
             "text": "Secretary General of the Liberal Democratic Party of Japan",
             "links": [
               {
@@ -170,13 +170,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start2": {
             "text": "22 September 2008"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "29 September 2009"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Tarō Asō",
             "links": [
               {
@@ -185,7 +185,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Tadamori Oshima",
             "links": [
               {
@@ -194,7 +194,7 @@
               }
             ]
           },
-          "office1": {
+          "office3": {
             "text": "Chief Cabinet Secretary",
             "links": [
               {
@@ -203,7 +203,7 @@
               }
             ]
           },
-          "primeminister1": {
+          "primeminister3": {
             "text": "Junichiro Koizumi",
             "links": [
               {
@@ -212,13 +212,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start3": {
             "text": "7 May 2004"
           },
-          "term_end1": {
+          "term_end3": {
             "text": "31 October 2005"
           },
-          "predecessor1": {
+          "predecessor3": {
             "text": "Yasuo Fukuda",
             "links": [
               {
@@ -227,7 +227,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor3": {
             "text": "Shinzō Abe",
             "links": [
               {
@@ -236,18 +236,54 @@
               }
             ]
           },
-          "office2": {
-            "text": "Member of the House of Representatives",
+          "office4": {
+            "text": "Member of the House of Representatives from Shimane",
             "links": [
               {
                 "text": "Member of the House of Representatives",
                 "type": "internal",
                 "page": "House of Representatives (Japan)"
+              },
+              {
+                "text": "Shimane",
+                "type": "internal",
+                "page": "Shimane Prefecture"
               }
             ]
           },
-          "term_start2": {
+          "constituency4": {
+            "text": "1st district"
+          },
+          "predecessor4": {
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
+          },
+          "term_start4": {
+            "text": "20 October 1996"
+          },
+          "term_start5": {
             "text": "18 February 1990"
+          },
+          "term_end5": {
+            "text": "20 October 1996"
+          },
+          "constituency5": {
+            "text": "Shimane At-large (Multi-member)"
+          },
+          "predecessor5": {
+            "text": "Kichizō Hosoda"
+          },
+          "successor5": {
+            "text": "Constituency abolished",
+            "formatting": {
+              "italic": [
+                "Constituency abolished"
+              ]
+            }
           },
           "birth_date": {
             "text": "April 5, 1944"
