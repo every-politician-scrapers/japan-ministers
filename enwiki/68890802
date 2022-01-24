@@ -46,7 +46,7 @@
               }
             },
             {
-              "text": "She serves as Minister for the Tokyo Olympic and Paralympic Games and Minister in Charge of Promoting Vaccinations in the Prime Minister Fumio Kishida's cabinet since October 2021.",
+              "text": "She serves as Minister for the Tokyo Olympic and Paralympic Games and Minister in Charge of Promoting Vaccinations.",
               "links": [
                 {
                   "text": "Tokyo Olympic",
@@ -62,20 +62,25 @@
                   "text": "Vaccinations",
                   "type": "internal",
                   "page": "COVID-19 vaccination in Japan"
-                },
+                }
+              ]
+            },
+            {
+              "text": "She has been in Prime Minister Fumio Kishida's Cabinet since October 2021.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Fumio Kishida"
                 },
                 {
-                  "text": "cabinet",
+                  "text": "Cabinet",
                   "type": "internal",
                   "page": "Kishida Cabinet"
                 }
               ]
             },
             {
-              "text": "Noriko Horiuchi was preceded by Tamayo Marukawa as minister for the Tokyo Olympic and Paralympic Games and by Taro Kono as minister in charge of Vaccination.",
+              "text": "Noriko Horiuchi was preceded by Tamayo Marukawa as Minister for the Tokyo Olympic and Paralympic Games and by Taro Kono as Minister in Charge of Vaccination.",
               "links": [
                 {
                   "type": "internal",
