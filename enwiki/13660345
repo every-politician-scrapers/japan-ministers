@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Kosaburo Nishime (西銘 恒三郎) is a Japanese politician of the Liberal Democratic Party (LDP), a member of the House of Representatives in the Diet (national legislature).",
+              "text": "Kosaburo Nishime (西銘 恒三郎) is a Japanese politician of the Liberal Democratic Party (LDP), a member of the House of Representatives in the Diet (national legislature) and the Minister of Reconstruction in the current Kishida cabinet since October 2021.",
               "links": [
                 {
                   "text": "politician",
@@ -41,9 +41,23 @@
                   "text": "Diet",
                   "type": "internal",
                   "page": "Diet of Japan"
+                },
+                {
+                  "text": "Minister of Reconstruction",
+                  "type": "internal",
+                  "page": "Reconstruction Agency"
+                },
+                {
+                  "text": "Kishida",
+                  "type": "internal",
+                  "page": "Second Kishida Cabinet"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "A native of Chinen, Okinawa and graduate of Sophia University he was elected to the assembly of Okinawa Prefecture for the first time in 1988 and to the Diet for the first time in 2003.",
               "links": [
@@ -87,11 +101,119 @@
           "template": "short description"
         },
         {
+          "year": "1954",
+          "month": "08",
+          "day": "07",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
           "english": "Kosaburo Nishime",
           "kanji": "西銘 恒三郎",
           "romaji": "Nishime Kōsaburō",
           "extra": "born August 7, 1954",
           "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kosaburo Nishime"
+          },
+          "native_name": {
+            "text": "西銘 恒三郎"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Nishime Kōsaburō.jpg"
+          },
+          "office": {
+            "text": "Minister of Reconstruction",
+            "links": [
+              {
+                "text": "Minister of Reconstruction",
+                "type": "internal",
+                "page": "Reconstruction Agency"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 October 2021"
+          },
+          "primeminister": {
+            "text": "Fumio Kishida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fumio Kishida"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Katsuei Hirasawa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katsuei Hirasawa"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the House of Representatives for Okinawa 4th District",
+            "links": [
+              {
+                "text": "Member of the House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Japan)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 December 2012"
+          },
+          "term_start2": {
+            "text": "21 July 2009"
+          },
+          "term_end2": {
+            "text": "10 November 2003"
+          },
+          "birth_date": {
+            "text": "August 7, 1954"
+          },
+          "birth_place": {
+            "text": "Nanjō, Okinawa Prefecture, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nanjō"
+              },
+              {
+                "type": "internal",
+                "page": "Okinawa Prefecture"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Democratic Party",
+            "links": [
+              {
+                "text": "Liberal Democratic Party",
+                "type": "internal",
+                "page": "Liberal Democratic Party (Japan)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sophia University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sophia University"
+              }
+            ]
+          }
         }
       ]
     }
