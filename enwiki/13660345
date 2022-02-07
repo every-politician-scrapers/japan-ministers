@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Kosaburo Nishime (西銘 恒三郎) is a Japanese politician of the Liberal Democratic Party (LDP), a member of the House of Representatives in the Diet (national legislature) and the Minister of Reconstruction in the current Kishida cabinet since October 2021.",
+              "text": "Kosaburo Nishime (西銘 恒三郎) is a Japanese politician of the Liberal Democratic Party (LDP), a member of the House of Representatives in the Diet (national legislature) and Minister of Reconstruction in the current Kishida cabinet since October 2021.",
               "links": [
                 {
                   "text": "politician",
@@ -50,6 +50,11 @@
                 {
                   "text": "Kishida",
                   "type": "internal",
+                  "page": "Fumio Kishida"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
                   "page": "Second Kishida Cabinet"
                 }
               ]
@@ -59,9 +64,10 @@
         {
           "sentences": [
             {
-              "text": "A native of Chinen, Okinawa and graduate of Sophia University he was elected to the assembly of Okinawa Prefecture for the first time in 1988 and to the Diet for the first time in 2003.",
+              "text": "A native of Chinen and graduate of Sophia University, he was elected to the assembly of Okinawa Prefecture for the first time in 1988 and to the Diet for the first time in 2003.",
               "links": [
                 {
+                  "text": "Chinen",
                   "type": "internal",
                   "page": "Chinen, Okinawa"
                 },
@@ -81,10 +87,6 @@
                 {
                   "type": "internal",
                   "page": "Junji Nishime"
-                },
-                {
-                  "type": "internal",
-                  "page": "Junshiro Nishime"
                 },
                 {
                   "type": "internal",

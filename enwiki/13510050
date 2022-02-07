@@ -24,17 +24,12 @@
         {
           "sentences": [
             {
-              "text": "Fumio Kishida (岸田 文雄) is a Japanese politician serving as the Prime Minister of Japan since 4 October 2021.",
+              "text": "Fumio Kishida (岸田 文雄) is a Japanese politician serving as the Prime Minister of Japan and president of the Liberal Democratic Party (LDP) since 2021.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Prime Minister of Japan"
-                }
-              ]
-            },
-            {
-              "text": "He has also been the president of the Liberal Democratic Party (LDP) since 29 September 2021.",
-              "links": [
+                },
                 {
                   "text": "Liberal Democratic Party",
                   "type": "internal",
@@ -131,13 +126,8 @@
         {
           "sentences": [
             {
-              "text": "Described as a talented communicator and for long being considered a potential future prime minister, Kishida ran in the 2020 LDP leadership election, however he lost to Yoshihide Suga.",
+              "text": "Long considered a potential future prime minister, Kishida ran in the 2020 LDP leadership election, however he lost to Yoshihide Suga.",
               "links": [
-                {
-                  "text": "communicator",
-                  "type": "internal",
-                  "page": "Communication"
-                },
                 {
                   "text": "2020 LDP leadership election",
                   "type": "internal",
@@ -178,7 +168,7 @@
               ]
             },
             {
-              "text": "Kishida ideologically is a moderate, and has stated that his premiership will focus on a \"new model of capitalism\", by seeking to implement redistributive policies and expand the middle class, and will seek to strengthen the Quad Security Dialogue in pursuit of a Free and Open Indo-Pacific foreign policy.",
+              "text": "Kishida has been described as an ideological moderate within the LDP and has stated that his premiership will focus on a \"new model of capitalism\", by seeking to implement redistributive policies to expand the middle class, and will seek to strengthen the Quad Security Dialogue in pursuit of a Free and Open Indo-Pacific foreign policy.",
               "links": [
                 {
                   "text": "moderate",
