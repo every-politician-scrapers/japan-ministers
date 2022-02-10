@@ -192,12 +192,16 @@
             ]
           },
           "office1": {
-            "text": "Member of the House of Representatives for Kanagawa 17th District",
+            "text": "Member of the House of Representatives for Kanagawa's 17th district",
             "links": [
               {
                 "text": "Member of the House of Representatives",
                 "type": "internal",
                 "page": "House of Representatives (Japan)"
+              },
+              {
+                "type": "internal",
+                "page": "Kanagawa's 17th district"
               }
             ]
           },
