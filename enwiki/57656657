@@ -53,6 +53,13 @@
       ],
       "templates": [
         {
+          "list": [
+            "花角英世"
+          ],
+          "date": "February 2022",
+          "template": "expand japanese"
+        },
+        {
           "description": "Japanese politician",
           "template": "short description"
         },
