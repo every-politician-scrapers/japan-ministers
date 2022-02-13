@@ -87,7 +87,7 @@
             "text": "220px"
           },
           "caption": {
-            "text": "Santō speaks at Brazilian Senate"
+            "text": "Santō in 2020"
           },
           "office": {
             "text": "President of the House of Councillors",
@@ -95,7 +95,7 @@
               {
                 "text": "President of the House of Councillors",
                 "type": "internal",
-                "page": "List of Presidents of the House of Councillors (Japan)"
+                "page": "List of presidents of the House of Councillors (Japan)"
               }
             ]
           },
@@ -117,7 +117,8 @@
               {
                 "text": "Vice President of the House of Councillors",
                 "type": "internal",
-                "page": "List of Presidents of the House of Councillors (Japan)"
+                "page": "List of presidents of the House of Councillors (Japan)",
+                "anchor": "Vice presidents of the House of Councillors"
               }
             ]
           },
