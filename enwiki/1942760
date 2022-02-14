@@ -128,6 +128,13 @@
       ],
       "templates": [
         {
+          "list": [
+            "小池百合子"
+          ],
+          "date": "February 2022",
+          "template": "expand japanese"
+        },
+        {
           "description": "Japanese politician",
           "template": "short description"
         },
