@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Ryūta Ibaragi (伊原木 隆太) is a Japanese politician and the governor of Okayama Prefecture in Japan.",
+              "text": "Ryūta Ibaragi (伊原木 隆太) is a Japanese politician, businessman and the governor of Okayama Prefecture in Japan.",
               "links": [
                 {
                   "text": "Japanese",
@@ -27,6 +27,11 @@
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
+                },
+                {
+                  "text": "businessman",
+                  "type": "internal",
+                  "page": "businessman"
                 },
                 {
                   "type": "internal",
@@ -70,9 +75,6 @@
           },
           "image": {
             "text": "Ryuta Ibaragi cropped 2 Shinzo Abe Hidehiko Yuzaki Ryuta Ibaragi and Tokihiro Nakamura 20180802.jpg"
-          },
-          "caption": {
-            "text": "Ryūta Ibaragi"
           },
           "office": {
             "text": "Governor of Okayama Prefecture",
