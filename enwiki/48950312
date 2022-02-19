@@ -48,6 +48,10 @@
           "template": "birth date and age"
         },
         {
+          "date": "February 2022",
+          "template": "expand japanese"
+        },
+        {
           "english": "Hirofumi Yoshimura",
           "kanji": "吉村 洋文",
           "romaji": "Yoshimura Hirofumi",
