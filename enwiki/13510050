@@ -744,12 +744,8 @@
             "text": "July 29, 1957"
           },
           "birth_place": {
-            "text": "Shibuya, Tokyo, Japan",
+            "text": "Tokyo, Japan",
             "links": [
-              {
-                "type": "internal",
-                "page": "Shibuya"
-              },
               {
                 "type": "internal",
                 "page": "Tokyo"
