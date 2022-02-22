@@ -86,6 +86,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Oishi Kengo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oishi Kengo"
+              }
+            ]
+          },
           "birth_date": {
             "text": "November 29, 1950"
           },
