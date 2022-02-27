@@ -211,16 +211,26 @@
         },
         {
           "list": [
+            "岸田文雄"
+          ],
+          "date": "November 2021",
+          "template": "expand japanese"
+        },
+        {
+          "list": [
             "Kishida Fumio"
           ],
           "template": "eastern name order"
         },
         {
-          "list": [
-            "岸田文雄"
-          ],
-          "date": "November 2021",
-          "template": "expand japanese"
+          "template": "redirect",
+          "redirect": "Kishida",
+          "links": [
+            {
+              "page": "Kishida (surname)",
+              "desc": "other people bearing the name Kishida"
+            }
+          ]
         },
         {
           "date": "November 2021",
@@ -524,13 +534,7 @@
             ]
           },
           "vicepresident1": {
-            "text": "Tarō Asō",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarō Asō"
-              }
-            ]
+            "text": "absence"
           },
           "1blankname1": {
             "text": "Secretary-General"
