@@ -168,7 +168,7 @@
               ]
             },
             {
-              "text": "Kishida has been described as an ideological moderate within the LDP and has stated that his premiership will focus on a \"new model of capitalism\", by seeking to implement redistributive policies to expand the middle class, and will seek to strengthen the Quad Security Dialogue in pursuit of a Free and Open Indo-Pacific foreign policy.",
+              "text": "Kishida has been described as an ideological moderate within the LDP and has stated that his premiership will focus on a \"new model of capitalism\", by seeking to implement redistributive policies to expand the middle class.",
               "links": [
                 {
                   "text": "moderate",
@@ -189,7 +189,12 @@
                   "text": "middle class",
                   "type": "internal",
                   "page": "middle class"
-                },
+                }
+              ]
+            },
+            {
+              "text": "On foreign policy he plans to continue strengthening the Quad Security Dialogue in pursuit of the Free and Open Indo-Pacific strategy.",
+              "links": [
                 {
                   "text": "Quad Security Dialogue",
                   "type": "internal",
