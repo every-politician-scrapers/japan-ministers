@@ -39,6 +39,10 @@
       ],
       "templates": [
         {
+          "date": "March 2022",
+          "template": "refimprove"
+        },
+        {
           "description": "Japanese politician",
           "template": "short description"
         }
