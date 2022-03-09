@@ -37,6 +37,13 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Takayuki Kobayashi 2017.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Takayuki_Kobayashi_2017.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Takayuki_Kobayashi_2017.jpg"
+        }
+      ],
       "templates": [
         {
           "date": "March 2022",
