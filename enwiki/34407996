@@ -1,247 +1,31 @@
 {
-  "title": "Haruhiko Kuroda",
-  "pageID": 34407996,
-  "categories": [
-    "1944 births",
-    "Living people",
-    "Alumni of the University of Oxford",
-    "Governors of the Bank of Japan",
-    "Hitotsubashi University faculty",
-    "People from Ōmuta, Fukuoka",
-    "University of Tokyo alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Haruhiko Kuroda (黒田 東彦), is the 31st and current Governor of the Bank of Japan (BOJ).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bank of Japan"
-                }
-              ]
-            },
-            {
-              "text": "He was formerly the President of the Asian Development Bank from 1 February 2005 to 18 March 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Asian Development Bank"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1944",
-          "month": "10",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Haruhiko Kuroda",
-          "kanji": "黒田 東彦",
-          "romaji": "Kuroda Haruhiko",
-          "extra": "born 25 October 1944",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Haruhiko Kuroda"
-          },
-          "native_name": {
-            "text": "黒田 東彦"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Haruhiko Kuroda at ADB Philippines (crop).jpg"
-          },
-          "office": {
-            "text": "31st Governor of the Bank of Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bank of Japan"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Shinzō Abe Yoshihide Suga Fumio Kishida",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              },
-              {
-                "type": "internal",
-                "page": "Yoshihide Suga"
-              },
-              {
-                "type": "internal",
-                "page": "Fumio Kishida"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 March 2013"
-          },
-          "predecessor": {
-            "text": "Masaaki Shirakawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masaaki Shirakawa"
-              }
-            ]
-          },
-          "office2": {
-            "text": "8th President of the Asian Development Bank",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Asian Development Bank"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 February 2005"
-          },
-          "term_end2": {
-            "text": "18 March 2013"
-          },
-          "predecessor2": {
-            "text": "Tadao Chino",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tadao Chino"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Takehiko Nakao",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Takehiko Nakao"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Vice Minister of Finance for International Affairs",
-            "links": [
-              {
-                "text": "Vice Minister of Finance for International Affairs",
-                "type": "internal",
-                "page": "Ministry of Finance (Japan)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "8 July 1999"
-          },
-          "term_end4": {
-            "text": "14 January 2003"
-          },
-          "predecessor4": {
-            "text": "Eisuke Sakakibara"
-          },
-          "successor4": {
-            "text": "Zenbee Mizoguchi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zenbee Mizoguchi"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Director General of the International Bureau",
-            "links": [
-              {
-                "text": "Director General of the International Bureau",
-                "type": "internal",
-                "page": "Ministry of Finance (Japan)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "15 July 1997"
-          },
-          "term_end5": {
-            "text": "8 July 1999"
-          },
-          "predecessor5": {
-            "text": "Eisuke Sakakibara"
-          },
-          "successor5": {
-            "text": "Zenbee Mizoguchi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zenbee Mizoguchi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 25, 1944"
-          },
-          "birth_place": {
-            "text": "Ōmuta, Japan",
-            "links": [
-              {
-                "text": "Ōmuta",
-                "type": "internal",
-                "page": "Ōmuta, Fukuoka"
-              },
-              {
-                "text": "Japan",
-                "type": "internal",
-                "page": "Empire of Japan"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Kumiko Kuroda"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "University of Tokyo All Souls College, Oxford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tokyo"
-              },
-              {
-                "type": "internal",
-                "page": "All Souls College, Oxford"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Haruhiko Kuroda (黒田 東彦) Signature in English 2014.png"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Haruhiko Kuroda",
+  "native_name": "黒田 東彦",
+  "native_name_lang": "ja",
+  "image": "Haruhiko Kuroda at ADB Philippines (crop).jpg",
+  "office": "31st Governor of the Bank of Japan",
+  "primeminister": "Shinzō Abe Yoshihide Suga Fumio Kishida",
+  "term_start": "20 March 2013",
+  "predecessor": "Masaaki Shirakawa",
+  "office2": "8th President of the Asian Development Bank",
+  "term_start2": "1 February 2005",
+  "term_end2": "18 March 2013",
+  "predecessor2": "Tadao Chino",
+  "successor2": "Takehiko Nakao",
+  "office4": "Vice Minister of Finance for International Affairs",
+  "term_start4": "8 July 1999",
+  "term_end4": "14 January 2003",
+  "predecessor4": "Eisuke Sakakibara",
+  "successor4": "Zenbee Mizoguchi",
+  "office5": "Director General of the International Bureau",
+  "term_start5": "15 July 1997",
+  "term_end5": "8 July 1999",
+  "predecessor5": "Eisuke Sakakibara",
+  "successor5": "Zenbee Mizoguchi",
+  "birth_date": "October 25, 1944",
+  "birth_place": "Ōmuta, Japan",
+  "spouse": "Kumiko Kuroda",
+  "children": "2",
+  "education": "University of Tokyo All Souls College, Oxford",
+  "signature": "Haruhiko Kuroda (黒田 東彦) Signature in English 2014.png"
 }

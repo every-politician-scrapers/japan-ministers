@@ -1,268 +1,31 @@
 {
-  "title": "Shun'ichi Suzuki (politician)",
-  "pageID": 13518671,
-  "categories": [
-    "1953 births",
-    "Living people",
-    "People from Tokyo",
-    "Waseda University alumni",
-    "Members of the House of Representatives (Japan)",
-    "Members of Nippon Kaigi",
-    "Environment ministers of Japan",
-    "Ministers of Finance of Japan",
-    "Children of prime ministers of Japan",
-    "Liberal Democratic Party (Japan) politicians",
-    "21st-century Japanese politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shun'ichi Suzuki (鈴木 俊一) is a Japanese politician who currently serves as Minister of Finance since October 2021.",
-              "links": [
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Minister of Finance (Japan)"
-                }
-              ]
-            },
-            {
-              "text": "He is serving in the House of Representatives as a member of the Liberal Democratic Party.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives of Japan"
-                },
-                {
-                  "text": "Liberal Democratic Party",
-                  "type": "internal",
-                  "page": "Liberal Democratic Party (Japan)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the governor of Tokyo who lived 1910-2010",
-            "Shunichi Suzuki (governor)"
-          ],
-          "template": "for"
-        },
-        {
-          "year": "1953",
-          "month": "4",
-          "day": "13",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Shun'ichi Suzuki",
-          "kanji": "鈴木 俊一",
-          "romaji": "Suzuki Shun'ichi",
-          "extra": "born 13 April 1953",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Shun'ichi Suzuki"
-          },
-          "native_name": {
-            "text": "鈴木 俊一"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Shunichi Suzuki 20211004.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2021"
-          },
-          "office": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Japan)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Fumio Kishida",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fumio Kishida"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "4 October 2021"
-          },
-          "predecessor": {
-            "text": "Tarō Asō",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarō Asō"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for the Tokyo Olympic and Paralympic Games"
-          },
-          "primeminister1": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "10 April 2019"
-          },
-          "term_end1": {
-            "text": "11 September 2019"
-          },
-          "predecessor1": {
-            "text": "Yoshitaka Sakurada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yoshitaka Sakurada"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Seiko Hashimoto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seiko Hashimoto"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "3 August 2017"
-          },
-          "term_end2": {
-            "text": "2 October 2018"
-          },
-          "predecessor2": {
-            "text": "Tamayo Marukawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tamayo Marukawa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Yoshitaka Sakurada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yoshitaka Sakurada"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of the Environment",
-            "links": [
-              {
-                "text": "Minister of the Environment",
-                "type": "internal",
-                "page": "Ministry of the Environment (Japan)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Junichiro Koizumi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Junichiro Koizumi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 September 2002"
-          },
-          "term_end3": {
-            "text": "22 September 2003"
-          },
-          "predecessor3": {
-            "text": "Hiroshi Ohki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hiroshi Ohki"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Yuriko Koike",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yuriko Koike"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 13, 1953"
-          },
-          "birth_place": {
-            "text": "Tokyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tokyo"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Waseda University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Waseda University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Shun'ichi Suzuki",
+  "native_name": "鈴木 俊一",
+  "native_name_lang": "ja",
+  "image": "Shunichi Suzuki 20211004.jpg",
+  "caption": "Official portrait, 2021",
+  "office": "Minister of Finance",
+  "primeminister": "Fumio Kishida",
+  "term_start": "4 October 2021",
+  "predecessor": "Tarō Asō",
+  "office1": "Minister for the Tokyo Olympic and Paralympic Games",
+  "primeminister1": "Shinzō Abe",
+  "term_start1": "10 April 2019",
+  "term_end1": "11 September 2019",
+  "predecessor1": "Yoshitaka Sakurada",
+  "successor1": "Seiko Hashimoto",
+  "primeminister2": "Shinzō Abe",
+  "term_start2": "3 August 2017",
+  "term_end2": "2 October 2018",
+  "predecessor2": "Tamayo Marukawa",
+  "successor2": "Yoshitaka Sakurada",
+  "office3": "Minister of the Environment",
+  "primeminister3": "Junichiro Koizumi",
+  "term_start3": "30 September 2002",
+  "term_end3": "22 September 2003",
+  "predecessor3": "Hiroshi Ohki",
+  "successor3": "Yuriko Koike",
+  "birth_date": "April 13, 1953",
+  "birth_place": "Tokyo",
+  "alma_mater": "Waseda University"
 }

@@ -1,268 +1,30 @@
 {
-  "title": "Kōichi Hagiuda",
-  "pageID": 9748067,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "People from Hachiōji, Tokyo",
-    "Members of the House of Representatives from Tokyo",
-    "Members of the Tokyo Metropolitan Assembly",
-    "Japanese municipal councilors",
-    "Members of Nippon Kaigi",
-    "Liberal Democratic Party (Japan) politicians",
-    "Meiji University alumni",
-    "21st-century Japanese politicians",
-    "Education ministers of Japan",
-    "Minister of Economy, Trade and Industry of Japan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kōichi Hagiuda (萩生田 光一) is a Japanese politician serving as the Minister of Economy, Trade and Industry since October 2021.",
-              "links": [
-                {
-                  "text": "Japanese",
-                  "type": "internal",
-                  "page": "Japanese people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Economy, Trade and Industry"
-                }
-              ]
-            },
-            {
-              "text": "Hagiuda previously served as the Deputy Chief Cabinet Secretary from October 2015 to August 2016, and was the Minister of Education, Culture, Sports, Science and Technology from September 2019 to October 2021.",
-              "links": [
-                {
-                  "text": "Deputy Chief Cabinet Secretary",
-                  "type": "internal",
-                  "page": "Cabinet Secretariat (Japan)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Education, Culture, Sports, Science and Technology"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1963",
-          "month": "8",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Kōichi Hagiuda",
-          "kanji": "萩生田 光一",
-          "romaji": "Hagiuda Kōichi",
-          "extra": "born August 31, 1963",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kōichi Hagiuda"
-          },
-          "native_name": {
-            "text": "萩生田 光一"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Koichi Hagiuda 20211004.jpg"
-          },
-          "office": {
-            "text": "Minister of Economy, Trade and Industry",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Economy, Trade and Industry"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Fumio Kishida",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fumio Kishida"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "4 October 2021"
-          },
-          "predecessor": {
-            "text": "Hiroshi Kajiyama",
-            "links": [
-              {
-                "text": "Hiroshi Kajiyama",
-                "type": "internal",
-                "page": "Hiroshi Kajiyama (politician)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Education, Culture, Sports, Science and Technology",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Education, Culture, Sports, Science and Technology"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Shinzō Abe Yoshihide Suga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              },
-              {
-                "type": "internal",
-                "page": "Yoshihide Suga"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 September 2019"
-          },
-          "term_end1": {
-            "text": "4 October 2021"
-          },
-          "predecessor1": {
-            "text": "Masahiko Shibayama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masahiko Shibayama"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Shinsuke Suematsu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinsuke Suematsu"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Chief Cabinet Secretary of Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Cabinet Secretary"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 October 2015"
-          },
-          "term_end3": {
-            "text": "3 August 2016"
-          },
-          "predecessor3": {
-            "text": "Katsunobu Katō",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Katsunobu Katō"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Yasutoshi Nishimura",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yasutoshi Nishimura"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Japan)"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "Tokyo 24th District"
-          },
-          "term_start4": {
-            "text": "10 November 2003"
-          },
-          "term_end4": {
-            "text": "21 July 2009"
-          },
-          "birth_date": {
-            "text": "August 31, 1963"
-          },
-          "birth_place": {
-            "text": "Hachiōji, Tokyo, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hachiōji, Tokyo"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Meiji University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Meiji University"
-              }
-            ]
-          },
-          "party": {
-            "text": "Liberal Democratic Party",
-            "links": [
-              {
-                "text": "Liberal Democratic Party",
-                "type": "internal",
-                "page": "Liberal Democratic Party (Japan)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kōichi Hagiuda",
+  "native_name": "萩生田 光一",
+  "native_name_lang": "ja",
+  "image": "Koichi Hagiuda 20211004.jpg",
+  "office": "Minister of Economy, Trade and Industry",
+  "primeminister": "Fumio Kishida",
+  "term_start": "4 October 2021",
+  "predecessor": "Hiroshi Kajiyama",
+  "office1": "Minister of Education, Culture, Sports, Science and Technology",
+  "primeminister1": "Shinzō Abe Yoshihide Suga",
+  "term_start1": "11 September 2019",
+  "term_end1": "4 October 2021",
+  "predecessor1": "Masahiko Shibayama",
+  "successor1": "Shinsuke Suematsu",
+  "office3": "Deputy Chief Cabinet Secretary of Japan",
+  "primeminister3": "Shinzō Abe",
+  "term_start3": "7 October 2015",
+  "term_end3": "3 August 2016",
+  "predecessor3": "Katsunobu Katō",
+  "successor3": "Yasutoshi Nishimura",
+  "office4": "Member of the House of Representatives",
+  "constituency4": "Tokyo 24th District",
+  "term_start4": "10 November 2003",
+  "term_end4": "21 July 2009",
+  "birth_date": "August 31, 1963",
+  "birth_place": "Hachiōji, Tokyo, Japan",
+  "alma_mater": "Meiji University",
+  "party": "Liberal Democratic Party"
 }
