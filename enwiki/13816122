@@ -1,117 +1,13 @@
 {
-  "title": "Hideaki Ōmura",
-  "pageID": 13816122,
-  "categories": [
-    "1960 births",
-    "Living people",
-    "People from Hekinan",
-    "Members of the House of Representatives from Aichi Prefecture",
-    "Liberal Democratic Party (Japan) politicians",
-    "University of Tokyo alumni",
-    "Japanese government officials",
-    "Governors of Aichi Prefecture",
-    "21st-century Japanese politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hideaki Ōmura (大村 秀章) is a politician and the current governor of Aichi Prefecture.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Aichi Prefecture"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "March 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1960",
-          "month": "3",
-          "day": "9",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Hideaki Ōmura",
-          "kanji": "大村 秀章",
-          "romaji": "Ōmura Hideaki",
-          "extra": "born 9 March 1960",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Hideaki Ōmura"
-          },
-          "native_name": {
-            "text": "大村 秀章"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Hideaki Omura (2014.03.23) 5.jpg"
-          },
-          "image_size": {
-            "text": "220px"
-          },
-          "order": {
-            "text": "Governor of Aichi Prefecture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aichi Prefecture"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 February 2011"
-          },
-          "predecessor": {
-            "text": "Masaaki Kanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masaaki Kanda"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 9, 1960"
-          },
-          "birth_place": {
-            "text": "Hekinan, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hekinan"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Tokyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tokyo"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Hideaki Ōmura",
+  "native_name": "大村 秀章",
+  "native_name_lang": "ja",
+  "image": "Hideaki Omura (2014.03.23) 5.jpg",
+  "image_size": "220px",
+  "order": "Governor of Aichi Prefecture",
+  "term_start": "15 February 2011",
+  "predecessor": "Masaaki Kanda",
+  "birth_date": "March 9, 1960",
+  "birth_place": "Hekinan, Japan",
+  "alma_mater": "University of Tokyo"
 }

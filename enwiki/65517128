@@ -1,100 +1,11 @@
 {
-  "title": "Kōichi Shiota",
-  "pageID": 65517128,
-  "categories": [
-    "Japanese politicians",
-    "People from Kagoshima",
-    "People from the Amami Islands",
-    "1965 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kōichi Shiota (塩田 康一) is a Japanese politician currently serving as the governor of Kagoshima Prefecture.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kagoshima Prefecture"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician serving as governor of Kagoshima province",
-          "template": "short description"
-        },
-        {
-          "year": "1965",
-          "month": "10",
-          "day": "15",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Kōichi Shiota",
-          "kanji": "塩田 康一",
-          "romaji": "Shiota Kōichi",
-          "extra": "born October 15, 1965",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kōichi Shiota"
-          },
-          "native_name": {
-            "text": "塩田 康一"
-          },
-          "birth_date": {
-            "text": "October 15, 1965"
-          },
-          "birth_place": {
-            "text": "Kagoshima City",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kagoshima"
-              }
-            ]
-          },
-          "office": {
-            "text": "Governor of Kagoshima Prefecture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kagoshima Prefecture"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "July 28, 2020"
-          },
-          "predecessor": {
-            "text": "Satoshi Mitazono",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Satoshi Mitazono"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇯🇵ese"
-          },
-          "website": {
-            "text": "塩田康一"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kōichi Shiota",
+  "native_name": "塩田 康一",
+  "birth_date": "October 15, 1965",
+  "birth_place": "Kagoshima City",
+  "office": "Governor of Kagoshima Prefecture",
+  "termstart": "July 28, 2020",
+  "predecessor": "Satoshi Mitazono",
+  "nationality": "🇯🇵ese",
+  "website": "塩田康一"
 }

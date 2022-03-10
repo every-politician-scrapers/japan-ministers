@@ -1,110 +1,11 @@
 {
-  "title": "Tatsuya Maruyama",
-  "pageID": 65517628,
-  "categories": [
-    "Japanese politicians",
-    "People from Fukuoka Prefecture",
-    "1970 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tatsuya Maruyama (丸山 達也) is a Japanese politician and current governor of Shimane Prefecture.",
-              "links": [
-                {
-                  "text": "Japanese",
-                  "type": "internal",
-                  "page": "Japan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Shimane Prefecture"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1970",
-          "month": "3",
-          "day": "25",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Tatsuya Maruyama",
-          "kanji": "丸山 達也",
-          "romaji": "Maruyama Tatsuya",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tatsuya Maruyama"
-          },
-          "native_name": {
-            "text": "丸山 達也"
-          },
-          "office": {
-            "text": "Governor of Shimane Prefecture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shimane Prefecture"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Zenbee Mizoguchi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zenbee Mizoguchi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 25, 1970"
-          },
-          "birth_place": {
-            "text": "Hirokawa, Fukuoka, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hirokawa, Fukuoka"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "April 30, 2019"
-          },
-          "nationality": {
-            "text": "Japanese",
-            "links": [
-              {
-                "text": "Japanese",
-                "type": "internal",
-                "page": "Japanese people"
-              }
-            ]
-          },
-          "website": {
-            "text": "島根県: ようこそ知事室へ"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tatsuya Maruyama",
+  "native_name": "丸山 達也",
+  "office": "Governor of Shimane Prefecture",
+  "predecessor": "Zenbee Mizoguchi",
+  "birth_date": "March 25, 1970",
+  "birth_place": "Hirokawa, Fukuoka, Japan",
+  "termstart": "April 30, 2019",
+  "nationality": "Japanese",
+  "website": "島根県: ようこそ知事室へ"
 }

@@ -1,229 +1,28 @@
 {
-  "title": "Hirofumi Yoshimura",
-  "pageID": 48950312,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Japanese politicians",
-    "Kyushu University alumni",
-    "Mayors of Osaka",
-    "Japanese municipal councilors",
-    "Politicians from Osaka Prefecture",
-    "People from Yokohama",
-    "People from Kawachinagano",
-    "Historical revisionism"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hirofumi Yoshimura (吉村 洋文) is a Japanese politician currently serving as the Governor of Osaka Prefecture.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Osaka Prefecture"
-                }
-              ]
-            },
-            {
-              "text": "He assumed office in April 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1975",
-          "month": "6",
-          "day": "17",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "date": "February 2022",
-          "template": "expand japanese"
-        },
-        {
-          "english": "Hirofumi Yoshimura",
-          "kanji": "吉村 洋文",
-          "romaji": "Yoshimura Hirofumi",
-          "extra": "born 17 June 1975",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Hirofumi Yoshimura"
-          },
-          "native_name": {
-            "text": "吉村 洋文"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Governor Yoshimura in 2021.jpg"
-          },
-          "office": {
-            "text": "Governor of Osaka Prefecture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osaka Prefecture"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 April 2019"
-          },
-          "predecessor": {
-            "text": "Ichirō Matsui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ichirō Matsui"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Mayor of Osaka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osaka"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "19 December 2015"
-          },
-          "term_end1": {
-            "text": "21 March 2019"
-          },
-          "predecessor1": {
-            "text": "Tōru Hashimoto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tōru Hashimoto"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ichirō Matsui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ichirō Matsui"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives of Japan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 December 2014"
-          },
-          "term_end2": {
-            "text": "1 October 2015"
-          },
-          "successor2": {
-            "text": "Tamotsu Shiiki"
-          },
-          "constituency2": {
-            "text": "Kinki PR",
-            "links": [
-              {
-                "text": "Kinki PR",
-                "type": "internal",
-                "page": "Kinki proportional representation block"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Osaka City Council"
-          },
-          "term_start3": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end3": {
-            "text": "2014",
-            "number": 2014
-          },
-          "constituency3": {
-            "text": "Kita-ku",
-            "links": [
-              {
-                "text": "Kita-ku",
-                "type": "internal",
-                "page": "Kita-ku, Osaka"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 17, 1975"
-          },
-          "birth_place": {
-            "text": "Kawachinagano, Osaka, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kawachinagano, Osaka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Osaka Restoration Association\nJapan Innovation Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osaka Restoration Association"
-              },
-              {
-                "text": "Japan Innovation Party",
-                "type": "internal",
-                "page": "Nippon Ishin no Kai"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Kyushu University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kyushu University"
-              }
-            ]
-          },
-          "website": {
-            "text": "Official website",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "http://yoshimura-hirofumi.com"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Hirofumi Yoshimura",
+  "native_name": "吉村 洋文",
+  "native_name_lang": "ja",
+  "image": "Governor Yoshimura in 2021.jpg",
+  "office": "Governor of Osaka Prefecture",
+  "term_start": "8 April 2019",
+  "predecessor": "Ichirō Matsui",
+  "office1": "Mayor of Osaka",
+  "term_start1": "19 December 2015",
+  "term_end1": "21 March 2019",
+  "predecessor1": "Tōru Hashimoto",
+  "successor1": "Ichirō Matsui",
+  "office2": "Member of House of Representatives",
+  "term_start2": "15 December 2014",
+  "term_end2": "1 October 2015",
+  "successor2": "Tamotsu Shiiki",
+  "constituency2": "Kinki PR",
+  "office3": "Member of Osaka City Council",
+  "term_start3": "2011",
+  "term_end3": "2014",
+  "constituency3": "Kita-ku",
+  "birth_date": "June 17, 1975",
+  "birth_place": "Kawachinagano, Osaka, Japan",
+  "party": "Osaka Restoration Association\nJapan Innovation Party",
+  "alma_mater": "Kyushu University",
+  "website": "Official website"
 }

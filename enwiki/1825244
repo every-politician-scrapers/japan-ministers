@@ -1,327 +1,37 @@
 {
-  "title": "Hiroyuki Hosoda",
-  "pageID": 1825244,
-  "categories": [
-    "1944 births",
-    "Living people",
-    "People from Shimane Prefecture",
-    "University of Tokyo alumni",
-    "Members of the House of Representatives (Japan)",
-    "Government ministers of Japan",
-    "Liberal Democratic Party (Japan) politicians",
-    "21st-century Japanese politicians",
-    "Politicians from Shimane Prefecture"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hiroyuki Hosoda (細田 博之) is a Japanese politician who has served as the Speaker of the House of Representatives of Japan since November 2021.",
-              "links": [
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Speaker of the House of Representatives of Japan",
-                  "type": "internal",
-                  "page": "Speaker of the House of Representatives (Japan)"
-                }
-              ]
-            },
-            {
-              "text": "He is also a member of the House of Representatives since 1990, and served as Chief Cabinet Secretary in Junichiro Koizumi's Cabinet from 2004 to 2005, and as Secretary-General of the Liberal Democratic Party from 2008 to 2009.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives of Japan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Cabinet Secretary"
-                },
-                {
-                  "type": "internal",
-                  "page": "Junichiro Koizumi"
-                },
-                {
-                  "text": "Cabinet",
-                  "type": "internal",
-                  "page": "Japanese Cabinet"
-                },
-                {
-                  "text": "Liberal Democratic Party",
-                  "type": "internal",
-                  "page": "Liberal Democratic Party (Japan)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Hosoda Hiroyuki"
-          ],
-          "template": "eastern name order"
-        },
-        {
-          "year": "1944",
-          "month": "4",
-          "day": "5",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Hiroyuki Hosoda",
-          "kanji": "細田 博之",
-          "romaji": "Hosoda Hiroyuki",
-          "extra": "born 5 April 1944",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Hiroyuki Hosoda"
-          },
-          "native_name": {
-            "text": "細田 博之"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg"
-          },
-          "caption": {
-            "text": "Hosoda in 2016."
-          },
-          "office": {
-            "text": "Speaker of the House of Representatives of Japan",
-            "links": [
-              {
-                "text": "Speaker of the House of Representatives of Japan",
-                "type": "internal",
-                "page": "Speaker of the House of Representatives (Japan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 November 2021"
-          },
-          "monarch": {
-            "text": "Naruhito",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naruhito"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Tadamori Ōshima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tadamori Ōshima"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Banri Kaieda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banri Kaieda"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Secretary General of the Liberal Democratic Party of Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Liberal Democratic Party of Japan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "22 September 2008"
-          },
-          "term_end2": {
-            "text": "29 September 2009"
-          },
-          "predecessor2": {
-            "text": "Tarō Asō",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarō Asō"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Tadamori Oshima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tadamori Oshima"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chief Cabinet Secretary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Cabinet Secretary"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Junichiro Koizumi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Junichiro Koizumi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 May 2004"
-          },
-          "term_end3": {
-            "text": "31 October 2005"
-          },
-          "predecessor3": {
-            "text": "Yasuo Fukuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yasuo Fukuda"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the House of Representatives from Shimane",
-            "links": [
-              {
-                "text": "Member of the House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Japan)"
-              },
-              {
-                "text": "Shimane",
-                "type": "internal",
-                "page": "Shimane Prefecture"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "1st district"
-          },
-          "predecessor4": {
-            "text": "Constituency established",
-            "formatting": {
-              "italic": [
-                "Constituency established"
-              ]
-            }
-          },
-          "term_start4": {
-            "text": "20 October 1996"
-          },
-          "term_start5": {
-            "text": "18 February 1990"
-          },
-          "term_end5": {
-            "text": "20 October 1996"
-          },
-          "constituency5": {
-            "text": "Shimane At-large (Multi-member)"
-          },
-          "predecessor5": {
-            "text": "Kichizō Hosoda"
-          },
-          "successor5": {
-            "text": "Constituency abolished",
-            "formatting": {
-              "italic": [
-                "Constituency abolished"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "April 5, 1944"
-          },
-          "birth_place": {
-            "text": "Matsue, Shimane, Empire of Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Matsue, Shimane"
-              },
-              {
-                "type": "internal",
-                "page": "Empire of Japan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Liberal Democratic Party",
-            "links": [
-              {
-                "text": "Liberal Democratic Party",
-                "type": "internal",
-                "page": "Liberal Democratic Party (Japan)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Tokyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tokyo"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Hiroyuki Hosoda",
+  "native_name": "細田 博之",
+  "native_name_lang": "ja",
+  "image": "Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg",
+  "caption": "Hosoda in 2016.",
+  "office": "Speaker of the House of Representatives of Japan",
+  "term_start": "10 November 2021",
+  "monarch": "Naruhito",
+  "predecessor": "Tadamori Ōshima",
+  "deputy": "Banri Kaieda",
+  "office2": "Secretary General of the Liberal Democratic Party of Japan",
+  "term_start2": "22 September 2008",
+  "term_end2": "29 September 2009",
+  "predecessor2": "Tarō Asō",
+  "successor2": "Tadamori Oshima",
+  "office3": "Chief Cabinet Secretary",
+  "primeminister3": "Junichiro Koizumi",
+  "term_start3": "7 May 2004",
+  "term_end3": "31 October 2005",
+  "predecessor3": "Yasuo Fukuda",
+  "successor3": "Shinzō Abe",
+  "office4": "Member of the House of Representatives from Shimane",
+  "constituency4": "1st district",
+  "predecessor4": "Constituency established",
+  "term_start4": "20 October 1996",
+  "term_start5": "18 February 1990",
+  "term_end5": "20 October 1996",
+  "constituency5": "Shimane At-large (Multi-member)",
+  "predecessor5": "Kichizō Hosoda",
+  "successor5": "Constituency abolished",
+  "birth_date": "April 5, 1944",
+  "birth_place": "Matsue, Shimane, Empire of Japan",
+  "party": "Liberal Democratic Party",
+  "alma_mater": "University of Tokyo"
 }

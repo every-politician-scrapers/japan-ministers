@@ -1,150 +1,16 @@
 {
-  "title": "Naoto Ōtani",
-  "pageID": 56449878,
-  "categories": [
-    "Chief Justices of Japan",
-    "Living people",
-    "University of Tokyo alumni",
-    "1952 births",
-    "People from Hokkaido",
-    "Japanese judges"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Naoto Ōtani (大谷 直人) is a Japanese lawyer and is the 19th Chief Justice of the Supreme Court of Japan serving since 2018.",
-              "links": [
-                {
-                  "text": "Japanese",
-                  "type": "internal",
-                  "page": "Japanese people"
-                },
-                {
-                  "text": "Chief Justice",
-                  "type": "internal",
-                  "page": "Chief Justice of Japan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Supreme Court of Japan"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "19th Chief Justice of Japan",
-          "template": "short description"
-        },
-        {
-          "english": "大谷直人",
-          "romaji": "Ōtani Naoto",
-          "template": "nihongo"
-        },
-        {
-          "year": "1952",
-          "month": "6",
-          "day": "23",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Naoto Ōtani",
-          "kanji": "大谷 直人",
-          "romaji": "Ōtani Naoto",
-          "extra": "born June 23, 1952",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Naoto Ōtani"
-          },
-          "native_name": {
-            "text": "大谷 直人"
-          },
-          "image": {
-            "text": "大谷直人2.jpg"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "office1": {
-            "text": "19th Chief Justice of Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Justice of Japan"
-              }
-            ]
-          },
-          "appointer1": {
-            "text": "Emperor Akihito",
-            "links": [
-              {
-                "text": "Emperor Akihito",
-                "type": "internal",
-                "page": "Akihito"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "January 9, 2018"
-          },
-          "predecessor1": {
-            "text": "Itsurō Terada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Itsurō Terada"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "大谷直人"
-          },
-          "birth_date": {
-            "text": "June 23, 1952"
-          },
-          "birth_place": {
-            "text": "Akabira, Hokkaido, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akabira, Hokkaido"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Tokyo, Faculty of Law (1975)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tokyo"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Ōtani in 2019"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Naoto Ōtani",
+  "native_name": "大谷 直人",
+  "image": "大谷直人2.jpg",
+  "native_name_lang": "ja",
+  "office1": "19th Chief Justice of Japan",
+  "appointer1": "Emperor Akihito",
+  "term_start1": "January 9, 2018",
+  "predecessor1": "Itsurō Terada",
+  "birth_name": "大谷直人",
+  "birth_date": "June 23, 1952",
+  "birth_place": "Akabira, Hokkaido, Japan",
+  "alma_mater": "University of Tokyo, Faculty of Law (1975)",
+  "caption": "Ōtani in 2019"
 }

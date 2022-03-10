@@ -1,389 +1,45 @@
 {
-  "title": "Yoshimasa Hayashi",
-  "pageID": 14282338,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Foreign ministers of Japan",
-    "Japanese defense ministers",
-    "Harvard Kennedy School alumni",
-    "Liberal Democratic Party (Japan) politicians",
-    "Members of the House of Councillors (Japan)",
-    "Ministers of Agriculture, Forestry and Fisheries of Japan",
-    "Mitsui & Co.",
-    "People from Shimonoseki",
-    "United States congressional aides",
-    "University of Tokyo alumni",
-    "Education ministers of Japan",
-    "Culture ministers of Japan",
-    "Science ministers of Japan",
-    "Sports ministers of Japan",
-    "Technology ministers of Japan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yoshimasa Hayashi (林 芳正) is a Japanese politician who currently serves as Minister for Foreign Affairs since November 2021.",
-              "links": [
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Minister for Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister for Foreign Affairs (Japan)"
-                }
-              ]
-            },
-            {
-              "text": "A member of the Liberal Democratic Party, he also serves in the House of Representatives for the Yamaguchi 3rd district since 2021.",
-              "links": [
-                {
-                  "text": "Liberal Democratic Party",
-                  "type": "internal",
-                  "page": "Liberal Democratic Party (Japan)"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Japan)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yamaguchi 3rd district"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "date": "February 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1961",
-          "month": "1",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "english": "Yoshimasa Hayashi",
-          "kanji": "林 芳正",
-          "romaji": "Hayashi Yoshimasa",
-          "extra": "born 19 January 1961",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yoshimasa Hayashi"
-          },
-          "native_name": {
-            "text": "林 芳正"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "Yoshimasa Hayashi 20211110.jpg"
-          },
-          "caption": {
-            "text": "Hayashi in 2021"
-          },
-          "office": {
-            "text": "Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Minister for Foreign Affairs (Japan)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Fumio Kishida",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fumio Kishida"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 November 2021"
-          },
-          "predecessor": {
-            "text": "Toshimitsu Motegi Fumio Kishida (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toshimitsu Motegi"
-              },
-              {
-                "type": "internal",
-                "page": "Fumio Kishida"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Education, Culture, Sports, Science and Technology",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Education, Culture, Sports, Science and Technology"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 August 2017"
-          },
-          "term_end1": {
-            "text": "2 October 2018"
-          },
-          "predecessor1": {
-            "text": "Hirokazu Matsuno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hirokazu Matsuno"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Masahiko Shibayama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masahiko Shibayama"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Agriculture, Forestry and Fisheries",
-            "links": [
-              {
-                "text": "Minister of Agriculture, Forestry and Fisheries",
-                "type": "internal",
-                "page": "Minister of Agriculture, Forestry and Fisheries (Japan)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 February 2015"
-          },
-          "term_end2": {
-            "text": "7 October 2015"
-          },
-          "predecessor2": {
-            "text": "Koya Nishikawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Koya Nishikawa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Hiroshi Moriyama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hiroshi Moriyama"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Shinzō Abe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shinzō Abe"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 December 2012"
-          },
-          "term_end3": {
-            "text": "3 September 2014"
-          },
-          "predecessor3": {
-            "text": "Akira Gunji",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akira Gunji"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Koya Nishikawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Koya Nishikawa"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of State for Economic and Fiscal Policy"
-          },
-          "primeminister4": {
-            "text": "Taro Aso",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taro Aso"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2 July 2009"
-          },
-          "term_end4": {
-            "text": "16 September 2009"
-          },
-          "predecessor4": {
-            "text": "Kaoru Yosano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaoru Yosano"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Naoto Kan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naoto Kan"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Defense",
-            "links": [
-              {
-                "text": "Minister of Defense",
-                "type": "internal",
-                "page": "Minister of Defense (Japan)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Yasuo Fukuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yasuo Fukuda"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2 August 2008"
-          },
-          "term_end5": {
-            "text": "24 September 2008"
-          },
-          "predecessor5": {
-            "text": "Shigeru Ishiba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shigeru Ishiba"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Yasukazu Hamada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yasukazu Hamada"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 19, 1961"
-          },
-          "birth_place": {
-            "text": "Shimonoseki, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shimonoseki"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Yoshiro Hayashi",
-            "links": [
-              {
-                "text": "Yoshiro Hayashi",
-                "type": "internal",
-                "page": "Yoshiro Hayashi (politician)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Liberal Democratic Party",
-            "links": [
-              {
-                "text": "Liberal Democratic Party",
-                "type": "internal",
-                "page": "Liberal Democratic Party (Japan)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Tokyo\nJohn F. Kennedy School of Government",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tokyo"
-              },
-              {
-                "type": "internal",
-                "page": "John F. Kennedy School of Government"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yoshimasa Hayashi",
+  "native_name": "林 芳正",
+  "native_name_lang": "ja",
+  "image": "Yoshimasa Hayashi 20211110.jpg",
+  "caption": "Hayashi in 2021",
+  "office": "Minister for Foreign Affairs",
+  "primeminister": "Fumio Kishida",
+  "term_start": "10 November 2021",
+  "predecessor": "Toshimitsu Motegi Fumio Kishida (acting)",
+  "office1": "Minister of Education, Culture, Sports, Science and Technology",
+  "primeminister1": "Shinzō Abe",
+  "term_start1": "3 August 2017",
+  "term_end1": "2 October 2018",
+  "predecessor1": "Hirokazu Matsuno",
+  "successor1": "Masahiko Shibayama",
+  "office2": "Minister of Agriculture, Forestry and Fisheries",
+  "primeminister2": "Shinzō Abe",
+  "term_start2": "23 February 2015",
+  "term_end2": "7 October 2015",
+  "predecessor2": "Koya Nishikawa",
+  "successor2": "Hiroshi Moriyama",
+  "primeminister3": "Shinzō Abe",
+  "term_start3": "26 December 2012",
+  "term_end3": "3 September 2014",
+  "predecessor3": "Akira Gunji",
+  "successor3": "Koya Nishikawa",
+  "office4": "Minister of State for Economic and Fiscal Policy",
+  "primeminister4": "Taro Aso",
+  "term_start4": "2 July 2009",
+  "term_end4": "16 September 2009",
+  "predecessor4": "Kaoru Yosano",
+  "successor4": "Naoto Kan",
+  "office5": "Minister of Defense",
+  "primeminister5": "Yasuo Fukuda",
+  "term_start5": "2 August 2008",
+  "term_end5": "24 September 2008",
+  "predecessor5": "Shigeru Ishiba",
+  "successor5": "Yasukazu Hamada",
+  "birth_date": "January 19, 1961",
+  "birth_place": "Shimonoseki, Japan",
+  "parents": "Yoshiro Hayashi",
+  "party": "Liberal Democratic Party",
+  "alma_mater": "University of Tokyo\nJohn F. Kennedy School of Government"
 }

@@ -1,128 +1,14 @@
 {
-  "title": "Motohiko Saitō",
-  "pageID": 68412677,
-  "categories": [
-    "University of Tokyo alumni",
-    "Politicians from Hyōgo Prefecture",
-    "1977 births",
-    "Living people",
-    "Governors of Hyōgo Prefecture"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Motohiko Saitō (斎藤 元彦) is a Japanese politician and the 53rd governor of Hyōgo Prefecture in Japan.",
-              "links": [
-                {
-                  "text": "governor",
-                  "type": "internal",
-                  "page": "governor of Japan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hyōgo Prefecture"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Japanese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1977",
-          "month": "11",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Tokyo"
-          ],
-          "template": "unbulleted list"
-        },
-        {
-          "english": "Motohiko Saitō",
-          "kanji": "斎藤 元彦",
-          "romaji": "Saitō Motohiko",
-          "extra": "born 15 November 1977",
-          "template": "nihongo"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Motohiko Saitō"
-          },
-          "native_name": {
-            "text": "斎藤 元彦"
-          },
-          "native_name_lang": {
-            "text": "ja"
-          },
-          "image": {
-            "text": "斎藤元彦.jpg"
-          },
-          "image_size": {
-            "text": "220px"
-          },
-          "order": {
-            "text": "Governor of Hyōgo Prefecture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hyōgo Prefecture"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 August 2021"
-          },
-          "predecessor": {
-            "text": "Toshizō Ido",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toshizō Ido"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 15, 1977"
-          },
-          "birth_place": {
-            "text": "Kobe, Hyōgo, Japan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kobe, Hyōgo"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Tokyo"
-          },
-          "website": {
-            "text": "Saitō Motohiko",
-            "links": [
-              {
-                "text": "Saitō Motohiko",
-                "type": "external",
-                "site": "https://saito-motohiko.jp/"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Motohiko Saitō",
+  "native_name": "斎藤 元彦",
+  "native_name_lang": "ja",
+  "image": "斎藤元彦.jpg",
+  "image_size": "220px",
+  "order": "Governor of Hyōgo Prefecture",
+  "term_start": "1 August 2021",
+  "predecessor": "Toshizō Ido",
+  "birth_date": "November 15, 1977",
+  "birth_place": "Kobe, Hyōgo, Japan",
+  "alma_mater": "University of Tokyo",
+  "website": "Saitō Motohiko"
 }
