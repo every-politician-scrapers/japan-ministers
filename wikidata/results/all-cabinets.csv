@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q10295967,Q10295967,,,,,,,,,,,,,Q11270490,Q11270490,Q11270444,Q11270444
-,Q1045014,Q1045014,,,,,1888-01-01,9,,,,,Q5366061,Q5366061,,,Q5366061,Q5366061
+,Q1045014,First Itō Cabinet,,,,,1888-01-01,9,,,,,Q5366061,Kuroda Cabinet,,,Q5366061,Kuroda Cabinet
 ,Q10855343,Q10855343,,,,,,,,,,,,,Q1720424,Q1720424,Q11649283,Kantaro Suzuki cabinet
 ,Q11233979,Q11233979,,,,,,,,,,,,,Q11270444,Q11270444,Q1719944,Q1719944
 ,Q11270404,Second Katsura Cabinet,,,,,,,,,,,,,Q11600466,First Saionji Cabinet,Q1720275,Second Saionji Cabinet
@@ -19,9 +19,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11600464,Q11600464,,,,,,,,,,,,,Q11399608,Q11399608,Q11575856,Q11575856
 ,Q11600466,First Saionji Cabinet,,,,,,,,,,,,,Q11600463,First Katsura Cabinet,Q11270404,Second Katsura Cabinet
 ,Q11600468,Q11600468,,,,,,,,,,,,,Q11532865,Q11532865,Q11483190,Q11483190
-,Q11600801,Q11600801,,,,,1896-01-01,9,,,Q8010527,Q8010527,Q11600808,Q11600808,Q8010527,Q8010527,Q11600808,Q11600808
+,Q11600801,Second Itō Cabinet,,,,,1896-01-01,9,,,Q8010527,First Matsukata Cabinet,Q11600808,Q11600808,Q8010527,First Matsukata Cabinet,Q11600808,Q11600808
 ,Q11600806,Q11600806,,,,,,,,,,,,,Q11600459,Q11600459,Q11601307,Q11601307
-,Q11600808,Q11600808,,,,,,,,,Q11600801,Q11600801,,,Q11600801,Q11600801,Q11601105,Q11601105
+,Q11600808,Q11600808,,,,,,,,,Q11600801,Second Itō Cabinet,,,Q11600801,Second Itō Cabinet,Q11601105,Q11601105
 ,Q11600810,Q11600810,,,,,,,,,,,,,Q11604014,Q11604014,Q11601112,Q11601112
 ,Q11601105,Q11601105,,,,,,,,,,,,,Q11600808,Q11600808,Q11600459,Q11600459
 ,Q11601112,Q11601112,,,,,,,,,,,,,Q11600810,Q11600810,Q1720424,Q1720424
@@ -37,10 +37,10 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1720275,Second Saionji Cabinet,,,,,,,,,,,,,Q11270404,Second Katsura Cabinet,Q11270490,Q11270490
 ,Q1720277,Q1720277,,,,,,,,,,,,,Q1618380,Q1618380,Q7081714,Okada Cabinet
 ,Q1720424,Q1720424,,,,,,,,,,,,,Q11601112,Q11601112,Q10855343,Q10855343
-,Q8010527,Q8010527,,,,,1892-01-01,9,,,Q583746,First Yamagata Cabinet,Q11600801,Q11600801,Q583746,First Yamagata Cabinet,Q11600801,Q11600801
-,Q5366061,Q5366061,1888-04-30,11,,,1889-12-25,11,,,Q1045014,Q1045014,Q583746,First Yamagata Cabinet,Q1045014,Q1045014,Q22960725,Q22960725
-,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,,,,,Q5366061,Q5366061,Q583746,First Yamagata Cabinet
-,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q5366061,Q5366061,Q8010527,Q8010527,Q5366061,Q5366061,Q8010527,Q8010527
+,Q8010527,First Matsukata Cabinet,,,,,1892-01-01,9,,,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet
+,Q5366061,Kuroda Cabinet,1888-04-30,11,,,1889-12-25,11,,,Q1045014,First Itō Cabinet,Q583746,First Yamagata Cabinet,Q1045014,First Itō Cabinet,Q22960725,Q22960725
+,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,,,,,Q5366061,Kuroda Cabinet,Q583746,First Yamagata Cabinet
+,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet
 ,Q7081714,Okada Cabinet,1934-01-01,9,1934-01-01,9,1936-01-01,9,,,,,,,Q1720277,Q1720277,Q11486424,Hirota's Gabinet
 ,Q11486424,Hirota's Gabinet,1936-03-09,11,,,1937-02-02,11,,,,,,,Q7081714,Okada Cabinet,Q11532865,Q11532865
 ,Q428100,Shidehara Cabinet,1945-10-09,11,,,1946-05-22,11,,,Q1252961,Q1252961,Q382498,First Yoshida Cabinet,Q1252961,Q1252961,Q382498,First Yoshida Cabinet
@@ -143,10 +143,10 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1720180,Noda Cabinet (First Reshuffle),2012-01-13,11,,,2012-06-04,11,,,Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1136515,Noda Cabinet,Q900509,Noda Cabinet (Second Reshuffle)
 ,Q900509,Noda Cabinet (Second Reshuffle),2012-06-04,11,,,2012-10-01,11,,,Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q1720180,Noda Cabinet (First Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle)
 ,Q1720182,Noda Cabinet (Third Reshuffle),2012-10-01,11,,,2012-12-26,11,,,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet,Q900509,Noda Cabinet (Second Reshuffle),Q1756955,Second S. Abe Cabinet
+,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
 ,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
 ,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q1136515,Noda Cabinet,Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
 ,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-09-03,11,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
-,Q1756955,Second S. Abe Cabinet,2012-12-26,11,,,2014-12-24,11,,,Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q1720182,Noda Cabinet (Third Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle)
 ,Q17855689,Second S. Abe Cabinet (Reshuffle),2014-09-03,11,,,2014-12-24,11,,,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet,Q1756955,Second S. Abe Cabinet,Q18657782,Third S. Abe Cabinet
 ,Q18657782,Third S. Abe Cabinet,2014-12-24,11,,,2015-10-07,11,,,Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle),Q17855689,Second S. Abe Cabinet (Reshuffle),Q21074124,Third S. Abe Cabinet (First Reshuffle)
 ,Q21074124,Third S. Abe Cabinet (First Reshuffle),2015-10-07,11,,,2016-08-03,11,,,Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle),Q18657782,Third S. Abe Cabinet,Q26215018,Third S. Abe Cabinet (Second Reshuffle)
