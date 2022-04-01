@@ -1,6 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q10295967,First Yamamoto Cabinet,,,,,,,,,,,,,Q11270490,Third Katsura Cabinet,Q11270444,Second Ōkuma Cabinet
-,Q1045014,First Itō Cabinet,,,,,1888-01-01,9,,,,,Q5366061,Kuroda Cabinet,,,Q5366061,Kuroda Cabinet
 ,Q10855343,Q10855343,,,,,,,,,,,,,Q1720424,Q1720424,Q11649283,Kantaro Suzuki cabinet
 ,Q11233979,Terauchi Cabinet,,,,,,,,,,,,,Q11270444,Second Ōkuma Cabinet,Q1719944,Hara Cabinet
 ,Q11270404,Second Katsura Cabinet,,,,,,,,,,,,,Q11600466,First Saionji Cabinet,Q1720275,Second Saionji Cabinet
@@ -38,6 +37,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1720277,Saitō Cabinet,,,,,,,,,,,,,Q1618380,Inukai Cabinet,Q7081714,Okada Cabinet
 ,Q1720424,Q1720424,,,,,,,,,,,,,Q11601112,Q11601112,Q10855343,Q10855343
 ,Q8010527,First Matsukata Cabinet,,,,,1892-01-01,9,,,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet
+,Q1045014,First Itō Cabinet,1885-12-22,11,,,1888-01-01,9,,,,,Q5366061,Kuroda Cabinet,,,Q5366061,Kuroda Cabinet
 ,Q5366061,Kuroda Cabinet,1888-04-30,11,,,1889-12-25,11,,,Q1045014,First Itō Cabinet,Q583746,First Yamagata Cabinet,Q1045014,First Itō Cabinet,Q22960725,Q22960725
 ,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,,,,,Q5366061,Kuroda Cabinet,Q583746,First Yamagata Cabinet
 ,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet
