@@ -35,6 +35,10 @@ class OfficeholderList < OfficeholderListBase
     def endDate
       nil
     end
+
+    def empty?
+      false
+    end
   end
 end
 
