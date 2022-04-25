@@ -1,7 +1,5 @@
 {
   "name": "Naruhito 徳仁",
-  "image": "Emperor Naruhito at TICAD7 (cropped).jpg",
-  "caption": "Naruhito in August 2019",
   "succession": "Emperor of Japan",
   "reign": "1 May 2019 – present",
   "coronation": "22 October 2019",
@@ -26,7 +24,6 @@
 }
 {
   "name": "Naruhito",
-  "image": "File:Imperial Seal of Japan.svg",
   "image_size": "80",
   "reference": "His Majesty",
   "spoken": "Your Majesty"
