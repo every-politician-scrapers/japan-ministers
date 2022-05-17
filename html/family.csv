@@ -139,6 +139,7 @@ Q2506910,Tatsuo Fukuda,father,Q101137,Yasuo Fukuda
 Q2506910,Tatsuo Fukuda,mother,Q73281,Kiyoko Fukuda
 Q250828,Yasuhiro Nakasone,child,Q937682,Hirofumi Nakasone
 Q250828,Yasuhiro Nakasone,father,Q11365117,Matsugorō Nakasone
+Q250828,Yasuhiro Nakasone,spouse,Q108110742,Tsutako Nakasone
 Q259722,Yuichiro Hata,father,Q315720,Tsutomu Hata
 Q261703,Yuriko Koike,father,Q47012448,Yujiro Koike
 Q261703,Yuriko Koike,mother,Q47012450,Emiko Koike
@@ -317,6 +318,7 @@ Q9034256,Taichi Sakaiya,spouse,Q27151151,Chikako Ikeguchi
 Q926370,Motoo Hayashi,father,Q11532915,Taikan Hayashi
 Q937682,Hirofumi Nakasone,child,Q41770661,Yasutaka Nakasone
 Q937682,Hirofumi Nakasone,father,Q250828,Yasuhiro Nakasone
+Q937682,Hirofumi Nakasone,mother,Q108110742,Tsutako Nakasone
 Q967214,Takeo Nishioka,child,Q41771028,Hideko Nishioka
 Q992930,Nobuteru Ishihara,father,Q38849,Shintarō Ishihara
 Q992930,Nobuteru Ishihara,mother,Q11585241,Noriko Ishihara
