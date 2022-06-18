@@ -2,22 +2,16 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11399608,Katō Takaaki Cabinet,,,,,,,,,,,,,Q11561287,Kiyoura Cabinet,Q11600464,First Wakatsuki Cabinet
 ,Q11483190,Q11483190,,,,,,,,,,,,,Q11600468,Q11600468,Q11657764,Q11657764
 ,Q11532865,Q11532865,,,,,,,,,,,,,Q11486424,Hirota's Gabinet,Q11600468,Q11600468
-,Q11561287,Kiyoura Cabinet,,,,,,,,,,,,,Q11270441,Second Yamamoto Cabinet,Q11399608,Katō Takaaki Cabinet
 ,Q11566150,Hamaguchi Cabinet,,,,,,,,,,,,,Q11575856,Tanaka Giichi Cabinet,Q1674008,Second Wakatsuki Cabinet
 ,Q11575856,Tanaka Giichi Cabinet,,,,,,,,,,,,,Q11600464,First Wakatsuki Cabinet,Q11566150,Hamaguchi Cabinet
-,Q11600459,First Ōkuma Cabinet,,,,,,,,,,,,,Q11601105,Third Itō Cabinet,Q11600806,Second Yamagata Cabinet
 ,Q11600463,First Katsura Cabinet,,,,,,,,,,,,,Q11601307,Fourth Itō Cabinet,Q11600466,First Saionji Cabinet
 ,Q11600464,First Wakatsuki Cabinet,,,,,,,,,,,,,Q11399608,Katō Takaaki Cabinet,Q11575856,Tanaka Giichi Cabinet
 ,Q11600466,First Saionji Cabinet,,,,,,,,,,,,,Q11600463,First Katsura Cabinet,Q11270404,Second Katsura Cabinet
 ,Q11600468,Q11600468,,,,,,,,,,,,,Q11532865,Q11532865,Q11483190,Q11483190
 ,Q11600801,Second Itō Cabinet,,,,,1896-01-01,9,,,Q8010527,First Matsukata Cabinet,Q11600808,Second Matsukata Cabinet,Q8010527,First Matsukata Cabinet,Q11600808,Second Matsukata Cabinet
-,Q11600806,Second Yamagata Cabinet,,,,,,,,,,,,,Q11600459,First Ōkuma Cabinet,Q11601307,Fourth Itō Cabinet
 ,Q11600808,Second Matsukata Cabinet,,,,,,,,,Q11600801,Second Itō Cabinet,,,Q11600801,Second Itō Cabinet,Q11601105,Third Itō Cabinet
 ,Q11600810,Q11600810,,,,,,,,,,,,,Q11604014,Q11604014,Q11601112,Q11601112
-,Q11601112,Q11601112,,,,,,,,,,,,,Q11600810,Q11600810,Q1720424,Q1720424
-,Q11601307,Fourth Itō Cabinet,,,,,,,,,,,,,Q11600806,Second Yamagata Cabinet,Q11600463,First Katsura Cabinet
 ,Q11604014,Q11604014,,,,,,,,,,,,,Q11657764,Q11657764,Q11600810,Q11600810
-,Q11649283,Kantaro Suzuki cabinet,,,,,,,,,,,,,Q10855343,Q10855343,Q1252961,Q1252961
 ,Q11657764,Q11657764,,,,,,,,,,,,,Q11483190,Q11483190,Q11604014,Q11604014
 ,Q1618380,Inukai Cabinet,,,,,,,,,,,,,Q1674008,Second Wakatsuki Cabinet,Q1720277,Saitō Cabinet
 ,Q1674008,Second Wakatsuki Cabinet,,,,,,,,,,,,,Q11566150,Hamaguchi Cabinet,Q1618380,Inukai Cabinet
@@ -28,6 +22,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q22960725,Q22960725,1889-10-25,11,,,1889-12-24,11,,,,,,,Q5366061,Kuroda Cabinet,Q583746,First Yamagata Cabinet
 ,Q583746,First Yamagata Cabinet,1889-12-24,11,,,1891-05-06,11,,,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet,Q5366061,Kuroda Cabinet,Q8010527,First Matsukata Cabinet
 ,Q11601105,Third Itō Cabinet,1898-01-12,11,,,1898-06-30,11,,,,,,,Q11600808,Second Matsukata Cabinet,Q11600459,First Ōkuma Cabinet
+,Q11600459,First Ōkuma Cabinet,1898-06-30,11,,,1898-11-08,11,,,,,,,Q11601105,Third Itō Cabinet,Q11600806,Second Yamagata Cabinet
+,Q11600806,Second Yamagata Cabinet,1898-11-08,11,,,1900-10-19,11,,,,,,,Q11600459,First Ōkuma Cabinet,Q11601307,Fourth Itō Cabinet
+,Q11601307,Fourth Itō Cabinet,1900-10-19,11,,,1901-06-02,11,,,,,,,Q11600806,Second Yamagata Cabinet,Q11600463,First Katsura Cabinet
 ,Q11270404,Second Katsura Cabinet,1908-07-14,11,,,1911-08-30,11,,,,,,,Q11600466,First Saionji Cabinet,Q1720275,Second Saionji Cabinet
 ,Q1720275,Second Saionji Cabinet,1911-08-30,11,,,1912-12-21,11,,,,,,,Q11270404,Second Katsura Cabinet,Q11270490,Third Katsura Cabinet
 ,Q11270490,Third Katsura Cabinet,1912-12-21,11,,,1913-02-20,11,,,,,,,Q1720275,Second Saionji Cabinet,Q10295967,First Yamamoto Cabinet
@@ -38,10 +35,13 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11671046,Takahashi Cabinet,1921-11-13,11,,,1922-06-12,11,,,,,,,Q1719944,Hara Cabinet,Q11399065,Katō Tomosaburō Cabinet
 ,Q11399065,Katō Tomosaburō Cabinet,1922-06-12,11,,,1923-09-02,11,,,,,,,Q11671046,Takahashi Cabinet,Q11270441,Second Yamamoto Cabinet
 ,Q11270441,Second Yamamoto Cabinet,1923-09-02,11,,,1924-01-07,11,,,,,,,Q11399065,Katō Tomosaburō Cabinet,Q11561287,Kiyoura Cabinet
+,Q11561287,Kiyoura Cabinet,1924-01-07,11,,,1924-06-11,11,,,,,,,Q11270441,Second Yamamoto Cabinet,Q11399608,Katō Takaaki Cabinet
 ,Q7081714,Okada Cabinet,1934-01-01,9,1934-01-01,9,1936-01-01,9,,,,,,,Q1720277,Saitō Cabinet,Q11486424,Hirota's Gabinet
 ,Q11486424,Hirota's Gabinet,1936-03-09,11,,,1937-02-02,11,,,,,,,Q7081714,Okada Cabinet,Q11532865,Q11532865
+,Q11601112,Q11601112,1941-07-18,11,,,1941-10-18,11,,,,,,,Q11600810,Q11600810,Q1720424,Q1720424
 ,Q1720424,Q1720424,1941-10-18,11,,,1944-07-22,11,,,,,,,Q11601112,Q11601112,Q10855343,Q10855343
 ,Q10855343,Q10855343,1944-07-22,11,,,1945-04-07,11,,,,,,,Q1720424,Q1720424,Q11649283,Kantaro Suzuki cabinet
+,Q11649283,Kantaro Suzuki cabinet,1945-04-07,11,,,1945-08-17,11,,,,,,,Q10855343,Q10855343,Q1252961,Q1252961
 ,Q1252961,Q1252961,1945-08-17,11,,,1945-10-09,11,,,,,Q428100,Shidehara Cabinet,Q11649283,Kantaro Suzuki cabinet,Q428100,Shidehara Cabinet
 ,Q428100,Shidehara Cabinet,1945-10-09,11,,,1946-05-22,11,,,Q1252961,Q1252961,Q382498,First Yoshida Cabinet,Q1252961,Q1252961,Q382498,First Yoshida Cabinet
 ,Q382498,First Yoshida Cabinet,1946-05-22,11,,,1947-01-31,11,,,Q428100,Shidehara Cabinet,Q16511268,Q16511268,Q428100,Shidehara Cabinet,Q1720042,Katayama Cabinet
