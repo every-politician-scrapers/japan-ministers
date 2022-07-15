@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Japan",
+      "id": "Q17"
+    },
+    "cabinet": {
+      "id": "Q109342903",
+      "start": "2021-11-10",
+      "parent": "Q529012"
+    },
+    "source": {
+        "url":   "https://japan.kantei.go.jp/101_kishida/meibo/daijin/index_e.html",
+        "title": "List of Ministers (The Cabinet) | Prime Minister of Japan and His Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/japan-ministers"
+}
