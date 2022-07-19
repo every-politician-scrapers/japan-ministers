@@ -1,0 +1,164 @@
+{
+  "title": "Yoshinori Yamaguchi",
+  "pageID": 46771684,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "People from Saga Prefecture",
+    "People from Iruma, Saitama",
+    "Politicians from Saitama Prefecture",
+    "University of Tokyo alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yoshinori Yamaguchi (山口 祥義) is a Japanese politician and the current governor of Saga Prefecture located in Kyushu region of Japan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saga Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kyushu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On August 12, 2019."
+            },
+            {
+              "text": "the special Natsu no Saga, a documentary on the Zombie Land Saga anime (which takes place in the prefecture), featured Yamaguchi cosplaying as major character Kotaro Tatsumi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zombie Land Saga"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Natsu no Saga",
+                  "Zombie Land Saga"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1965",
+          "month": "7",
+          "day": "1",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Yoshinori Yamaguchi",
+          "kanji": "山口 祥義",
+          "romaji": "Yamaguchi Yoshinori",
+          "extra": "born 1 July 1965",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yoshinori Yamaguchi"
+          },
+          "native_name": {
+            "text": "山口 祥義"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "office": {
+            "text": "Governor of Saga Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saga Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 January 2015"
+          },
+          "predecessor": {
+            "text": "Yasushi Furukawa",
+            "links": [
+              {
+                "text": "Yasushi Furukawa",
+                "type": "internal",
+                "page": "Yasushi Furukawa (governor)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 1, 1965"
+          },
+          "birth_place": {
+            "text": "Iruma, Saitama, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iruma, Saitama"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "alma_mater": {
+            "text": "University of Tokyo\nGraduate School for Law and Politics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.crunchyroll.com/anime-news/2019/08/15/saga-governor-loves-zomibe-land-saga-anime-cosplays-as-kotaro-tatsumi",
+          "title": "Saga Governor Loves ZOMBIE LAND SAGA Anime, Cosplays as Kotaro Tatsumi",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

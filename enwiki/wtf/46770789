@@ -1,0 +1,319 @@
+{
+  "title": "Tokihiro Nakamura",
+  "pageID": 46770789,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Keio University alumni",
+    "Governors of Ehime Prefecture",
+    "Politicians from Ehime Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tokihiro Nakamura (中村 時広) is a Japanese politician and the current governor of Ehime Prefecture, located in the Shikoku region of Japan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ehime Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shikoku"
+                }
+              ]
+            },
+            {
+              "text": "He succeeded Moriyuki Kato in the 2010 Ehime gubernatorial election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moriyuki Kato"
+                }
+              ]
+            },
+            {
+              "text": "Nakamura has previously served as the mayor of Matsuyama, the largest city in Ehime and Shikoku, from 1999 to 2010.",
+              "links": [
+                {
+                  "text": "Matsuyama",
+                  "type": "internal",
+                  "page": "Matsuyama, Ehime"
+                }
+              ]
+            },
+            {
+              "text": "He has also represented Ehime in the national House of Representatives from 1993 to 1996 and before that in the Ehime Prefectural Assembly from 1987 to 1990.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Japan)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After graduating from Keio University with a degree in law in 1982, he briefly entered Mitsubishi Corporation before commencing his political career, following in the footsteps of his father Tokio Nakamura, who also served in the House of Representatives from 1953 until 1960 and from 1963 until 1969 and then as mayor of Matsuyama from 1975 until 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Keio University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mitsubishi Corporation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1960",
+          "month": "1",
+          "day": "25",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Tokihiro Nakamura",
+          "kanji": "中村 時広",
+          "romaji": "Nakamura Tokihiro",
+          "extra": "born 25 January 1960",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tokihiro Nakamura"
+          },
+          "native_name": {
+            "text": "中村 時広"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "image": {
+            "text": "Tokihiro Nakamura 2013-02-01.JPG"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "office": {
+            "text": "Governor of Ehime Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ehime Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 December 2010"
+          },
+          "predecessor": {
+            "text": "Moriyuki Kato",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moriyuki Kato"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Matsuyama",
+            "links": [
+              {
+                "text": "Matsuyama",
+                "type": "internal",
+                "page": "Matsuyama, Ehime"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 May 1999"
+          },
+          "term_end2": {
+            "text": "21 October 2010"
+          },
+          "predecessor2": {
+            "text": "Seiichi Tanaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seiichi Tanaka"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Katsuhito Noshi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katsuhito Noshi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Japan)"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Ehime No.1 district (pre-1996 district)"
+          },
+          "term_start3": {
+            "text": "18 July 1993"
+          },
+          "term_end3": {
+            "text": "27 September 1996"
+          },
+          "predecessor3": {
+            "text": "Mayumi Utsunomiya"
+          },
+          "successor3": {
+            "text": "district abolished"
+          },
+          "office4": {
+            "text": "Ehime Prefectural Assembly"
+          },
+          "term_start4": {
+            "text": "1987",
+            "number": 1987
+          },
+          "term_end4": {
+            "text": "1990",
+            "number": 1990
+          },
+          "birth_date": {
+            "text": "January 25, 1960"
+          },
+          "birth_place": {
+            "text": "Matsuyama, Ehime, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matsuyama, Ehime"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Keio University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keio University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Championships and accomplishments",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "DDT Pro-Wrestling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "DDT Pro-Wrestling"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "DDT Pro-Wrestling"
+              ]
+            }
+          },
+          {
+            "text": "Ironman Heavymetalweight Championship (1 time)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ironman Heavymetalweight Championship"
+              },
+              {
+                "text": "1 time",
+                "type": "internal",
+                "page": "Ironman Heavymetalweight Championship",
+                "anchor": "Title history"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Tokihiro Nakamura"
+          ],
+          "template": "commons category"
+        },
+        {
+          "state": "collapsed",
+          "template": "japangovernors"
+        },
+        {
+          "template": "ironman heavymetalweight championship"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

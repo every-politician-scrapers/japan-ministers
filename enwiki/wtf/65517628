@@ -1,0 +1,188 @@
+{
+  "title": "Tatsuya Maruyama",
+  "pageID": 65517628,
+  "categories": [
+    "Japanese politicians",
+    "People from Fukuoka Prefecture",
+    "1970 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tatsuya Maruyama (丸山 達也) is a Japanese politician and current governor of Shimane Prefecture.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shimane Prefecture"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1970",
+          "month": "3",
+          "day": "25",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Tatsuya Maruyama",
+          "kanji": "丸山 達也",
+          "romaji": "Maruyama Tatsuya",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tatsuya Maruyama"
+          },
+          "native_name": {
+            "text": "丸山 達也"
+          },
+          "office": {
+            "text": "Governor of Shimane Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shimane Prefecture"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Zenbee Mizoguchi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zenbee Mizoguchi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 25, 1970"
+          },
+          "birth_place": {
+            "text": "Hirokawa, Fukuoka, Japan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hirokawa, Fukuoka"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "April 30, 2019"
+          },
+          "nationality": {
+            "text": "Japanese",
+            "links": [
+              {
+                "text": "Japanese",
+                "type": "internal",
+                "page": "Japanese people"
+              }
+            ]
+          },
+          "website": {
+            "text": "島根県: ようこそ知事室へ"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He ran for office as an independent during the Shimane gubernatorial election in 2019, winning 43.58% of the vote."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2020, he criticized South Korea over territorial disputes in the Liancourt Rocks, which Japan claims is as a part of Shimane Prefecture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liancourt Rocks"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "Maruyama said the ROK government is “strengthening movements to make the occupation of Takeshima (Liancourt Rocks) an established fact”."
+            },
+            {
+              "text": "He also called on the central Japanese government to give an effective response regarding the Liancourt Rocks dispute.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japanese government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Our Campaigns - Candidate - Tatsuya Maruyama",
+          "url": "https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=476695",
+          "access-date": "2020-10-07",
+          "website": "www.ourcampaigns.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "NEWS",
+          "first": "KYODO",
+          "title": "Japan presses claim to S. Korea-held islets at annual event",
+          "url": "https://english.kyodonews.net/news/2020/02/c10d4684caa1-update1-japan-presses-claim-to-s-korea-held-islets-at-annual-event.html",
+          "access-date": "2020-10-07",
+          "website": "Kyodo News+",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

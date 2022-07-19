@@ -1,0 +1,139 @@
+{
+  "title": "Seiji Hamada",
+  "pageID": 65708323,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Politicians from Kōchi Prefecture",
+    "University of Tokyo alumni",
+    "Governors of Kochi Prefecture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Seiji Hamada (浜田省司) is a Japanese politician."
+            },
+            {
+              "text": "He currently serves as governor of Kōchi Prefecture since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kōchi Prefecture"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1963",
+          "month": "1",
+          "day": "23",
+          "template": "birth date and age"
+        },
+        {
+          "english": "Seiji Hamada",
+          "kanji": "浜田省司",
+          "romaji": "Hamada Seiji",
+          "extra": "born 23 January 1963",
+          "template": "nihongo"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Seiji Hamada"
+          },
+          "native_name": {
+            "text": "浜田省司"
+          },
+          "native_name_lang": {
+            "text": "ja"
+          },
+          "office": {
+            "text": "Governor of Kōchi Prefecture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kōchi Prefecture"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 December 2019"
+          },
+          "predecessor": {
+            "text": "Masanao Ozaki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masanao Ozaki"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 23, 1963"
+          },
+          "birth_place": {
+            "text": "Nakamura, Kōchi, Japan",
+            "links": [
+              {
+                "text": "Nakamura, Kōchi",
+                "type": "internal",
+                "page": "Shimanto, Kōchi (city)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "保田井建",
+          "url": "https://www.nikkei.com/article/DGXMZO48826430R20C19A8LA0000/",
+          "title": "尾崎・高知知事が4選不出馬 次期衆院選に立候補意欲",
+          "date": "2019-08-22",
+          "newspaper": "日経電子版",
+          "agency": "日本経済新聞社",
+          "access-date": "2019-09-26",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "japangovernors"
+        },
+        {
+          "template": "japan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

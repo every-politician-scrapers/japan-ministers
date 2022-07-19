@@ -1,0 +1,174 @@
+{
+  "title": "Satoshi Ninoyu",
+  "pageID": 14281084,
+  "categories": [
+    "1944 births",
+    "Living people",
+    "Keio University alumni",
+    "Members of the House of Councillors (Japan)",
+    "Liberal Democratic Party (Japan) politicians",
+    "Government ministers of Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Satoshi Ninoyu (二之湯 智) is a Japanese politician of the Liberal Democratic Party, a member of the House of Councillors in the Diet (national legislature).",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Councillors"
+                },
+                {
+                  "text": "Diet",
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                }
+              ]
+            },
+            {
+              "text": "As National Public Safety Commission chairperson, Ninoyu ordered police authorities to set up an investigation panel to look into the security issues following former-premier Shinzo Abe's assassination.",
+              "links": [
+                {
+                  "text": "National Public Safety Commission",
+                  "type": "internal",
+                  "page": "National Public Safety Commission (Japan)"
+                },
+                {
+                  "text": "Shinzo Abe's assassination",
+                  "type": "internal",
+                  "page": "Assassination of Shinzo Abe"
+                }
+              ]
+            },
+            {
+              "text": "A native of Kyoto, Kyoto and graduate of Keio University, he was elected for the first time in 2004 after serving in the assembly of Kyoto Prefecture for five terms since 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyoto, Kyoto"
+                },
+                {
+                  "type": "internal",
+                  "page": "Keio University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kyoto Prefecture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ninoyu has served as State Minister of Internal Affairs and Communications, House of Councillors chair of Committee on Education, Culture and Science, LDP Director-General of Personnel Bureau, and Acting Chair of Party Organization and Campaign Headquarters."
+            },
+            {
+              "text": "He is also Deputy Secretary-General of Japan-Myanmar Parliamentary Friendship Association, member of Japan-Laos Parliamentary Friendship Association, and Permanent Secretary of Japan-Philippines Parliamentary Friendship Association."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "english": "Satoshi Ninoyu",
+          "kanji": "二之湯 智",
+          "romaji": "Ninoyu Satoshi",
+          "extra": "born September 13, 1944",
+          "template": "nihongo"
+        }
+      ],
+      "references": [
+        {
+          "title": "National Public Safety Commission chair inspects site of Abe shooting {{!}} NHK WORLD-JAPAN News",
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/20220717_10/",
+          "access-date": "2022-07-17",
+          "website": "NHK WORLD",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "NINOYU Satoshi {{!}} Liberal Democratic Party of Japan",
+          "url": "https://www.jimin.jp/english/profile/members/114729.html",
+          "access-date": "2022-07-17",
+          "website": "www.jimin.jp",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0008/00008729.html",
+          "script-title": "ja:政治家情報 〜二之湯 智〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-11-17",
+          "language": "Japanese",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20071208145741/http://www.senkyo.janjan.jp/diet/profile/0008/00008729.html",
+          "archivedate": "2007-12-08",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "japan-politician-1940s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website in Japanese.",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.ninoyusatoshi.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

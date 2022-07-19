@@ -1,0 +1,203 @@
+{
+  "title": "Hiroyuki Kanno (jurist)",
+  "pageID": 67827203,
+  "categories": [
+    "Living people",
+    "1952 births",
+    "Supreme Court of Japan justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hiroyuki Kanno (born July 3, 1952), is a Japanese jurist who has served as an associate Justice of the Supreme Court of Japan since 2016.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Japan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hiroyuki Kanno"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese judge",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "KANNO Hiroyuki {{!}} 裁判所 - Courts in Japan",
+          "url": "https://www.courts.go.jp/english/about/justice/Kanno/index.html",
+          "access-date": "2021-06-02",
+          "website": "www.courts.go.jp",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education and Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kanno was born on July 3, 1952 in Japan."
+            },
+            {
+              "text": "He attended Tohoku University and graduated with a degree in law in 1978.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tohoku University"
+                },
+                {
+                  "text": "law",
+                  "type": "internal",
+                  "page": "law"
+                }
+              ]
+            },
+            {
+              "text": "That year, he was appointed as a legal apprentice."
+            },
+            {
+              "text": "In 1980, Kanno joined the Family Court of the Tokyo District Court as a judge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tokyo District Court"
+                }
+              ]
+            },
+            {
+              "text": "Starting in 1990, Kanno served as a justice in many different Japanese courts."
+            },
+            {
+              "text": "These include:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "1990-1991: Judge, Tokyo District Court."
+          },
+          {
+            "text": "1991-1995: Judge, Sapporo Family Court."
+          },
+          {
+            "text": "1995-2000: Research official for the Supreme Court of Japan.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme Court of Japan"
+              }
+            ]
+          },
+          {
+            "text": "2000-2002: Judge, Tokyo High Court"
+          },
+          {
+            "text": "2002-2012: Presiding Judge, Tokyo District Court"
+          },
+          {
+            "text": "2012-2014: Chief Judge, Mito District Court"
+          },
+          {
+            "text": "2014-2015: Presiding Judge, Tokyo High Court"
+          },
+          {
+            "text": "2015-2016: Presiding Judge, Osaka High Court"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Supreme Court",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On September 5, 2016, Kanno was appointed to the Supreme Court of Japan."
+            },
+            {
+              "text": "In Japan, justices are formally nominated by the Emperor (at that time, Akihito) but in reality the Cabinet chooses the nominees and the Emperor's role is a formality.",
+              "links": [
+                {
+                  "text": "Emperor",
+                  "type": "internal",
+                  "page": "Emperor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Akihito"
+                },
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Japan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kanno's term is scheduled to end on July 2, 2022 (one day before he turns 70)."
+            },
+            {
+              "text": "This is because all members of the court have a mandatory retirement age of 70."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Supreme Court of Japan {{!}} Japanese government",
+          "url": "https://www.britannica.com/topic/Supreme-Court-of-Japan",
+          "access-date": "2021-06-02",
+          "website": "Encyclopedia Britannica",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "japan-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

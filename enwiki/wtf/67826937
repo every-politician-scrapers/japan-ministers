@@ -1,0 +1,203 @@
+{
+  "title": "Atsushi Yamaguchi (judge)",
+  "pageID": 67826937,
+  "categories": [
+    "Supreme Court of Japan justices",
+    "1953 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Atsushi Yamaguchi (born November 6, 1953) is a Japanese lawyer and academic who has served as an associate Justice of the Supreme Court of Japan since 2017.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Japan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Atsushi Yamaguchi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Atsushi Yamaguchi (disambiguation)"
+          ],
+          "template": "other uses"
+        },
+        {
+          "description": "Japanese judge",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "YAMAGUCHI Atsushi {{!}} 裁判所 - Courts in Japan",
+          "url": "https://www.courts.go.jp/english/about/justice/Yamaguchi/index.html",
+          "access-date": "2021-06-02",
+          "website": "www.courts.go.jp",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education and Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yamaguchi was born on November 6, 1953 in Japan."
+            },
+            {
+              "text": "He attended the University of Tokyo and graduated with a degree in law in 1976.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                },
+                {
+                  "text": "law",
+                  "type": "internal",
+                  "page": "law"
+                }
+              ]
+            },
+            {
+              "text": "In 1979 he began teaching law at that university as an associate professor."
+            },
+            {
+              "text": "He was granted the status of full professor in 1992."
+            },
+            {
+              "text": "In 1994 he joined the Criminal Law Society of Japan and became its director in 2009."
+            },
+            {
+              "text": "In 2012 he became the director of the National Bar Examination Commission."
+            },
+            {
+              "text": "In 2014 Yamaguchi became Emeritus Professor at the University of Tokyo.",
+              "links": [
+                {
+                  "text": "Emeritus Professor",
+                  "type": "internal",
+                  "page": "Emeritus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On February 6, 2017, Yamaguchi was appointed to the Supreme Court of Japan."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 18 July 2019, Yamaguchi presided over the appeal against the death sentence of Kosei Homi, the perpetrator of the Yamaguchi arson and murders, in which the court upheld the death sentence imposed by the lower courts.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yamaguchi arson and murders"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 October 2020, Yamaguchi presided over the appeal against a judgement made against Japan Post for not providing the same allowance its regular employees received to its fixed-term employees.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japan Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yamaguchi's term is scheduled to end on November 5, 2023 (one day before he turns 70)."
+            },
+            {
+              "text": "This is because all members of the court have a mandatory retirement age of 70."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "NEWS",
+          "first": "KYODO",
+          "title": "Death sentence finalized for man who killed 5 neighbors in 2013",
+          "url": "https://english.kyodonews.net/news/2019/07/0aa1c0efef3d-death-sentence-to-be-finalized-for-yamaguchi-man-for-killing-5.html",
+          "access-date": "2021-07-02",
+          "website": "Kyodo News+",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "NEWS",
+          "first": "KYODO",
+          "title": "Japan top court rules against denying benefits to fixed-term workers",
+          "url": "https://english.kyodonews.net/news/2020/10/3e0df060aa02-top-court-rules-against-denying-allowances-to-fixed-term-employees.html",
+          "access-date": "2021-07-02",
+          "website": "Kyodo News+",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Supreme Court of Japan {{!}} Japanese government",
+          "url": "https://www.britannica.com/topic/Supreme-Court-of-Japan",
+          "access-date": "2021-06-02",
+          "website": "Encyclopedia Britannica",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

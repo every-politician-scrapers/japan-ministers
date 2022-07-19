@@ -1,0 +1,116 @@
+{
+  "title": "Kenji Wakamiya",
+  "pageID": 13770161,
+  "categories": [
+    "1961 births",
+    "People from Chiyoda, Tokyo",
+    "Living people",
+    "Politicians from Tokyo",
+    "Keio University alumni",
+    "Koizumi Children",
+    "Members of the House of Representatives (Japan)",
+    "Liberal Democratic Party (Japan) politicians",
+    "Government ministers of Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kenji Wakamiya (若宮 健嗣) is a Japanese politician of the Liberal Democratic Party, a member of the House of Representatives in the Diet (national legislature).",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Liberal Democratic Party",
+                  "type": "internal",
+                  "page": "Liberal Democratic Party (Japan)"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives of Japan"
+                },
+                {
+                  "text": "Diet",
+                  "type": "internal",
+                  "page": "Diet of Japan"
+                }
+              ]
+            },
+            {
+              "text": "A native of Chiyoda, Tokyo and graduate of Keio University, he was elected to the House of Representatives for the first time in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chiyoda, Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Keio University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Kenji_Wakamiya_20211004.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Kenji_Wakamiya_20211004.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Kenji_Wakamiya_20211004.jpg",
+          "caption": "Minister of Defense Kenji Wakamiya at the Pentagon Washington",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Japanese politician",
+          "template": "short description"
+        },
+        {
+          "english": "Kenji Wakamiya",
+          "kanji": "若宮 健嗣",
+          "romaji": "Wakamiya Kenji",
+          "extra": "born September 2, 1961",
+          "template": "nihongo"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "japan-politician-1960s-stub"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.senkyo.janjan.jp/diet/profile/0000/00000321.html",
+          "script-title": "ja:政治家情報 〜若宮 健嗣〜",
+          "work": "ザ･選挙",
+          "publisher": "JANJAN",
+          "accessdate": "2007-10-16",
+          "language": "Japanese",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20071203095830/http://www.senkyo.janjan.jp/diet/profile/0000/00000321.html",
+          "archivedate": "2007-12-03",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}
