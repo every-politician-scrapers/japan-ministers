@@ -126,6 +126,11 @@
           "sentences": []
         }
       ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ],
       "references": [
         {
           "url": "http://www.senkyo.janjan.jp/diet/profile/0008/00008729.html",
