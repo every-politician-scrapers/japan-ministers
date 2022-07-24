@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q111950998,Koiso Cabinet,,,,,,,,,,,,,,,,
 ,Q11600801,Second Itō Cabinet,,,,,1896-01-01,9,,,Q8010527,First Matsukata Cabinet,Q11600808,Second Matsukata Cabinet,Q8010527,First Matsukata Cabinet,Q11600808,Second Matsukata Cabinet
 ,Q8010527,First Matsukata Cabinet,,,,,1892-01-01,9,,,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet,Q583746,First Yamagata Cabinet,Q11600801,Second Itō Cabinet
 ,Q1045014,First Itō Cabinet,1885-12-22,11,,,1888-01-01,9,,,,,Q5366061,Kuroda Cabinet,,,Q5366061,Kuroda Cabinet
