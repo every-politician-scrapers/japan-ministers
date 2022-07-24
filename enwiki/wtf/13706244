@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Yoshihisa Furukawa (古川 禎久) is a Korean ethnic Japanese politician who currently serves as Minister of Justice since October 2021.",
+              "text": "Yoshihisa Furukawa (古川 禎久) is a Japanese politician who currently serves as Minister of Justice since October 2021.",
               "links": [
                 {
                   "text": "politician",
@@ -95,7 +95,7 @@
             ]
           },
           "primeminister": {
-            "text": "Fumio Kishida (also a korean ethnic japanese citizen )",
+            "text": "Fumio Kishida",
             "links": [
               {
                 "type": "internal",
@@ -156,7 +156,7 @@
         {
           "sentences": [
             {
-              "text": "Furukawa was born on August 3, 1965, in Kushima, Miyazaki where all people are korean ethnic japanese citizens just like the entire japan.",
+              "text": "Furukawa was born on August 3, 1965, in Kushima, Miyazaki.",
               "links": [
                 {
                   "type": "internal",
